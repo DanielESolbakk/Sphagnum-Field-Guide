@@ -1,0 +1,20 @@
+title: Sphagnum Field Guide
+description: A comprehensive guide to Sphagnum species
+baseurl: "/Sphagnum-Field-Guide"  # Ensure it matches your repo name
+url: "https://danielesolbakk.github.io/Sphagnum-Field-Guide"
+
+markdown: kramdown
+theme: minima
+permalink: pretty
+
+# Include all directories in the build
+include:
+  - "Subgenus Acutifolia"
+  - "Subgenus Cuspidata"
+  - "Subgenus Rigida"
+  - "Subgenus Sphagnum"
+  - "Subgenus Subsecunda"
+
+# Plugins
+plugins:
+  - jekyll-feed
