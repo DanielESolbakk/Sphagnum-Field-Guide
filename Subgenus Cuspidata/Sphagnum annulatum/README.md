@@ -31,6 +31,7 @@ Jordvannsindikator.
 
 ## Micro
 ![Stem leaf](/Subgenus%20Cuspidata/Sphagnum%20annulatum/leaf-stem.png)
+![Stem leaf](/Subgenus%20Cuspidata/Sphagnum%20annulatum/leaf-stem-2.png)
 ![Stem leaf + branch leaf](/Subgenus%20Cuspidata/Sphagnum%20annulatum/leaf-stem-branch.webp)
 ![Branch leaf](/Subgenus%20Cuspidata/Sphagnum%20annulatum/leaf-branch.png)
 ![Branch leaf cross section](/Subgenus%20Cuspidata/Sphagnum%20annulatum/leaf-branch-cross-section.png)
