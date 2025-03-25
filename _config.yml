@@ -1,0 +1,26 @@
+# Site settings
+title: Sphagnum Field Guide
+description: A comprehensive guide to Sphagnum species
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://danielesolbakk.github.io/Sphagnum-Field-Guide/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Include these directories and files in the build
+include:
+  - "Subgenus Acutifolia"
+  - "Subgenus Cuspidata"
+  - "Subgenus Rigida"
+  - "Subgenus Sphagnum"
+  - "Subgenus Subsecunda"
+
+# Exclude these files and directories from the build
+exclude:
+  - "README.md"
+  - ".github"
+
+# Plugins
+plugins:
+  - jekyll-feed
