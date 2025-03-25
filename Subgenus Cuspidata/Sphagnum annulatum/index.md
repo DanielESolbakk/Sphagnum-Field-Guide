@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sphagnum annulatum
+---
+
 # Sphagnum annulatum
 
 ## Description

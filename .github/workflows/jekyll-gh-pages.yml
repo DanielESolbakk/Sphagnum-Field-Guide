@@ -35,8 +35,11 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Disable Jekyll processing
+        run: touch ./_site/.nojekyll  
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+      
 
   # Deployment job
   deploy:
