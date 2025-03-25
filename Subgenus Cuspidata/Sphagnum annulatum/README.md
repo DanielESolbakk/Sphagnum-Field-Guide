@@ -27,11 +27,11 @@ Jordvannsindikator.
 ![Multiple shoots](/Subgenus%20Cuspidata/Sphagnum%20annulatum/shoot-multiple-2.webp)
 ![Multiple shoots](/Subgenus%20Cuspidata/Sphagnum%20annulatum/shoot-multiple-3.webp)
 ![Branch fascicle](/Subgenus%20Cuspidata/Sphagnum%20annulatum/branch-fascicle.webp)
-![Stem leaves on stem](<F148151920x1920 (1).webp>)
+![Stem leaves on stem](/Subgenus%20Cuspidata/Sphagnum%20annulatum/stem-leaves-on-stem.webp)
 
 ## Micro
 ![Stem leaf](/Subgenus%20Cuspidata/Sphagnum%20annulatum/leaf-stem.png)
-![Stem leaf + branch leaf](/Subgenus%20Cuspidata/Sphagnum%20annulatum/stem-branch-leaf.webp)
+![Stem leaf + branch leaf](/Subgenus%20Cuspidata/Sphagnum%20annulatum/leaf-stem-branch.webp)
 ![Branch leaf](/Subgenus%20Cuspidata/Sphagnum%20annulatum/leaf-branch.png)
 ![Branch leaf cross section](/Subgenus%20Cuspidata/Sphagnum%20annulatum/leaf-branch-cross-section.png)
 ![Stem cross section](/Subgenus%20Cuspidata/Sphagnum%20annulatum/stem-cross-section.png)
