@@ -22,25 +22,25 @@ Skudd/hoder kraftigere med økende fuktighet, og yttergreiner i hodet og utståe
 En sjelden gang opptrer en helt grønn fargevariant.
 
 Jordvannsindikator.
-![Bioklimatisk sone](/assets/images/annulatum/bioklimatisk-sone.webp)
-![Bioklimatisk seksjon](/assets/images/annulatum/bioklimatisk-seksjon.webp)
+![Bioklimatisk sone](bioklimatisk-sone.webp)
+![Bioklimatisk seksjon](bioklimatisk-seksjon.webp)
 
 ## Macro
-![Whole shoot](/assets/images/annulatum/shoot-side.png)
-![Side shoot](/assets/images/annulatum/shoot-top-down.png)
-![Multiple shoots](/assets/images/annulatum/shoot-multiple.png)
-![Multiple shoots](/assets/images/annulatum/shoot-multiple-2.webp)
-![Multiple shoots](/assets/images/annulatum/shoot-multiple-3.webp)
-![Branch fascicle](/assets/images/annulatum/branch-fascicle.webp)
-![Stem leaves on stem](/assets/images/annulatum/stem-leaves-on-stem.webp)
+![Whole shoot](shoot-side.png)
+![Side shoot](shoot-top-down.png)
+![Multiple shoots](shoot-multiple.png)
+![Multiple shoots](shoot-multiple-2.webp)
+![Multiple shoots](shoot-multiple-3.webp)
+![Branch fascicle](branch-fascicle.webp)
+![Stem leaves on stem](stem-leaves-on-stem.webp)
 
 ## Micro
-![Stem leaf](/assets/images/annulatum/leaf-stem.png)
-![Stem leaf](/assets/images/annulatum/leaf-stem-2.png)
-![Stem leaf + branch leaf](/assets/images/annulatum/leaf-stem-branch.webp)
-![Branch leaf](/assets/images/annulatum/leaf-branch.png)
-![Branch leaf cross section](/assets/images/annulatum/leaf-branch-cross-section.png)
-![Stem cross section](/assets/images/annulatum/stem-cross-section.png)
+![Stem leaf](leaf-stem.png)
+![Stem leaf](leaf-stem-2.png)
+![Stem leaf + branch leaf](leaf-stem-branch.webp)
+![Branch leaf](leaf-branch.png)
+![Branch leaf cross section](leaf-branch-cross-section.png)
+![Stem cross section](stem-cross-section.png)
 
 ## Lookalikes
 
@@ -48,7 +48,7 @@ S. majus
 S. jensenii
 S. balticum
 
-![Lookalikes majus(mam),annulatum(an) and jensenii(je)](/assets/images/annulatum/lookalikes-majus-annulatum-jensenii.webp)
+![Lookalikes majus(mam),annulatum(an) and jensenii(je)](lookalikes-majus-annulatum-jensenii.webp)
 
 The stem of Sphagnum annulatum (cross-section) has undifferentiated or poorly differentiated cortical cells, whereas the stems of S. majus and S. jensenii have clearly differentiated cortical cells.
 
