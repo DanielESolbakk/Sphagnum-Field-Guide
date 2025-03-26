@@ -13,33 +13,46 @@ Capitulum shiny chestnut brown.
 
 Apical bud normally obvious, usually levelled or only slightly shorter than the inner branches, and almost always always visible.
 
-yttergreiner nedoverbuede i øvre del. Greinknipper løst sammenstilte, med 2 utstående og varierende 1–2 hengegreiner noe sprikende fra stengelen.
+Fascicles loosely arranged and typically displaying two divergent and 1–2 pendent branches that separate slightly from the main stem.
 
-Greinblad taklagte, ikke-rekkestilte, not very curved. Stengelblad utstående fra stengelen.
+The divergent branches often curved downwards and are often pronouncedly thickest in middle part; the pendent branches are slender and shorter. The stem leaves stick out from the stem.
 
-Skudd/hoder kraftigere med økende fuktighet, og yttergreiner i hodet og utstående greiner lengre og mer rette. Hannplanter om høsten med nøstaktige og tydelig hvelvede hoder med korte, mørkt brune antheridiale greiner. Planter i kildepreget myr noen ganger med mørkt rødbrune hoder. 
+As moisture increases, the shoots and heads become more robust; the outer branches and projecting parts tend to elongate and straighten. Capitulum of male plantsdistinctly vaulted heads with short, dark-brown antheridial branches.
 
-En sjelden gang opptrer en helt grønn fargevariant.
+On rare occasions, a completely green color variant may occur.
 
-Jordvannsindikator.
+Acts as a reliable indicator of minerothrophic wetlands. Never found in nutrient poor bogs.
+
 ![Bioklimatisk sone](bioklimatisk-sone.webp)
+
 ![Bioklimatisk seksjon](bioklimatisk-seksjon.webp)
 
 ## Macro
 ![Whole shoot](shoot-side.png)
+
 ![Side shoot](shoot-top-down.png)
+
 ![Multiple shoots](shoot-multiple.png)
+
 ![Multiple shoots](shoot-multiple-2.webp)
+
 ![Multiple shoots](shoot-multiple-3.webp)
+
 ![Branch fascicle](branch-fascicle.webp)
+
 ![Stem leaves on stem](stem-leaves-on-stem.webp)
 
 ## Micro
 ![Stem leaf](leaf-stem.png)
+
 ![Stem leaf](leaf-stem-2.png)
+
 ![Stem leaf + branch leaf](leaf-stem-branch.webp)
+
 ![Branch leaf](leaf-branch.png)
+
 ![Branch leaf cross section](leaf-branch-cross-section.png)
+
 ![Stem cross section](stem-cross-section.png)
 
 ## Lookalikes
