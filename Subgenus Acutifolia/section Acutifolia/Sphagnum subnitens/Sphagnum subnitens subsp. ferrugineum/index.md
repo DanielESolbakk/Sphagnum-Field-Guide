@@ -1,3 +1,3 @@
 # Sphagnum-Field-Guide
 
-No fibrils in stem leaves?
+Fibrils in stem leaves only during water stress
