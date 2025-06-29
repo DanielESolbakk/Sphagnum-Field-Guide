@@ -5,19 +5,23 @@ title: Sphagnum annulatum
 
 # Sphagnum annulatum
 
+<img src="F148131920x1920.webp" alt="Sphagnum annulatum" style="max-width:100%;height:auto;" />  
+<img src="sphagnum-annulatum-foto-kjell-i-flatberg-.jpg" alt="Sphagnum annulatum photo by Kjell I. Flatberg" style="max-width:100%;height:auto;" />
+
+
 ## Description
 
 Small to medium size
 
-Capitulum shiny chestnut brown.
+Capitulum shiny. Orange-brown.
 
 Apical bud normally obvious, usually levelled or only slightly shorter than the inner branches, and almost always always visible.
 
 Fascicles loosely arranged and typically displaying two divergent and 1–2 pendent branches that separate slightly from the main stem.
 
-The divergent branches often curved downwards and are often pronouncedly thickest in middle part; the pendent branches are slender and shorter. The stem leaves stick out from the stem.
+The divergent branches often curved downwards and are often pronouncedly thickest in middle part. Sometimes it will have very small leaves at the base of the divergent branches. Notice: Many sphagnum can display smaller leaves at the base of the divergent branches. The pendent branches are slender and shorter than the divergent branches. The stem leaves stick out from the stem.
 
-As moisture increases, the shoots and heads become more robust; the outer branches and projecting parts tend to elongate and straighten. Capitulum of male plants distinctly vaulted heads with short, dark-brown antheridial branches.
+As moisture increases, the shoots and heads become more robust; the outer branches and projecting parts tend to elongate and straighten. Capitulum of male plants distinctly domed heads with short, dark-brown antheridial branches.
 
 On rare occasions, a completely green color variant may occur.
 
@@ -59,42 +63,32 @@ Acts as a reliable indicator of minerothrophic wetlands. Never found in nutrient
 
 ## Lookalikes
 
-[S. majus](../Sphagnum%20majus/index.md)  
-[S. jensenii](../Sphagnum%20jensenii/index.md)  
-[S. balticum](../Sphagnum%20balticum/index.md)  
-
 It is a parent species to S. jensenii together with S. balticum.
+
+[S. majus](../Sphagnum%20majus/index.md)  
+Hoder tydeligere hvelvede enn hos pisktorvmose, mindre skinnende brun, mindre tydelig 5-delte, uten tydelig toppknopp, og med mer innover- og sidekrøkte greiner. Utstående greiner mer uregelmessig bøyde med mer utsperrede, mindre tett taklagte, smalere og mer sidebøyde blad. Mindre basekrevende med hovedutbredelse på kalkfattig myr. grenblad med porer som är mindre och som finns både på konvex- och konkavsidan och med klorofyllceller som i tvärsnitt är något mer ex­ponerade samt stambark som är mer tydligt differen­tierad
+
+[S. jensenii](../Sphagnum%20jensenii/index.md)  
+Easiest way to differentiate the two: 
+The stem of Sphagnum annulatum (cross-section) has undifferentiated or poorly differentiated cortical cells, whereas the stems of S. majus and S. jensenii have clearly differentiated cortical cells.
+
+Compared to S. jensenii, S. annulatum is less robust, smaller, more chestnut brown (less yellow-brown) and its branches are more curved; the capitulum is more often clearly star-shaped with a distinct apical bud.  
+S. jensenii has a a messier apperance and the convex side of the basal part of the branch leaf have hyaline cells that are longer compared to those in the middle part — note: S. annulatum also has larger pores in the basal part of the branch leaf, but not as large and as many large pores as S. jensenii.
+
+[S. balticum](../Sphagnum%20balticum/index.md)  
+Hoder flatere enn hos pisktorvmose, rent brune/brungrønne, lite glinsende, med utydelig til skjult toppknopp, med tydelig innoverkrøkte kortgreiner, og mer rette yttergreiner med mer tydelig rekkestilte blad. Stengelblad kortere, buttere og mer konkave. Oftere med bare én hengegrein. Mindre basekrevende i ombrogen og kalkfattig myr, sjelden i intermediær myr, fraværende fra rikmyr. Sporemasse gul.
+växer ofta mer mineralfattigt/surt och är ofta klenare, inte så glänsande, har i genomsnitt lite kortare stamblad, färre porer (ofta 1–2(4) per cell istället för fler än 5) i hyalincellerna på konvexsidan i mitten av grenbladen och dessutom grenblad som oftast är arrangerade i fem tydliga rader.
 
 <img src="lookalikes-majus-annulatum-jensenii.webp" alt="Lookalikes majus(mam),annulatum(an) and jensenii(je)" style="max-width:100%;height:auto;" />
 
-The stem of Sphagnum annulatum (cross-section) has undifferentiated or poorly differentiated cortical cells, whereas the stems of S. majus and S. jensenii have clearly differentiated cortical cells.
+↑ mam = S. majus | an = S. annulatum | je = S. jensenii
 
-Compared to S. jensenii, S. annulatum is less robust, smaller, more chestnut brown (less yellow-brown) and its branches are more curved; the capitulum is more clearly star-shaped with a distinct apical bud.
+<img src="The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p91.jpg" alt="The Norwegian Sphagna a field colour guide - p91" style="max-width:100%;height:auto;" />
+<img src="The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p92.jpg" alt="The Norwegian Sphagna a field colour guide - p92" style="max-width:100%;height:auto;" />
+<img src="The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p93.jpg" alt="The Norwegian Sphagna a field colour guide - p93" style="max-width:100%;height:auto;" />
+<img src="The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p94.jpg" alt="The Norwegian Sphagna a field colour guide - p94" style="max-width:100%;height:auto;" />
+<img src="The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p95.jpg" alt="The Norwegian Sphagna a field colour guide - p95" style="max-width:100%;height:auto;" />
 
-Sphagnum annulatum is very similar to Sphagnum jensenii, but the latter is more robust, has straighter branches, a less distinct terminal bud, few or no round pores in the hyaline cells on the convex side of the basal part of the branch leaf (where the hyaline cells are also longer compared to those in the middle part — note: S. annulatum can have larger pores in the basal part of the branch leaf, but not as large as S. jensenii), stem leaves that are relatively broader, and stem cortex that is more clearly differentiated.
-
-![alt text](F148131920x1920.webp)   
-![alt text](sphagnum-annulatum-foto-kjell-i-flatberg-.jpg) 
-
-You can display PDFs in the browser using an HTML `<iframe>` or `<embed>` tag. Here’s how you can add both clickable links and embedded PDF previews in your markdown:
-
-```markdown
-[The Norwegian Sphagna: Field Colour Guide p.91 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p91.pdf)  
-[The Norwegian Sphagna: Field Colour Guide p.92 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p92.pdf)  
-[The Norwegian Sphagna: Field Colour Guide p.93 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p93.pdf)  
-[The Norwegian Sphagna: Field Colour Guide p.94 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p94.pdf)  
-[The Norwegian Sphagna: Field Colour Guide p.95 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p95.pdf)  
-
-
-<iframe src="The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p91.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p91.pdf">Download PDF</a>.
-</iframe>
-
-
-> Note: Embedding PDFs works if your static site generator or markdown renderer allows raw HTML. Otherwise, users can click the links to open PDFs in their browser.
-
-This will render as clickable links to the PDF files.
 
 ## **Sources: Text & Images**:
 
@@ -103,6 +97,8 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 [Artfakta.se: krusvitmossa Sphagnum annulatum H.Lindb. ex Warnst.](https://artfakta.se/taxa/2883/information?src=1&class=11)
 
 [Artsdatabanken.no: Pisktorvmose Sphagnum annulatum H.Lindb. ex Warnst](https://artsdatabanken.no/Pages/186268/)
+
+[The Norwegian Sphagna: a field colour guide](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/271981)
 
 ## *Additional Images taken by yours truely**
 
