@@ -17,51 +17,53 @@ Fascicles loosely arranged and typically displaying two divergent and 1–2 pend
 
 The divergent branches often curved downwards and are often pronouncedly thickest in middle part; the pendent branches are slender and shorter. The stem leaves stick out from the stem.
 
-As moisture increases, the shoots and heads become more robust; the outer branches and projecting parts tend to elongate and straighten. Capitulum of male plantsdistinctly vaulted heads with short, dark-brown antheridial branches.
+As moisture increases, the shoots and heads become more robust; the outer branches and projecting parts tend to elongate and straighten. Capitulum of male plants distinctly vaulted heads with short, dark-brown antheridial branches.
 
 On rare occasions, a completely green color variant may occur.
 
 Acts as a reliable indicator of minerothrophic wetlands. Never found in nutrient poor bogs.
 
-![Bioklimatisk sone](bioklimatisk-sone.webp)
+<img src="bioklimatisk-sone.webp" alt="Bioklimatisk sone" style="max-width:100%;height:auto;" />
 
-![Bioklimatisk seksjon](bioklimatisk-seksjon.webp)
+<img src="bioklimatisk-seksjon.webp" alt="Bioklimatisk seksjon" style="max-width:100%;height:auto;" />
 
 ## Macro
-![Whole shoot](shoot-side.png)
 
-![Side shoot](shoot-top-down.png)
+<img src="shoot-side.png" alt="Whole shoot" style="max-width:100%;height:auto;" />
 
-![Multiple shoots](shoot-multiple.png)
+<img src="shoot-top-down.png" alt="Side shoot" style="max-width:100%;height:auto;" />
 
-![Multiple shoots](shoot-multiple-2.webp)
+<img src="shoot-multiple.png" alt="Multiple shoots" style="max-width:100%;height:auto;" />
 
-![Multiple shoots](shoot-multiple-3.webp)
+<img src="shoot-multiple-2.webp" alt="Multiple shoots" style="max-width:100%;height:auto;" />
 
-![Branch fascicle](branch-fascicle.webp)
+<img src="shoot-multiple-3.webp" alt="Multiple shoots" style="max-width:100%;height:auto;" />
 
-![Stem leaves on stem](stem-leaves-on-stem.webp)
+<img src="branch-fascicle.webp" alt="Branch fascicle" style="max-width:100%;height:auto;" />
+
+<img src="stem-leaves-on-stem.webp" alt="Stem leaves on stem" style="max-width:100%;height:auto;" />
 
 ## Micro
-![Stem leaf](leaf-stem.png)
 
-![Stem leaf](leaf-stem-2.png)
+<img src="leaf-stem.png" alt="Stem leaf" style="max-width:100%;height:auto;" />
 
-![Stem leaf + branch leaf](leaf-stem-branch.webp)
+<img src="leaf-stem-2.png" alt="Stem leaf" style="max-width:100%;height:auto;" />
 
-![Branch leaf](leaf-branch.png)
+<img src="leaf-stem-branch.webp" alt="Stem leaf + branch leaf" style="max-width:100%;height:auto;" />
 
-![Branch leaf cross section](leaf-branch-cross-section.png)
+<img src="leaf-branch.png" alt="Branch leaf" style="max-width:100%;height:auto;" />
 
-![Stem cross section](stem-cross-section.png)
+<img src="leaf-branch-cross-section.png" alt="Branch leaf cross section" style="max-width:100%;height:auto;" />
+
+<img src="stem-cross-section.png" alt="Stem cross section" style="max-width:100%;height:auto;" />
 
 ## Lookalikes
 
-S. majus
-S. jensenii
+S. majus  
+S. jensenii  
 S. balticum
 
-![Lookalikes majus(mam),annulatum(an) and jensenii(je)](lookalikes-majus-annulatum-jensenii.webp)
+<img src="lookalikes-majus-annulatum-jensenii.webp" alt="Lookalikes majus(mam),annulatum(an) and jensenii(je)" style="max-width:100%;height:auto;" />
 
 Sphagnum jensenii is mainly differentiated from S. annulatum and S. balticum by its longer spreading branches, branch leaves and stem leaves.
 
@@ -82,39 +84,40 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 [Artsdatabanken.no: Pisktorvmose Sphagnum annulatum H.Lindb. ex Warnst](https://artsdatabanken.no/Pages/186268/)
 
 **Additional Private Images**
-![](20230617_105027.jpg)
-![](20230617_105037.jpg)
-![](20230617_141916.jpg)
-![](20230617_141919.jpg)
-![](20230617_142526.jpg)
-![](20230618_110417.jpg)
-![](20230618_110420.jpg)
-![](20230618_110425.jpg)
-![](0230805_180650.jpg)
-![](20230805_180655.jpg)
-![](20230805_181123.jpg)
-![](20230805_181128.jpg)
-![](20230805_181133.jpg)
-![](20230805_181148.jpg)
-![](20230805_190256.jpg)
-![](20230807_130222.jpg)
-![](0230807_130228.jpg)
-![](20230807_131718.jpg)
-![](20230807_132247.jpg)
-![](20230807_133727.jpg)
-![](20230807_133902.jpg)
-![](20230807_134106.jpg)
-![](20230807_134721.jpg)
-![](20230807_134820.jpg)
-![](20230807_174512.jpg)
-![](20240817_175410.jpg)
-![](0240817_175424.jpg)
-![](20240817_175558.jpg)
-![](20240817_175615.jpg)
-![](20240818_143706.jpg)
-![](20240818_143829.jpg)
-![](20240818_143951.jpg)
-![](20240818_144117.jpg)
-![](20240818_144349.jpg)
-![](20240818_144505.jpg)
-![](20250329_122918.jpg)
+
+<img src="20230617_105027.jpg" style="max-width:100%;height:auto;" />
+<img src="20230617_105037.jpg" style="max-width:100%;height:auto;" />
+<img src="20230617_141916.jpg" style="max-width:100%;height:auto;" />
+<img src="20230617_141919.jpg" style="max-width:100%;height:auto;" />
+<img src="20230617_142526.jpg" style="max-width:100%;height:auto;" />
+<img src="20230618_110417.jpg" style="max-width:100%;height:auto;" />
+<img src="20230618_110420.jpg" style="max-width:100%;height:auto;" />
+<img src="20230618_110425.jpg" style="max-width:100%;height:auto;" />
+<img src="0230805_180650.jpg" style="max-width:100%;height:auto;" />
+<img src="20230805_180655.jpg" style="max-width:100%;height:auto;" />
+<img src="20230805_181123.jpg" style="max-width:100%;height:auto;" />
+<img src="20230805_181128.jpg" style="max-width:100%;height:auto;" />
+<img src="20230805_181133.jpg" style="max-width:100%;height:auto;" />
+<img src="20230805_181148.jpg" style="max-width:100%;height:auto;" />
+<img src="20230805_190256.jpg" style="max-width:100%;height:auto;" />
+<img src="20230807_130222.jpg" style="max-width:100%;height:auto;" />
+<img src="0230807_130228.jpg" style="max-width:100%;height:auto;" />
+<img src="20230807_131718.jpg" style="max-width:100%;height:auto;" />
+<img src="20230807_132247.jpg" style="max-width:100%;height:auto;" />
+<img src="20230807_133727.jpg" style="max-width:100%;height:auto;" />
+<img src="20230807_133902.jpg" style="max-width:100%;height:auto;" />
+<img src="20230807_134106.jpg" style="max-width:100%;height:auto;" />
+<img src="20230807_134721.jpg" style="max-width:100%;height:auto;" />
+<img src="20230807_134820.jpg" style="max-width:100%;height:auto;" />
+<img src="20230807_174512.jpg" style="max-width:100%;height:auto;" />
+<img src="20240817_175410.jpg" style="max-width:100%;height:auto;" />
+<img src="0240817_175424.jpg" style="max-width:100%;height:auto;" />
+<img src="20240817_175558.jpg" style="max-width:100%;height:auto;" />
+<img src="20240817_175615.jpg" style="max-width:100%;height:auto;" />
+<img src="20240818_143706.jpg" style="max-width:100%;height:auto;" />
+<img src="20240818_143829.jpg" style="max-width:100%;height:auto;" />
+<img src="20240818_143951.jpg" style="max-width:100%;height:auto;" />
+<img src="20240818_144117.jpg" style="max-width:100%;height:auto;" />
+<img src="20240818_144349.jpg" style="max-width:100%;height:auto;" />
+<img src="20240818_144505.jpg" style="max-width:100%;height:auto;" />
+<img src="20250329_122918.jpg" style="max-width:100%;height:auto;" />
