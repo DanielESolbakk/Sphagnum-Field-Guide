@@ -59,23 +59,44 @@ Acts as a reliable indicator of minerothrophic wetlands. Never found in nutrient
 
 ## Lookalikes
 
-S. majus  
-S. jensenii  
-S. balticum
+[S. majus](../Sphagnum%20majus/index.md)  
+[S. jensenii](../Sphagnum%20jensenii/index.md)  
+[S. balticum](../Sphagnum%20balticum/index.md)  
+
+It is a parent species to S. jensenii together with S. balticum.
 
 <img src="lookalikes-majus-annulatum-jensenii.webp" alt="Lookalikes majus(mam),annulatum(an) and jensenii(je)" style="max-width:100%;height:auto;" />
 
-Sphagnum jensenii is mainly differentiated from S. annulatum and S. balticum by its longer spreading branches, branch leaves and stem leaves.
-
 The stem of Sphagnum annulatum (cross-section) has undifferentiated or poorly differentiated cortical cells, whereas the stems of S. majus and S. jensenii have clearly differentiated cortical cells.
 
-Compared to S. jensenii, S. annulatum is less robust, smaller, more chestnut brown (less yellow-brown) and its branches are slightly curved; the capitulum is more clearly star-shaped with a distinct apical bud.
+Compared to S. jensenii, S. annulatum is less robust, smaller, more chestnut brown (less yellow-brown) and its branches are more curved; the capitulum is more clearly star-shaped with a distinct apical bud.
 
-Sphagnum annulatum is very similar to Sphagnum jensenii, but the latter is more robust, has straighter branches, a less distinct terminal bud, few or no round pores in the hyaline cells on the convex side of the basal part of the branch leaf (where the hyaline cells are also longer compared to those in the middle part — note: S. annulatum can have larger pores in the basal part of the branch leaf, but reportedly "not longer"), stem leaves that are relatively broader, and stem cortex that is more clearly differentiated.
+Sphagnum annulatum is very similar to Sphagnum jensenii, but the latter is more robust, has straighter branches, a less distinct terminal bud, few or no round pores in the hyaline cells on the convex side of the basal part of the branch leaf (where the hyaline cells are also longer compared to those in the middle part — note: S. annulatum can have larger pores in the basal part of the branch leaf, but not as large as S. jensenii), stem leaves that are relatively broader, and stem cortex that is more clearly differentiated.
 
-Parent species to S. jensenii together with S. balticum.
+![alt text](F148131920x1920.webp)   
+![alt text](sphagnum-annulatum-foto-kjell-i-flatberg-.jpg) 
 
-**Sources: Text & Images**:
+You can display PDFs in the browser using an HTML `<iframe>` or `<embed>` tag. Here’s how you can add both clickable links and embedded PDF previews in your markdown:
+
+```markdown
+[The Norwegian Sphagna: Field Colour Guide p.91 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p91.pdf)  
+[The Norwegian Sphagna: Field Colour Guide p.92 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p92.pdf)  
+[The Norwegian Sphagna: Field Colour Guide p.93 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p93.pdf)  
+[The Norwegian Sphagna: Field Colour Guide p.94 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p94.pdf)  
+[The Norwegian Sphagna: Field Colour Guide p.95 (PDF)](The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p95.pdf)  
+
+
+<iframe src="The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p91.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="The%20Norwegian%20Sphagna%20a%20field%20colour%20guide%20-%20p91.pdf">Download PDF</a>.
+</iframe>
+
+
+> Note: Embedding PDFs works if your static site generator or markdown renderer allows raw HTML. Otherwise, users can click the links to open PDFs in their browser.
+
+This will render as clickable links to the PDF files.
+
+## **Sources: Text & Images**:
 
 Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD (2020)
 
@@ -83,7 +104,7 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 
 [Artsdatabanken.no: Pisktorvmose Sphagnum annulatum H.Lindb. ex Warnst](https://artsdatabanken.no/Pages/186268/)
 
-**Additional Private Images**
+## *Additional Images taken by yours truely**
 
 <img src="20230617_105027.jpg" style="max-width:100%;height:auto;" />
 <img src="20230617_105037.jpg" style="max-width:100%;height:auto;" />
