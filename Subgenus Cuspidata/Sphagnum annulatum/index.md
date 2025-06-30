@@ -10,7 +10,6 @@ title: Sphagnum annulatum
 
 
 ## Description
-
 Small to medium size
 
 Capitulum shiny. Orange-brown.
@@ -27,11 +26,14 @@ On rare occasions, a completely green color variant may occur.
 
 Acts as a reliable indicator of minerothrophic wetlands. Never found in nutrient poor bogs.
 
+## Habitat
+Sphagnum annulatum is predominantly a mire spe-cies. But in subalpine and low alpine areas in Norway it is also sometimes found in spring and snow-bed vegetation on very shallow peat. In mires it is an exclusively minerotrophic species. It prefers sloping fens, but is sometimes also found in topogenous fens. Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; it occurs mainly in intermediate fens, more occasionally in transitional poor fens and rarely in rich fens. High-level carpets and lawns are the typical habitats on the "hummock-mud-bottom" vegetational gradient. More occasionally it is found in wetter carpets, and rarely at low hummock level. The surrounding vegetation always has a clear mire margin character.
+
 <img src="bioklimatisk-sone.webp" alt="Bioklimatisk sone" style="max-width:100%;height:auto;" />
 
 <img src="bioklimatisk-seksjon.webp" alt="Bioklimatisk seksjon" style="max-width:100%;height:auto;" />
 
-## Macro
+## Macro Pics
 
 <img src="shoot-side.png" alt="Whole shoot" style="max-width:100%;height:auto;" />
 
@@ -47,7 +49,7 @@ Acts as a reliable indicator of minerothrophic wetlands. Never found in nutrient
 
 <img src="stem-leaves-on-stem.webp" alt="Stem leaves on stem" style="max-width:100%;height:auto;" />
 
-## Micro
+## Micro Pics
 
 <img src="leaf-stem.png" alt="Stem leaf" style="max-width:100%;height:auto;" />
 
@@ -70,10 +72,12 @@ Hoder tydeligere hvelvede enn hos pisktorvmose, mindre skinnende brun, mindre ty
 
 [S. jensenii](../Sphagnum%20jensenii/index.md)  
 Easiest way to differentiate the two: 
-The stem of Sphagnum annulatum (cross-section) has undifferentiated or poorly differentiated cortical cells, whereas the stems of S. majus and S. jensenii have clearly differentiated cortical cells.
+**The stem of Sphagnum annulatum (cross-section) has undifferentiated or poorly differentiated cortical cells, whereas the stems of S. majus and S. jensenii have clearly differentiated cortical cells.**
 
 Compared to S. jensenii, S. annulatum is less robust, smaller, more chestnut brown (less yellow-brown) and its branches are more curved; the capitulum is more often clearly star-shaped with a distinct apical bud.  
 S. jensenii has a a messier apperance and the convex side of the basal part of the branch leaf have hyaline cells that are longer compared to those in the middle part — note: S. annulatum also has larger pores in the basal part of the branch leaf, but not as large and as many large pores as S. jensenii.
+
+Compared with S. jensenii, S. annulatum prefers somewhat richer, less wet and more distinctly soligenous mire sites with a clearer marginal character.
 
 [S. balticum](../Sphagnum%20balticum/index.md)  
 Hoder flatere enn hos pisktorvmose, rent brune/brungrønne, lite glinsende, med utydelig til skjult toppknopp, med tydelig innoverkrøkte kortgreiner, og mer rette yttergreiner med mer tydelig rekkestilte blad. Stengelblad kortere, buttere og mer konkave. Oftere med bare én hengegrein. Mindre basekrevende i ombrogen og kalkfattig myr, sjelden i intermediær myr, fraværende fra rikmyr. Sporemasse gul.
@@ -100,7 +104,7 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 
 [The Norwegian Sphagna: a field colour guide](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/271981)
 
-## *Additional Images taken by yours truely**
+## **Additional Images taken by yours truely**
 
 <img src="20230617_105027.jpg" style="max-width:100%;height:auto;" />
 <img src="20230617_105037.jpg" style="max-width:100%;height:auto;" />
