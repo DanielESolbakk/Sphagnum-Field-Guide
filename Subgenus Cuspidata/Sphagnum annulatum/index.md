@@ -14,7 +14,7 @@ Small to medium size
 
 Capitulum shiny. Orange-brown.
 
-Apical bud normally obvious, usually levelled or only slightly shorter than the inner branches, and almost always always visible.
+Apical bud normally obvious, usually levelled or only slightly shorter than the inner branches, and almost always visible.
 
 Fascicles loosely arranged and typically displaying two divergent and 1–2 pendent branches that separate slightly from the main stem.
 
@@ -24,10 +24,11 @@ As moisture increases, the shoots and heads become more robust; the outer branch
 
 On rare occasions, a completely green color variant may occur.
 
-Acts as a reliable indicator of minerothrophic wetlands. Never found in nutrient poor bogs.
+Acts as a reliable indicator of minerothrophic wetlands. Never found in ombrotrophic bogs.
 
 ## Habitat
-Sphagnum annulatum is predominantly a mire spe-cies. But in subalpine and low alpine areas in Norway it is also sometimes found in spring and snow-bed vegetation on very shallow peat. In mires it is an exclusively minerotrophic species. It prefers sloping fens, but is sometimes also found in topogenous fens. Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; it occurs mainly in intermediate fens, more occasionally in transitional poor fens and rarely in rich fens. High-level carpets and lawns are the typical habitats on the "hummock-mud-bottom" vegetational gradient. More occasionally it is found in wetter carpets, and rarely at low hummock level. The surrounding vegetation always has a clear mire margin character.
+Sphagnum annulatum is predominantly a mire species. But in subalpine and low alpine areas in Norway it is also sometimes found in spring and snow-bed vegetation on very shallow peat. In mires, it is an exclusively minerotrophic species. It prefers sloping fens, but is sometimes also found in topogenous fens.  
+Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; it occurs mainly in intermediate fens, more occasionally in transitional poor fens and rarely in rich fens. High-level carpets and lawns are the typical habitats on the "hummock-mud-bottom" vegetational gradient. More occasionally it is found in wetter carpets, and rarely at low hummock level. The surrounding vegetation always has a clear mire margin character.
 
 <img src="bioklimatisk-sone.webp" alt="Bioklimatisk sone" style="max-width:100%;height:auto;" />
 
@@ -71,15 +72,20 @@ It is a parent species to S. jensenii together with S. balticum.
 Hoder tydeligere hvelvede enn hos pisktorvmose, mindre skinnende brun, mindre tydelig 5-delte, uten tydelig toppknopp, og med mer innover- og sidekrøkte greiner. Utstående greiner mer uregelmessig bøyde med mer utsperrede, mindre tett taklagte, smalere og mer sidebøyde blad. Mindre basekrevende med hovedutbredelse på kalkfattig myr. grenblad med porer som är mindre och som finns både på konvex- och konkavsidan och med klorofyllceller som i tvärsnitt är något mer ex­ponerade samt stambark som är mer tydligt differen­tierad
 
 [S. jensenii](../Sphagnum%20jensenii/index.md)  
-Easiest way to differentiate the two: 
-**The stem of Sphagnum annulatum (cross-section) has undifferentiated or poorly differentiated cortical cells, whereas the stems of S. majus and S. jensenii have clearly differentiated cortical cells.**
+Easiest way to differentiate the two:  
+
+1. **It will usually be sufficient to examine the relative length of the hyalocysts of the divergent branch leaves: if they are markedly longer in the basal than middle part of the leaf, the plant is likely to be S. iensenii and not S. annulatum, which has hyalocysts of rather uniform size.**  
+
+2. **The stem of Sphagnum annulatum (cross-section) has undifferentiated or poorly differentiated cortical cells, whereas the stems of S. majus and S. jensenii have clearly differentiated cortical cells.**
 
 Compared to S. jensenii, S. annulatum is less robust, smaller, more chestnut brown (less yellow-brown) and its branches are more curved; the capitulum is more often clearly star-shaped with a distinct apical bud.  
 S. jensenii has a a messier apperance and the convex side of the basal part of the branch leaf have hyaline cells that are longer compared to those in the middle part — note: S. annulatum also has larger pores in the basal part of the branch leaf, but not as large and as many large pores as S. jensenii.
 
-Compared with S. jensenii, S. annulatum prefers somewhat richer, less wet and more distinctly soligenous mire sites with a clearer marginal character.
+Compared with S. jensenii, S. annulatum prefers somewhat richer, less wet and more distinctly soligenous mire sites with a clearer margin character.
 
-[S. balticum](../Sphagnum%20balticum/index.md)  
+[S. balticum](../Sphagnum%20balticum/index.md)
+Sphagnum annulatum and S. balticum can also be mistaken in the field. They differ in their habitat preferences, but sometimes grow together in the transitional zone between mesotrophic soligenous fens and oligotrophic topogenous fens; the plants are then often similar in size and colour. But the distinct terminal bud and the more arcuato-decurved and fairly acutely tapering outer branches of the capitulum distinguish the plants of S. annulatum from S. balticum. Microscopically, they present no problems.
+
 Hoder flatere enn hos pisktorvmose, rent brune/brungrønne, lite glinsende, med utydelig til skjult toppknopp, med tydelig innoverkrøkte kortgreiner, og mer rette yttergreiner med mer tydelig rekkestilte blad. Stengelblad kortere, buttere og mer konkave. Oftere med bare én hengegrein. Mindre basekrevende i ombrogen og kalkfattig myr, sjelden i intermediær myr, fraværende fra rikmyr. Sporemasse gul.
 växer ofta mer mineralfattigt/surt och är ofta klenare, inte så glänsande, har i genomsnitt lite kortare stamblad, färre porer (ofta 1–2(4) per cell istället för fler än 5) i hyalincellerna på konvexsidan i mitten av grenbladen och dessutom grenblad som oftast är arrangerade i fem tydliga rader.
 
@@ -108,8 +114,6 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 
 <img src="20230617_105027.jpg" style="max-width:100%;height:auto;" />
 <img src="20230617_105037.jpg" style="max-width:100%;height:auto;" />
-<img src="20230617_141916.jpg" style="max-width:100%;height:auto;" />
-<img src="20230617_141919.jpg" style="max-width:100%;height:auto;" />
 <img src="20230617_142526.jpg" style="max-width:100%;height:auto;" />
 <img src="20230618_110417.jpg" style="max-width:100%;height:auto;" />
 <img src="20230618_110420.jpg" style="max-width:100%;height:auto;" />
