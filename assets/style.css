@@ -22,16 +22,18 @@ nav a {
 }
 img {
     max-width: 1200px;
+    width: auto;
     height: auto;
 }
-@media (max-width: 384px) {
-    body {
-        padding: 12px 8px; /* Less padding on mobile */
+
+@media (max-width: 600px) {
+    img {
+        max-width: 100vw; /* Never exceed viewport width */
+        width: auto;      /* Don't stretch small images */
+        height: auto;
     }
-    nav ul,
-    nav li,
-    nav a {
-        padding: 8px; /* Optional: reduce nav padding too */
+    body {
+        padding: 12px 8px;
     }
     nav li {
         display: block;
