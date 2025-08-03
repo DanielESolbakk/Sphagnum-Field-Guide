@@ -36,6 +36,10 @@ img {
         width: auto;
         height: auto;
     }
+        .content {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
     body {
         padding: 12px 8px;
         font-size: 1.1em;
