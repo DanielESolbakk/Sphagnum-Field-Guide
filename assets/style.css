@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -12,7 +16,7 @@ nav ul {
 }
 nav li {
     display: inline-block;
-    margin: 0 24px; /* Adjust spacing as needed */
+    margin: 0 24px;
     padding: 0;
 }
 nav a {
@@ -28,12 +32,17 @@ img {
 
 @media (max-width: 600px) {
     img {
-        max-width: 100vw; /* Never exceed viewport width */
-        width: auto;      /* Don't stretch small images */
+        max-width: 100%; /* Fixes zoom and padding issues */
+        width: auto;
         height: auto;
     }
     body {
         padding: 12px 8px;
+        font-size: 1.1em;
+    }
+        nav a {
+        padding: 12px 0;
+        display: block;
     }
     nav li {
         display: block;
