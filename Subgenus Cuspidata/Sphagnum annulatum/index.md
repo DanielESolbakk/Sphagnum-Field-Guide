@@ -6,7 +6,8 @@ title: Sphagnum annulatum
 # Sphagnum annulatum
 
 <img src="F148131920x1920.webp" alt="Sphagnum annulatum" />  
-<img src="sphagnum-annulatum-foto-kjell-i-flatberg-.jpg" alt="Sphagnum annulatum photo by Kjell I. Flatberg" />
+
+<img src="sphagnum-annulatum-foto-kjell-i-flatberg-.jpg" alt="Sphagnum annulatum photo by Kjell I. Flatberg" />  
 
 ## Description
 Small to medium size
@@ -84,11 +85,17 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 ## **Additional Images taken by yours truely**
 
 <img src="20230617_105027.jpg" />  
+
 <img src="20230617_105037.jpg" />  
+
 <img src="20230618_110417.jpg" />  
+
 <img src="20230618_110425.jpg" />  
+
 <img src="20230805_180655.jpg" />  
+
 <img src="20230805_181123.jpg" />  
+
 <img src="20250720_163124.jpg" />  
 ↑ Can be found with  brown mosses (high nutrient demand)
 
@@ -96,36 +103,64 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 ↑ Can be reddish-brown
 
 <img src="20230805_181128.jpg" />  
+
 <img src="20230805_181133.jpg" />  
+
 <img src="20230805_181148.jpg" />  
+
 <img src="20230805_190256.jpg" />  
+
 <img src="20230807_130222.jpg" />  
+
 <img src="20230807_130228.jpg" />  
+
 <img src="20230807_174512.jpg" />  
+
 <img src="20240817_175424.jpg" />  
+
 <img src="20240817_175558.jpg" />  
+
 <img src="20240817_175615.jpg" />  
+
 <img src="20240818_143706.jpg" />  
+
 <img src="20250621_151145.jpg" />  
+
 <img src="20250621_151152.jpg" />  
+
 <img src="20250621_151201.jpg" />  
+
 <img src="20250621_151405.jpg" />  
 ↑ Can be pretty sizable. Often S. lindbergii (middle left, and middle bottom of the image) is one of the largest European sphagnum.  
 
 <img src="20250621_151409.jpg" />  
+
 <img src="20250621_151416.jpg" />   
+
 <img src="20250621_151421.jpg" />  
+
 <img src="20250712_144259.jpg" />  
+
 <img src="20250712_144305.jpg" />   
+
 <img src="20250712_144318.jpg" />  
+
 <img src="20250712_145117.jpg" />  
+
 <img src="20250712_145142.jpg" />  
+
 <img src="20250712_150356.jpg" />  
+
 <img src="20250714_103356.jpg" />  
+
 <img src="20250714_103409.jpg" />  
+
 <img src="20250714_103423.jpg" />  
-<img src="20250714_103449.jpg" />  
+
+<img src="20250714_103449.jpg" /> 
+
 <img src="20230807_131718.jpg" />  
+
 <img src="20230807_132247.jpg" />  
 ↑ Can have pores in one row instead of two as well  
 
@@ -144,7 +179,8 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 <img src="20230807_134106.jpg" />  
 ↑ More likely than not a good bit longer than wide stem leaf  
 
-<img src="20230807_134721.jpg" />  
+<img src="20230807_134721.jpg" /> 
+
 <img src="20230807_134820.jpg" />  
 ↑ Stem cortex not developed  
 
