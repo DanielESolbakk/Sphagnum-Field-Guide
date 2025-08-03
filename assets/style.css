@@ -23,3 +23,13 @@ img {
     width: 100%;
     height: auto;
 }
+@media (max-width: 600px) {
+    body {
+        padding: 12px 8px; /* Less padding on mobile */
+    }
+    nav ul,
+    nav li,
+    nav a {
+        padding: 8px; /* Optional: reduce nav padding too */
+    }
+}
