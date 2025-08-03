@@ -83,86 +83,85 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 
 ## **Additional Images taken by yours truely**
 
-<img src="20230617_105027.jpg" />
-<img src="20230617_105037.jpg" />
-<img src="20230618_110417.jpg" />
-<img src="20230618_110425.jpg" />
-<img src="20230805_180655.jpg" />
-<img src="20230805_181123.jpg" />
-<img src="20250720_163124.jpg" />
+<img src="20230617_105027.jpg" />  
+<img src="20230617_105037.jpg" />  
+<img src="20230618_110417.jpg" />  
+<img src="20230618_110425.jpg" />  
+<img src="20230805_180655.jpg" />  
+<img src="20230805_181123.jpg" />  
+<img src="20250720_163124.jpg" />  
 ↑ Can be found with  brown mosses (high nutrient demand)
 
-<img src="20250720_163045.jpg" />
+<img src="20250720_163045.jpg" />  
 ↑ Can be reddish-brown
 
-<img src="20230805_181128.jpg" />
-<img src="20230805_181133.jpg" />
-<img src="20230805_181148.jpg" />
-<img src="20230805_190256.jpg" />
-<img src="20230807_130222.jpg" />
-<img src="20230807_130228.jpg" />
-<img src="20230807_174512.jpg" />
-<img src="20240817_175424.jpg" />
-<img src="20240817_175558.jpg" />
-<img src="20240817_175615.jpg" />
-<img src="20240818_143706.jpg" />
-<img src="20250621_151145.jpg" />
-<img src="20250621_151152.jpg" />
-<img src="20250621_151201.jpg" />
-<img src="20250621_151405.jpg" />
-↑ Can be pretty sizable. Often S. lindbergii (middle left, and middle bottom of the image) is one of the largest European sphagnum.
+<img src="20230805_181128.jpg" />  
+<img src="20230805_181133.jpg" />  
+<img src="20230805_181148.jpg" />  
+<img src="20230805_190256.jpg" />  
+<img src="20230807_130222.jpg" />  
+<img src="20230807_130228.jpg" />  
+<img src="20230807_174512.jpg" />  
+<img src="20240817_175424.jpg" />  
+<img src="20240817_175558.jpg" />  
+<img src="20240817_175615.jpg" />  
+<img src="20240818_143706.jpg" />  
+<img src="20250621_151145.jpg" />  
+<img src="20250621_151152.jpg" />  
+<img src="20250621_151201.jpg" />  
+<img src="20250621_151405.jpg" />  
+↑ Can be pretty sizable. Often S. lindbergii (middle left, and middle bottom of the image) is one of the largest European sphagnum.  
 
-<img src="20250621_151409.jpg" />
-<img src="20250621_151416.jpg" />
-<img src="20250621_151421.jpg" />
-<img src="20250712_144259.jpg" />
-<img src="20250712_144305.jpg" />
-<img src="20250712_144318.jpg" />
-<img src="20250712_145117.jpg" />
-<img src="20250712_145142.jpg" />
-<img src="20250712_150356.jpg" />
-<img src="20250714_103356.jpg" />
-<img src="20250714_103409.jpg" />
-<img src="20250714_103423.jpg" />
-<img src="20250714_103449.jpg" />
-<img src="20230807_131718.jpg" />
-<img src="20230807_132247.jpg" />
-↑ Can have pores in one row instead of two as well
+<img src="20250621_151409.jpg" />  
+<img src="20250621_151416.jpg" />   
+<img src="20250621_151421.jpg" />  
+<img src="20250712_144259.jpg" />  
+<img src="20250712_144305.jpg" />   
+<img src="20250712_144318.jpg" />  
+<img src="20250712_145117.jpg" />  
+<img src="20250712_145142.jpg" />  
+<img src="20250712_150356.jpg" />  
+<img src="20250714_103356.jpg" />  
+<img src="20250714_103409.jpg" />  
+<img src="20250714_103423.jpg" />  
+<img src="20250714_103449.jpg" />  
+<img src="20230807_131718.jpg" />  
+<img src="20230807_132247.jpg" />  
+↑ Can have pores in one row instead of two as well  
 
-<img src="20230807_133727.jpg" />
-↑ More commonly pores in two rows instead of one
+<img src="20230807_133727.jpg" />  
+↑ More commonly pores in two rows instead of one  
 
-<img src="20240818_144505.jpg" />
-↑ Often has tiny ringed pores in the tip of the stem leaves
+<img src="20240818_144505.jpg" />  
+↑ Often has tiny ringed pores in the tip of the stem leaves  
 
-<img src="20240818_143951.jpg" />
-↑ Common pore structure on concave side of branch leaf
+<img src="20240818_143951.jpg" />  
+↑ Common pore structure on concave side of branch leaf  
 
-<img src="20240818_144117.jpg" />
-↑ Can sometimes have big and weirdly (not displayed in this image) shaped pores on the bottom, and sometimes throughout the branch leaves
+<img src="20240818_144117.jpg" />  
+↑ Can sometimes have big and weirdly (not displayed in this image) shaped pores on the bottom, and sometimes throughout the branch leaves  
 
-<img src="20230807_134106.jpg" />
-↑ More likely than not a good bit longer than wide stem leaf
+<img src="20230807_134106.jpg" />  
+↑ More likely than not a good bit longer than wide stem leaf  
 
-<img src="20230807_134721.jpg" />
-<img src="20230807_134820.jpg" />
-↑ Stem cortex not developed
+<img src="20230807_134721.jpg" />  
+<img src="20230807_134820.jpg" />  
+↑ Stem cortex not developed  
 
-<img src="20250724_145330.jpg" />
-↑ Stem cortex slightly (1-2 rows) developed
+<img src="20250724_145330.jpg" />  
+↑ Stem cortex slightly (1-2 rows) developed  
 
-<img src="20230807_133902.jpg" />  
+<img src="20230807_133902.jpg" />    
 ↑ Common branch leaf shape 
 
-<img src="20240818_144349.jpg" />
-↑ Branch leaf cells of similar size from the bottom to the middle of the leaf
+<img src="20240818_144349.jpg" />  
+↑ Branch leaf cells of similar size from the bottom to the middle of the leaf  
 
-<img src="20250731_133339.jpg" />
-↑ Branch leaf cells of similar size from the bottom to the middle of the leaf
+<img src="20250731_133339.jpg" />  
+↑ Branch leaf cells of similar size from the bottom to the middle of the leaf  
 
-<img src="20250731_133533.jpg" />
-↑ Branch leaf cells of similar size from the bottom to the middle of the leaf
+<img src="20250731_133533.jpg" />  
+↑ Branch leaf cells of similar size from the bottom to the middle of the leaf  
 
-<img src="20250731_140041.jpg" />
-↑ Branch leaf cells of similar size from the bottom to the middle of the leaf
-
+<img src="20250731_140041.jpg" />  
+↑ Branch leaf cells of similar size from the bottom to the middle of the leaf  
