@@ -33,16 +33,6 @@ img {
     transition: opacity 0.3s ease;
 }
 
-/* Progressive image loading */
-img[loading="lazy"] {
-    opacity: 0;
-}
-
-img.loaded,
-img[loading="lazy"].loaded {
-    opacity: 1;
-}
-
 @media (max-width: 600px) {
     img {
         max-width: 100%; /* Fixes zoom and padding issues */

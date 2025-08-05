@@ -38,37 +38,37 @@ Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; i
 
 <img src="20250621_153347.jpg" />
 
-<img src="bioklimatisk-sone.webp" alt="Bioklimatisk sone" />
+<img src="bioklimatisk-sone.webp" loading="lazy" alt="Bioklimatisk sone" />
 
-<img src="bioklimatisk-seksjon.webp" alt="Bioklimatisk seksjon" />
+<img src="bioklimatisk-seksjon.webp" loading="lazy" alt="Bioklimatisk seksjon" />
 
 ## Macro Pics
 
-<img src="shoot-side.png" alt="Whole shoot" />
+<img src="shoot-side.png" loading="lazy" alt="Whole shoot" />
 
-<img src="shoot-top-down.png" alt="Side shoot" />
+<img src="shoot-top-down.png" loading="lazy" alt="Side shoot" />
 
-<img src="shoot-multiple.png" alt="Multiple shoots" />
+<img src="shoot-multiple.png" loading="lazy" alt="Multiple shoots" />
 
-<img src="shoot-multiple-2.webp" alt="Multiple shoots" />
+<img src="shoot-multiple-2.webp" loading="lazy" alt="Multiple shoots" />
 
-<img src="shoot-multiple-3.webp" alt="Multiple shoots" />
+<img src="shoot-multiple-3.webp" loading="lazy" alt="Multiple shoots" />
 
-<img src="branch-fascicle.webp" alt="Branch fascicle" />
+<img src="branch-fascicle.webp" loading="lazy" alt="Branch fascicle" />
 
-<img src="stem-leaves-on-stem.webp" alt="Stem leaves on stem" />
+<img src="stem-leaves-on-stem.webp" loading="lazy" alt="Stem leaves on stem" />
 
 ## Micro Pics
 
-<img src="leaf-stem.png" alt="Stem leaf" />
+<img src="leaf-stem.png" loading="lazy" alt="Stem leaf" />
 
-<img src="leaf-stem-2.png" alt="Stem leaf" />
+<img src="leaf-stem-2.png" loading="lazy" alt="Stem leaf" />
 
-<img src="leaf-stem-branch.webp" alt="Stem leaf + branch leaf" />
+<img src="leaf-stem-branch.webp" loading="lazy" alt="Stem leaf + branch leaf" />
 
-<img src="leaf-branch-cross-section.png" alt="Branch leaf cross section" />
+<img src="leaf-branch-cross-section.png" loading="lazy" alt="Branch leaf cross section" />
 
-<img src="stem-cross-section.png" alt="Stem cross section" />
+<img src="stem-cross-section.png" loading="lazy" alt="Stem cross section" />
 
 {% include lookalikes/lookalikes-complex-annulatum.html %}
 
@@ -84,120 +84,120 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 
 ## **Additional Images taken by yours truely**
 
-<img src="20230617_105027.jpg" />  
+<img src="20230617_105027.jpg" loading="lazy" />  
 
-<img src="20230617_105037.jpg" />  
+<img src="20230617_105037.jpg" loading="lazy" />  
 
-<img src="20230618_110417.jpg" />  
+<img src="20230618_110417.jpg" loading="lazy" />  
 
-<img src="20230618_110425.jpg" />  
+<img src="20230618_110425.jpg" loading="lazy" />  
 
-<img src="20230805_180655.jpg" />  
+<img src="20230805_180655.jpg" loading="lazy" />  
 
-<img src="20230805_181123.jpg" />  
+<img src="20230805_181123.jpg" loading="lazy" />  
 
-<img src="20250720_163124.jpg" />  
+<img src="20250720_163124.jpg" loading="lazy" />  
 ↑ Can be found with  brown mosses (high nutrient demand)
 
-<img src="20250720_163045.jpg" />  
+<img src="20250720_163045.jpg" loading="lazy" />  
 ↑ Can be reddish-brown
 
-<img src="20230805_181128.jpg" />  
+<img src="20230805_181128.jpg" loading="lazy" />  
 
-<img src="20230805_181133.jpg" />  
+<img src="20230805_181133.jpg" loading="lazy" />  
 
-<img src="20230805_181148.jpg" />  
+<img src="20230805_181148.jpg" loading="lazy" />  
 
-<img src="20230805_190256.jpg" />  
+<img src="20230805_190256.jpg" loading="lazy" />  
 
-<img src="20230807_130222.jpg" />  
+<img src="20230807_130222.jpg" loading="lazy" />  
 
-<img src="20230807_130228.jpg" />  
+<img src="20230807_130228.jpg" loading="lazy" />  
 
-<img src="20230807_174512.jpg" />  
+<img src="20230807_174512.jpg" loading="lazy" />  
 
-<img src="20240817_175424.jpg" />  
+<img src="20240817_175424.jpg" loading="lazy" />  
 
-<img src="20240817_175558.jpg" />  
+<img src="20240817_175558.jpg" loading="lazy" />  
 
-<img src="20240817_175615.jpg" />  
+<img src="20240817_175615.jpg" loading="lazy" />  
 
-<img src="20240818_143706.jpg" />  
+<img src="20240818_143706.jpg" loading="lazy" />  
 
-<img src="20250621_151145.jpg" />  
+<img src="20250621_151145.jpg" loading="lazy" />  
 
-<img src="20250621_151152.jpg" />  
+<img src="20250621_151152.jpg" loading="lazy" />  
 
-<img src="20250621_151201.jpg" />  
+<img src="20250621_151201.jpg" loading="lazy" />  
 
-<img src="20250621_151405.jpg" />  
+<img src="20250621_151405.jpg" loading="lazy" />  
 ↑ Can be pretty sizable. Often S. lindbergii (middle left, and middle bottom of the image) is one of the largest European sphagnum.  
 
-<img src="20250621_151409.jpg" />  
+<img src="20250621_151409.jpg" loading="lazy" />  
 
-<img src="20250621_151416.jpg" />   
+<img src="20250621_151416.jpg" loading="lazy" />   
 
-<img src="20250621_151421.jpg" />  
+<img src="20250621_151421.jpg" loading="lazy" />  
 
-<img src="20250712_144259.jpg" />  
+<img src="20250712_144259.jpg" loading="lazy" />  
 
-<img src="20250712_144305.jpg" />   
+<img src="20250712_144305.jpg" loading="lazy" />   
 
-<img src="20250712_144318.jpg" />  
+<img src="20250712_144318.jpg" loading="lazy" />  
 
-<img src="20250712_145117.jpg" />  
+<img src="20250712_145117.jpg" loading="lazy" />  
 
-<img src="20250712_145142.jpg" />  
+<img src="20250712_145142.jpg" loading="lazy" />  
 
-<img src="20250712_150356.jpg" />  
+<img src="20250712_150356.jpg" loading="lazy" />  
 
-<img src="20250714_103356.jpg" />  
+<img src="20250714_103356.jpg" loading="lazy" />  
 
-<img src="20250714_103409.jpg" />  
+<img src="20250714_103409.jpg" loading="lazy" />  
 
-<img src="20250714_103423.jpg" />  
+<img src="20250714_103423.jpg" loading="lazy" />  
 
-<img src="20250714_103449.jpg" /> 
+<img src="20250714_103449.jpg" loading="lazy" /> 
 
-<img src="20230807_131718.jpg" />  
+<img src="20230807_131718.jpg" loading="lazy" />  
 
-<img src="20230807_132247.jpg" />  
+<img src="20230807_132247.jpg" loading="lazy" />  
 ↑ Can have pores in one row instead of two as well  
 
-<img src="20230807_133727.jpg" />  
+<img src="20230807_133727.jpg" loading="lazy" />  
 ↑ More commonly pores in two rows instead of one  
 
-<img src="20240818_144505.jpg" />  
+<img src="20240818_144505.jpg" loading="lazy" />  
 ↑ Often has tiny ringed pores in the tip of the stem leaves  
 
-<img src="20240818_143951.jpg" />  
+<img src="20240818_143951.jpg" loading="lazy" />  
 ↑ Common pore structure on concave side of branch leaf  
 
-<img src="20240818_144117.jpg" />  
+<img src="20240818_144117.jpg" loading="lazy" />  
 ↑ Can sometimes have big and weirdly (not displayed in this image) shaped pores on the bottom, and sometimes throughout the branch leaves  
 
-<img src="20230807_134106.jpg" />  
+<img src="20230807_134106.jpg" loading="lazy" />  
 ↑ More likely than not a good bit longer than wide stem leaf  
 
-<img src="20230807_134721.jpg" /> 
+<img src="20230807_134721.jpg" loading="lazy" /> 
 
-<img src="20230807_134820.jpg" />  
+<img src="20230807_134820.jpg" loading="lazy" />  
 ↑ Stem cortex not developed  
 
-<img src="20250724_145330.jpg" />  
+<img src="20250724_145330.jpg" loading="lazy" />  
 ↑ Stem cortex slightly (1-2 rows) developed  
 
-<img src="20230807_133902.jpg" />    
+<img src="20230807_133902.jpg" loading="lazy" />    
 ↑ Common branch leaf shape 
 
-<img src="20240818_144349.jpg" />  
+<img src="20240818_144349.jpg" loading="lazy" />  
 ↑ Branch leaf cells of similar size from the bottom to the middle of the leaf  
 
-<img src="20250731_133339.jpg" />  
+<img src="20250731_133339.jpg" loading="lazy" />  
 ↑ Branch leaf cells of similar size from the bottom to the middle of the leaf  
 
-<img src="20250731_133533.jpg" />  
+<img src="20250731_133533.jpg" loading="lazy" />  
 ↑ Branch leaf cells of similar size from the bottom to the middle of the leaf  
 
-<img src="20250731_140041.jpg" />  
+<img src="20250731_140041.jpg" loading="lazy" />  
 ↑ Branch leaf cells of similar size from the bottom to the middle of the leaf  
