@@ -54,7 +54,11 @@ Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; i
 
 <img src="shoot-multiple-3.webp" loading="lazy" alt="Multiple shoots" />
 
+<img src="Sphagnum annulatum in Tuulijoki mires Kittilä Michael Lüth.png" loading="lazy" alt="Sphagnum annulatum in Tuulijoki mires by Michael Lüth" />
+
 <img src="branch-fascicle.webp" loading="lazy" alt="Branch fascicle" />
+
+<img src="20250807_135500.jpg" loading="lazy" alt="Branch fascicle detail" />
 
 <img src="stem-leaves-on-stem.webp" loading="lazy" alt="Stem leaves on stem" />
 
@@ -136,9 +140,12 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 <img src="20250621_151409.jpg" loading="lazy" />  
 
 <img src="20250621_151416.jpg" loading="lazy" />   
-↑ Can be found in wide mats
 
 <img src="20250621_151421.jpg" loading="lazy" />  
+↑ Can be found in wide mats
+
+<img src="sphagnum_annulatum1.jpg" loading="lazy" alt="Sphagnum annulatum" />    
+↑ Can be found quite "drowned cat" looking  
 
 <img src="20250712_144259.jpg" loading="lazy" />  
 
@@ -158,8 +165,6 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 <img src="20250714_103409.jpg" loading="lazy" />  
 
 <img src="20250714_103423.jpg" loading="lazy" />  
-
-<img src="20250714_103449.jpg" loading="lazy" /> 
 
 <img src="20230807_131718.jpg" loading="lazy" />  
 
