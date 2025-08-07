@@ -136,6 +136,7 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 <img src="20250621_151409.jpg" loading="lazy" />  
 
 <img src="20250621_151416.jpg" loading="lazy" />   
+↑ Can be found in wide mats
 
 <img src="20250621_151421.jpg" loading="lazy" />  
 
@@ -152,6 +153,7 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 <img src="20250712_150356.jpg" loading="lazy" />  
 
 <img src="20250714_103356.jpg" loading="lazy" />  
+↑ Can be medium sized and slightly wild looking
 
 <img src="20250714_103409.jpg" loading="lazy" />  
 
