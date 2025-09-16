@@ -1,227 +1,224 @@
-{
-  "glossary": {
-    "abaxial": "surface of leaf away from the axis = convex surface",
-    "adaxial": "surface of leaf nearest axis = concave surface",
-    "anterior": "(of leaf) adaxial surface",
-    "antheridium": "stalked oval organ producing male gametes",
-    "antheridial branch": "branch bearing antheridia",
-    "archegonium": "Female reproductive organ: a bottle-shaped structure containing the oosphere (female gamete) which, when fertilized, produces the sporophyte",
-    "archegonial branch": "branch bearing archegonia",
-    "arcuato decurved": "arched backwards",
-    "areolation": "pattern of cells as seen in surface view",
-    "autoecious": "with antheridial and archegonial branches on separate stems of the same plant",
-    "blanket bog": "ombrotrophic and acid peat deposit developed over level or gently undulating mineral ground and covering it almost completely",
-    "bog": "ombrotrophic peat deposit, ie one in which the sole source of water supply is from precipitation: bogs are poor in plant nutrients and their waters are distinctly acid in reaction",
-    "border": "(of a leaf) margin consisting of a row or rows of prosenchymatous cells",
-    "bract": "modified leaf surrounding antheridium or archegonium",
-    "capitulum": "Small head; in Sphagnum, a compact cluster of branches at the top of the gametophyte stem",
-    "chlorocyst": "photosynthetic cell in leaf",
-    "clavate": "club-shaped: narrowed towards the base and broader near the apex",
-    "comb fibril": "lamella extending into the lumen of a branch leaf hyaline cell (in Europe only present in S. imbricatum complex (Sphagnum austinii and Sphagnum affine))",
-    "commissure": "The contact line between a chlorocyst and a hyalocyst",
-    "commissural pores": "pores lying along the commissures",
-    "concave surface": "adaxial surface (of a leaf)",
-    "concolorous": "of the same colour",
-    "convex surface": "abaxial surface (of a leaf)",
-    "convolute": "sheathing: rolled together",
-    "coronate": "having corona: with a cup-shaped ring of leaves",
-    "cortex": "outer layer or layers of stem or branch, consisting of comparatively large, thin-walled cells",
-    "crest": "lamella",
-    "cucullate": "(general) spoon shaped; oval and concave; (of leaves) hooded at the apex by incurving of the margins",
-    "dentate": "toothed",
-    "dimorphic": "having 2 forms",
-    "dioecious": "with antheridia and archegonia on separate plants",
-    "efibrose": "lacking fibrils (also efibrillose)",
-    "eporose": "lacking pores",
-    "erect": "with the distal end pointing towards apex of axis (used of branches or leaves)",
-    "erose": "irregularly notched",
-    "eroded": "worn away",
-    "eutrophic": "with abundant mineral ions and hence of high nutrient status; usually with a pH reaction which is ± neutral or slightly basic",
-    "evanescent": "disappearing abruptly or quickly",
-    "exposure": "(of photosynthetic leaf cells) reaching the surface of the leaf and not occluded by adjacent hyaline cells",
-    "fascicle": "tuft or group of branches originating at the same point on a stem",
-    "fibrils": "Thickenings in the form of thin or thickened fibres, of the walls of hyalocysts or cortical cells. The fibrils are sometimes thickened inwards and then form partial partitions oriented, in general, transversely",
-    "fibrillose": "bearing fibrils",
-    "fibrose": "fibrillose",
-    "flaccid": "flabby; lying loosely and lacking stiffness",
-    "fruit": "spore capsule and stalk",
-    "geotrophic": "fed by groundwater",
-    "green cells": "photosynthetic cells of leaves, ie those containing chloroplasts",
-    "hanging branches": "those branches within a fascicle which hang downwards from the point of insertion and are ± appressed to the stem",
-    "hyaline cells": "large empty cells found between the network of photosynthetic cells in leaves",
-    "immersed": "(of photosynthetic cells) enclosed by adjacent hyaline cells so that they do not reach the leaf surface",
-    "imperforate": "without perforations; lacking pores or resorption gaps",
-    "incumbent": "lying upon (of leaves lying closely along the axis and not spreading)",
-    "inflated": "(of hyaline cells seen in cross-section) having a somewhat rounded or swollen shape",
-    "internal cylinder": "central part of stem or branch consisting of, at least in the outermost layers, smaller, thicker-walled cells than the surrounding cortex",
-    "isophyllous": "with stem and branch leaves of similar shape",
-    "lacerate": "deeply divided into an irregular number of segments; appearing torn",
-    "lamella": "elongated projection from the cell wall projecting into the lumen of a hyaline cell (seen only in S. imbricatum, in Europe)",
-    "lamellate": "having lamellae",
-    "lanceolate": "lance-shaped: tapering to a ± long point",
-    "leucocyst": "hyaline cell",
-    "lingulate": "tongue-shaped",
-    "lumen": "cell cavity",
-    "lyrate": "lyre-shaped: waisted",
-    "membrane gap": "hole formed by resorption of part of hyaline cell wall: usually rather irregular in shape but sometimes more regular and resembling a large pore",
-    "mesotrophic": "with intermediate concentrations of mineral ions, and hence of moderate nutrient status: usually weakly acid",
-    "minerotrophic": "supplied by groundwater draining from mineral soil or rock",
-    "mire": "actively growing peatland",
-    "monoecious": "with archegonia and antheridia on the same plant, often on the same stem",
-    "oligotrophic": "with few mineral ions and so of low nutrient status: usually distinctly acid",
-    "ombrotrophic": "with water and mineral ions supplied solely by atmospheric precipitation",
-    "ovate": "egg-shaped: widest near the base and narrowed above",
-    "pallid": "pale",
-    "papilla": "small elongated projection from the internal surface of the cell wall of a hyaline cell (plural papillae)",
-    "papillose": "Rough, with one or more small protuberances (papillae)",
-    "parenchymatous cells": "± hexagonal cells with end walls perpendicular to main axis",
-    "pectinate": "comb-like",
-    "pendent branches": "hanging branches",
-    "perichaetium": "female 'inflorescence': structure formed around the archegonium by modified leaves",
-    "perichaetial bracts": "modified leaves surrounding the archegonium and forming the perichaetium",
-    "photosynthetic cells": "cells containing chloroplasts",
-    "plano convex": "(of hyaline cells seen in cross-section) having one outer wall almost flat and the other inflated or convex",
-    "pore": "A complete opening through the walls of hyaline or cortical cells; observable with intense staining. Some cells have only a single pore while others are strongly covered. Cellular porosity is often used to identify certain species or subgenera. For example, most of the species in the subgenus Subsecunda have hyaline cells with numerous pores aligned in rows like pearls on a necklace.",
-    "porose": "having pores",
-    "posterior": "(of a leaf) abaxial surface",
-    "prosenchymatous": "elongated tapering cells lying parallel to the axis: not differentiated into hyaline and green cells",
-    "protonema": "filamentous (sometimes thalloid) structure produced by germinating spore and giving rise to gametophyte (new stems), (plural protonemata)",
-    "pseudolacuna": "triple pore formed at the junction of 3 hyaline cells (one basal and 2 upper lateral hyaline cell angles)",
-    "pseudopore": "Is said of branch leaves that are strongly curved back, but not folded at a more or less straight angle.",
-    "quinquefarious": "in 5 ranks",
-    "raised bog": "domed ombrotrophic peat deposit",
-    "recurved": "(of leaves) with the upper part curved back away from the axis",
-    "reflexed": "(of leaves) bent backwards so that the apex points away from the axis apex",
-    "resorption": "erosion or breakdown of parts of cell walls",
-    "resorption furrow": "channel along the margin of a leaf, formed by erosion of side walls of the outermost cells",
-    "resorption gap": "hole formed by erosion of part of hyaline cell wall (usually less regular in shape than a pore)",
-    "retort cell": "large cell of stem or, more usually, branch cortex in which the distal end is perforated by a single pore; it is also often narrowed and turned outwards at the distal end",
-    "ringed pore": "pore surrounded by a ring of thickened cell wall",
-    "rostrum": "a beak (hence rostrate; with a beak)",
-    "scabrid": "roughened: rather like a cheese grater",
-    "septate": "having septa",
-    "septum": "partition completely separating a hyalocyst, generally in the longitudinal direction (plural septa)",
-    "shadow pore": "round or oval thinning of the cell wall of a hyaline cell (only revealed by heavy staining)",
-    "spatulate": "paddle-shaped: narrowest at the base and wider above",
-    "spreading branches": "those branches of a fascicle which are, at least near their insertion, pointing upwards or horizontal: longer branches appear arched",
-    "squarrose": "In reference to branch leaves abruptly bent or jointed nearly 90° backward at their distal end (see Sphagnum squarrosum, Sphagnum strictum)",
-    "subacute": "acute but not sharply so",
-    "suberect": "(of branches or leaves) with distal end pointing ± towards apex of axis",
-    "subsquarrose": "(of leaves) with the upper part bent back abruptly, but not to quite the same extent as in squarrose examples",
-    "terete": "rounded in cross-section: without ridges or angles",
-    "tetrahedral": "shaped like a 3-sided pyramid",
-    "triradiate": "having 3 limbs diverging from a central point",
-    "truncate": "cut off abruptly at the distal end",
-    "tumid": "swollen",
-    "ventral": "(of leaf) concave or adaxial surface",
-    "vitta": "a central band of cells in a leaf which are of different shape, size or colour from those on either side",
-    "acumen": "A long, tapering point ending an organ",
-    "acuminate": "Ending with a long point",
-    "acute": "Refers to a leaf whose apex ends with a terminal angle less than 90 degrees",
-    "alternation of generations": "Alternation between the haploid gametophytic phase (1n) and the diploid sporophytic phase (2n) during the life cycle of sexually reproducing organisms",
-    "antherozoid": "The motile male gamete",
-    "apex": "Point, tip or summit of an organ",
-    "apical bud": "Structure located in the centre of the capitulum which gives rise to all the organs; may be: obvious, visible but not obvious, prominent, conical or hidden among developing branches",
-    "apiculate": "Ending in an abrupt point",
-    "appressed": "Closely pressed or applied to the stem",
-    "ascending": "Pointing or oriented obliquely upwards",
-    "attenuate": "Of or pertaining to the tip of an organ which tapers; narrowly tapering",
-    "axil": "The angle between the leaf and the bearing axis",
-    "axillary": "Located in the axil of an organ, usually a leaf",
-    "biotope": "Living environment describing the microtopographic habitat in which ecological conditions (temperature, water table level, chemical properties, etc.) are homogenous",
-    "branch": "Is said of leaves inserted around the spreading or pendent branches. Traits of the leaves of the spreading branches are used to differentiate some species",
-    "branched": "Bearing branches",
-    "calyptra": "In Sphagnum, the calyptra is membranous and formed of remnants of the archegonia. It is minuscule and looks like a thin transparent layer overlying the operculum",
-    "capillarity": "Phenomenon referring to the ability of water to rise naturally despite the force of gravity. In Sphagnum, this phenomenon is very important to hummock-forming species",
-    "capsule": "Swollen part, topping the sporophyte, which contains the spores",
-    "carpet": "Flat peatland biotope, much wetter than a lawn, where the surface of the bryophyte vegetation resides at -5 to +5 cm relative to the water level",
-    "chlorophyll": "Green pigment found in the chloroplast, important for the absorption of light energy during photosynthesis",
-    "chlorophyllose": "Referring or belonging to chlorophyll; specifically, a plant characterised by the presence of chlorophyll and by this fact coloured",
-    "chlorophyllous cells": "See chlorocyst",
-    "complex": "Grouping of very similar or related species",
-    "contiguous": "In Sphagnum, refers to two adjacent cells with touching walls",
-    "cortical": "Relating to the cortex",
-    "cushion": "In Sphagnum, a small rounded tuft of individual mosses more or less erect and tightly clustered, all radiating",
-    "cuspidate": "Ending abruptly in a strong, rigid point",
-    "denticulate": "Finely dentate or with very little teeth",
-    "dichotomous": "Branched in two; branching regularly into two branches; bifurcated once or more",
-    "distal": "Far from the base or attachment point (as opposed to proximal)",
-    "falcate": "Curved like the blade of a sickle or a scythe",
-    "fasciculated branches": "Each fascicle normally consists of both spreading (divergent) and pendent (appressed to the stem) branches",
-    "fen": "Synonym for minerotrophic peatland",
-    "fimbriate": "Fringed; having edges cut into a fringe",
-    "flark": "Swedish word for an elongated, wet muddy hollow or pool in patterned peatlands",
-    "flora": "All the plants in a given area; also a volume describing each of these plants and used for their identification",
-    "foot": "In Sphagnum, the swollen base of the sporophyte embedded in the apex of the pseudopodium; allows nutrient exchange from the gametophyte to the sporophyte",
-    "free": "On the walls of hyalocysts of Sphagnum leaves, is said of a pore not touching the walls of the contiguous chlorocysts",
-    "free pores": "Pores in the centre of the hyalocyst and which, by this fact, does not come into contact with the walls of the adjacent chlorocysts",
-    "frequency": "The degree of uniformity with which individuals of a species are distributed over a surface",
-    "gametophyte": "Dominant sexual plant in mosses (therefore also in Sphagnum); leafy green plant generally haploid producing gametes by mitosis. The Sphagnum that we see in nature and which persist are gametophytes. The sporophyte has a very short life span on the leafy gametophyte.",
-    "habitat": "The natural environment where an organism grows",
-    "herbarium": "Permanent collection of plants that have been dried, identified, labelled and mounted on cardboard (vascular plants) or in envelopes (mosses including Sphagnum); also the location where they are stored (examples: the Louis-Marie Herbarium of Université Laval, the Marie-Victorin Herbarium of the Université de Montréal).",
-    "hollow": "A peatland biotope corresponding to a hollow or a depression alternating with hummocks",
-    "hummock": "Peatland biotope rising 20 to 50 cm above the water table or a hollow and often characterized by the presence of shrubs",
-    "hyaline": "Without colour, transparent",
-    "hyaline cell": "See hyalocyst",
-    "imbricate": "Of or pertaining to branch leaves firmly inserted into each other and overlapping on the branch; overlapping each other like roof tiles",
-    "inner branches": "Short, often erect branches in the centre of the capitulum",
-    "interfibrillose": "Space between two fibrils",
-    "involute": "Rolled inwards",
-    "label": "Small data sheet glued to a herbarium sheet; the label presents various information regarding the specimen",
-    "lagg": "Swedish word for the transition zone around the perimeter of bogs, where the combination of water from percolation and runoff from the dome and adjacent land creates a particular hydroperiodicity and chemistry, which permits the establishment of a unique plant community, often a swamp or fen type",
-    "lawn": "Peatland biotope consisting of a uniform and flat surface of vegetation, usually 5 to 20 cm above the water table",
-    "lenticular": "Lens-shaped; circular and doubly convex",
-    "margin": "EEge of the leaf blade. May be even or entire, erose or fimbriate at the apex of the leaf and more or less enlarged near the base. Also, edge of a pond, a marsh, etc.",
-    "membrane gap": "Wall lacking, similar to a pore, but much more extensive, contour less defined",
-    "minerotrophic": "Substrate or water enriched in mineral elements due to the runoff of an upstream basin or contact with mineral soil",
-    "minerotrophic peatland": "Type of peatland receiving a variable amount of water, from both precipitation and from catchment drainage water loaded with minerals that enrich the wet soil. Fens have a large diversity of plants, generally dominated by a herbaceous cover, notably sedges, as well as bryophytes (in particular brown mosses of the Amblystegiaceae family), shrubs and trees. Synonym: fen",
-    "mucronate": "Of or pertaining to a leaf tip ending in an abrupt point",
-    "muskeg": "North American term frequently used to designate a peatland. The word, of Algonquin origin",
-    "nomenclature": "Method for naming plants based on international rules",
-    "obovate": "Egg-shaped, with the broader part on the side of the apex",
-    "ombrotrophic": "Fed by water from precipitation",
-    "ombrotrophic peatland": "Type of peatland fed only by water from atmospheric precipitation, which also provides the only source of nutrients, apart from those from the decomposition of the plants that form the peatland substrate. Synonym: bog",
-    "operculum": "A small lid closing the orifice of a capsule; opens explosively to release the spores in Sphagnum",
-    "outer branches": "The outermost and longest branches of the capitulum",
-    "palustrine": "Of marshes",
-    "papilla": "Bump or small protuberance giving a grainy appearance to the cell wall",
-    "peatland": "Generic term for all types of peat-covered land",
-    "pectinations": "Thick projections clustered in a comb shape; pectinations are present on the cell walls of the branch and stem leaves",
-    "pendent": "Apex pointed down the stem, when referring to stem leaves; also applies to delicate branches appressed to the stem",
-    "plicate": "Forming many longitudinal folds",
-    "proximal": "Near the base or attachment point (opposed to distal)",
-    "pseudopodium": "Organ which is elongated or which elongates, functions as the seta and bears the sporophyte in Sphagnum",
-    "related": "Of or pertaining to species very closely related phylogenetically, or with traits or origins in common",
-    "resorbed": "See resorption",
-    "resorption furrow": "Small canal or small gutter located on the periphery (at the margin) of the branch leaves",
-    "retort cell": "Bottle-shaped cell ending with a neck that more or less curves outwards and with a pore at its end",
-    "rhizoid": "Filament, similar to a root, which has anchoring (to the substrate) and absorption functions in certain nonvascular plants",
-    "rhombic": "More or less roughly diamond-shaped",
-    "rhomboidal": "Longer than rhombic and oblong",
-    "ringed": "Encircled by a thickened border; ring-shaped or forming a ring",
-    "scleroderm": "In the stem, the scleroderma is the area underlying the cortex, consisting of layers of thick-walled cells. Synonymous: sclerodermis",
-    "section": "Final taxonomic level of the genus Sphagnum before species. Only the subgenus Acutifolia is subdivided into sections: Acutifolia, Insulosa, Polyclada. Formely the term was used to designate the subgenus",
-    "secund": "Said of leaves all turned or pointing in the same direction",
-    "seta": "In Sphagnum, the very short organ which bears the capsule; located between the capsule and the foot",
-    "soligenous": "Is said of a peatland under the influence of a water supply external to the ecosystem that percolates or flows slowly through the peat surface",
-    "sp": "Abbreviation for species, from the Latin species",
-    "sphagnologist": "A person who is interested in the study of Sphagnum mosses",
-    "sphagnology": "Botanical science particularly interested in the study of Sphagnum mosses",
-    "spiraled": "Spiral-shaped, when referring to fibrils present on the walls of hyaline or cortical cells",
-    "spore": "Microscopic corpuscule, most often spherical, almost always unicellular, produced in the capsule by reduction division and which produces the protonema upon germination",
-    "sporophyte": "In Sphagnum (and mosses in general): plant which produces the spores, itself resulting from the fertilization of an oosphere, and which remains attached to the gametophyte and remains partially dependant thereof; typically, the sporophyte consists of a foot, a seta and a capsule",
-    "spp": "Abbreviation for several species belonging to the same genus",
-    "spreading": "Spreading or diverging from each other. In Sphagnum mosses, refers to branches inserted approximately 90° to the stem",
-    "star shaped capitulum": "Capitulum with external branches and median branches forming a 5 pointed star when viewed from above",
-    "stem": "Belonging to or arising from the stem; said of leaves inserted directly on the stem. Stem leaf traits are used to discriminate between species: shape, length/width, apex, porosity, presence or absence of fibrils",
-    "subsecund": "Almost secund",
-    "systematics": "Science focussing on the diversity of species and the relationships between them",
-    "taxon": "Each of the classification levels of plants: kingdom, division, class, order, family, genus, species",
-    "taxonomy": "Botanical discipline focussing on the classification, nomenclature and identification of plants",
-    "thallose": "Development stage in nonvascular plants resembling a thallus",
-    "thermokarst": "Periglacial phenomenon characterized by land subsidence due to the melting of permafrost",
-    "till": "Unlayered deposit of gravel, boulders, sand and finer materials transported by a glacier",
-    "topogenous": "Of a peatland forming in a topographic depression, with part of its water supply provided by the surrounding regional water table",
-    "window pores": "Pores resulting from extensive cell wall resorption; much larger than other pores"
-  }
-}
+"abaxial": "surface of leaf away from the axis = convex surface"
+"adaxial": "surface of leaf nearest axis = concave surface"
+"anterior": "(of leaf) adaxial surface"
+"antheridium": "stalked oval organ producing male gametes"
+"antheridial branch": "branch bearing antheridia"
+"archegonium": "Female reproductive organ: a bottle-shaped structure containing the oosphere (female gamete) which, when fertilized, produces the sporophyte"
+"archegonial branch": "branch bearing archegonia"
+"arcuato decurved": "arched backwards"
+"areolation": "pattern of cells as seen in surface view"
+"autoecious": "with antheridial and archegonial branches on separate stems of the same plant"
+"blanket bog": "ombrotrophic and acid peat deposit developed over level or gently undulating mineral ground and covering it almost completely"
+"bog": "ombrotrophic peat deposit, ie one in which the sole source of water supply is from precipitation: bogs are poor in plant nutrients and their waters are distinctly acid in reaction"
+"border": "(of a leaf) margin consisting of a row or rows of prosenchymatous cells"
+"bract": "modified leaf surrounding antheridium or archegonium"
+"capitulum": "Small head; in Sphagnum, a compact cluster of branches at the top of the gametophyte stem"
+"chlorocyst": "photosynthetic cell in leaf"
+"clavate": "club-shaped: narrowed towards the base and broader near the apex"
+"comb fibril": "lamella extending into the lumen of a branch leaf hyaline cell (in Europe only present in S. imbricatum complex (Sphagnum austinii and Sphagnum affine))"
+"commissure": "The contact line between a chlorocyst and a hyalocyst"
+"commissural pores": "pores lying along the commissures"
+"concave surface": "adaxial surface (of a leaf)"
+"concolorous": "of the same colour"
+"convex surface": "abaxial surface (of a leaf)"
+"convolute": "sheathing: rolled together"
+"coronate": "having corona: with a cup-shaped ring of leaves"
+"cortex": "outer layer or layers of stem or branch, consisting of comparatively large, thin-walled cells"
+"crest": "lamella"
+"cucullate": "(general) spoon shaped; oval and concave; (of leaves) hooded at the apex by incurving of the margins"
+"dentate": "toothed"
+"dimorphic": "having 2 forms"
+"dioecious": "with antheridia and archegonia on separate plants"
+"efibrose": "lacking fibrils (also efibrillose)"
+"eporose": "lacking pores"
+"erect": "with the distal end pointing towards apex of axis (used of branches or leaves)"
+"erose": "irregularly notched"
+"eroded": "worn away"
+"eutrophic": "with abundant mineral ions and hence of high nutrient status; usually with a pH reaction which is ± neutral or slightly basic"
+"evanescent": "disappearing abruptly or quickly"
+"exposure": "(of photosynthetic leaf cells) reaching the surface of the leaf and not occluded by adjacent hyaline cells"
+"fascicle": "tuft or group of branches originating at the same point on a stem"
+"fibrils": "Thickenings in the form of thin or thickened fibres, of the walls of hyalocysts or cortical cells; the fibrils are sometimes thickened inwards and then form partial partitions oriented, in general, transversely"
+"fibrillose": "bearing fibrils"
+"fibrose": "fibrillose"
+"flaccid": "flabby; lying loosely and lacking stiffness"
+"fruit": "spore capsule and stalk"
+"geotrophic": "fed by groundwater"
+"green cells": "photosynthetic cells of leaves, ie those containing chloroplasts"
+"hanging branches": "those branches within a fascicle which hang downwards from the point of insertion and are ± appressed to the stem"
+"hyaline cells": "large empty cells found between the network of photosynthetic cells in leaves"
+"hyalocyst(s)": "Large, empty, transparent cells, in leaves of Sphagnum and a few other bryophytes. Synonym: hyaline cell."
+"immersed": "(of photosynthetic cells) enclosed by adjacent hyaline cells so that they do not reach the leaf surface"
+"imperforate": "without perforations; lacking pores or resorption gaps"
+"incumbent": "lying upon (of leaves lying closely along the axis and not spreading)"
+"inflated": "(of hyaline cells seen in cross-section) having a somewhat rounded or swollen shape"
+"internal cylinder": "central part of stem or branch consisting of, at least in the outermost layers, smaller, thicker-walled cells than the surrounding cortex"
+"isophyllous": "with stem and branch leaves of similar shape"
+"lacerate": "deeply divided into an irregular number of segments; appearing torn"
+"lamella": "elongated projection from the cell wall projecting into the lumen of a hyaline cell (seen only in S. imbricatum, in Europe)"
+"lamellate": "having lamellae"
+"lanceolate": "lance-shaped: tapering to a ± long point"
+"leucocyst": "hyaline cell"
+"lingulate": "tongue-shaped"
+"lumen": "cell cavity"
+"lyrate": "lyre-shaped: waisted"
+"membrane gap": "hole formed by resorption of part of hyaline cell wall: usually rather irregular in shape but sometimes more regular and resembling a large pore"
+"mesotrophic": "with intermediate concentrations of mineral ions, and hence of moderate nutrient status: usually weakly acid"
+"minerotrophic": "supplied by groundwater draining from mineral soil or rock"
+"mire": "actively growing peatland"
+"monoecious": "with archegonia and antheridia on the same plant, often on the same stem"
+"oligotrophic": "with few mineral ions and so of low nutrient status: usually distinctly acid"
+"ombrotrophic": "with water and mineral ions supplied solely by atmospheric precipitation"
+"ovate": "egg-shaped: widest near the base and narrowed above"
+"pallid": "pale"
+"papilla": "small elongated projection from the internal surface of the cell wall of a hyaline cell (plural papillae)"
+"papillose": "Rough, with one or more small protuberances (papillae)"
+"parenchymatous cells": "± hexagonal cells with end walls perpendicular to main axis"
+"pectinate": "comb-like"
+"pendent branches": "hanging branches"
+"perichaetium": "female 'inflorescence': structure formed around the archegonium by modified leaves"
+"perichaetial bracts": "modified leaves surrounding the archegonium and forming the perichaetium"
+"photosynthetic cells": "cells containing chloroplasts"
+"plano convex": "(of hyaline cells seen in cross-section) having one outer wall almost flat and the other inflated or convex"
+"pore": "A complete opening through the walls of hyaline or cortical cells; observable with intense staining. Some cells have only a single pore while others are strongly covered. Cellular porosity is often used to identify certain species or subgenera. For example, most of the species in the subgenus Subsecunda have hyaline cells with numerous pores aligned in rows like pearls on a necklace."
+"porose": "having pores"
+"posterior": "(of a leaf) abaxial surface"
+"prosenchymatous": "elongated tapering cells lying parallel to the axis: not differentiated into hyaline and green cells"
+"protonema": "filamentous (sometimes thalloid) structure produced by germinating spore and giving rise to gametophyte (new stems), (plural protonemata)"
+"pseudolacuna": "triple pore formed at the junction of 3 hyaline cells (one basal and 2 upper lateral hyaline cell angles)"
+"pseudopore": "Is said of branch leaves that are strongly curved back, but not folded at a more or less straight angle."
+"quinquefarious": "in 5 ranks"
+"raised bog": "domed ombrotrophic peat deposit"
+"recurved": "(of leaves) with the upper part curved back away from the axis"
+"reflexed": "(of leaves) bent backwards so that the apex points away from the axis apex"
+"resorption": "erosion or breakdown of parts of cell walls"
+"resorption furrow": "channel along the margin of a leaf, formed by erosion of side walls of the outermost cells"
+"resorption gap": "hole formed by erosion of part of hyaline cell wall (usually less regular in shape than a pore)"
+"retort cell": "large cell of stem or, more usually, branch cortex in which the distal end is perforated by a single pore; it is also often narrowed and turned outwards at the distal end"
+"ringed pore": "pore surrounded by a ring of thickened cell wall"
+"rostrum": "a beak (hence rostrate; with a beak)"
+"scabrid": "roughened: rather like a cheese grater"
+"septate": "having septa"
+"septum": "partition completely separating a hyalocyst, generally in the longitudinal direction (plural septa)"
+"shadow pore": "round or oval thinning of the cell wall of a hyaline cell (only revealed by heavy staining)"
+"spatulate": "paddle-shaped: narrowest at the base and wider above"
+"spreading branches": "those branches of a fascicle which are, at least near their insertion, pointing upwards or horizontal: longer branches appear arched"
+"squarrose": "In reference to branch leaves abruptly bent or jointed nearly 90° backward at their distal end (see Sphagnum squarrosum, Sphagnum strictum)"
+"subacute": "acute but not sharply so"
+"suberect": "(of branches or leaves) with distal end pointing ± towards apex of axis"
+"subsquarrose": "(of leaves) with the upper part bent back abruptly, but not to quite the same extent as in squarrose examples"
+"terete": "rounded in cross-section: without ridges or angles"
+"tetrahedral": "shaped like a 3-sided pyramid"
+"triradiate": "having 3 limbs diverging from a central point"
+"truncate": "cut off abruptly at the distal end"
+"tumid": "swollen"
+"ventral": "(of leaf) concave or adaxial surface"
+"vitta": "a central band of cells in a leaf which are of different shape, size or colour from those on either side"
+"acumen": "A long, tapering point ending an organ"
+"acuminate": "Ending with a long point"
+"acute": "Refers to a leaf whose apex ends with a terminal angle less than 90 degrees"
+"alternation of generations": "Alternation between the haploid gametophytic phase (1n) and the diploid sporophytic phase (2n) during the life cycle of sexually reproducing organisms"
+"antherozoid": "The motile male gamete"
+"apex": "Point, tip or summit of an organ"
+"apical bud": "Structure located in the centre of the capitulum which gives rise to all the organs; may be: obvious, visible but not obvious, prominent, conical or hidden among developing branches"
+"apiculate": "Ending in an abrupt point"
+"appressed": "Closely pressed or applied to the stem"
+"ascending": "Pointing or oriented obliquely upwards"
+"attenuate": "Of or pertaining to the tip of an organ which tapers; narrowly tapering"
+"axil": "The angle between the leaf and the bearing axis"
+"axillary": "Located in the axil of an organ, usually a leaf"
+"biotope": "Living environment describing the microtopographic habitat in which ecological conditions (temperature, water table level, chemical properties, etc.) are homogenous"
+"branch": "Is said of leaves inserted around the spreading or pendent branches. Traits of the leaves of the spreading branches are used to differentiate some species"
+"branched": "Bearing branches"
+"calyptra": "In Sphagnum, the calyptra is membranous and formed of remnants of the archegonia. It is minuscule and looks like a thin transparent layer overlying the operculum"
+"capillarity": "Phenomenon referring to the ability of water to rise naturally despite the force of gravity. In Sphagnum, this phenomenon is very important to hummock-forming species"
+"capsule": "Swollen part, topping the sporophyte, which contains the spores"
+"carpet": "Flat peatland biotope, much wetter than a lawn, where the surface of the bryophyte vegetation resides at -5 to +5 cm relative to the water level"
+"chlorophyll": "Green pigment found in the chloroplast, important for the absorption of light energy during photosynthesis"
+"chlorophyllose": "Referring or belonging to chlorophyll; specifically, a plant characterised by the presence of chlorophyll and by this fact coloured"
+"chlorophyllous cells": "See chlorocyst"
+"complex": "Grouping of very similar or related species"
+"contiguous": "In Sphagnum, refers to two adjacent cells with touching walls"
+"cortical": "Relating to the cortex"
+"cushion": "In Sphagnum, a small rounded tuft of individual mosses more or less erect and tightly clustered, all radiating"
+"cuspidate": "Ending abruptly in a strong, rigid point"
+"denticulate": "Finely dentate or with very little teeth"
+"dichotomous": "Branched in two; branching regularly into two branches; bifurcated once or more"
+"distal": "Far from the base or attachment point (as opposed to proximal)"
+"falcate": "Curved like the blade of a sickle or a scythe"
+"fasciculated branches": "Each fascicle normally consists of both spreading (divergent) and pendent (appressed to the stem) branches"
+"fen": "Synonym for minerotrophic peatland"
+"fimbriate": "Fringed; having edges cut into a fringe"
+"flark": "Swedish word for an elongated, wet muddy hollow or pool in patterned peatlands"
+"flora": "All the plants in a given area; also a volume describing each of these plants and used for their identification"
+"foot": "In Sphagnum, the swollen base of the sporophyte embedded in the apex of the pseudopodium; allows nutrient exchange from the gametophyte to the sporophyte"
+"free": "On the walls of hyalocysts of Sphagnum leaves, is said of a pore not touching the walls of the contiguous chlorocysts"
+"free pores": "Pores in the centre of the hyalocyst and which, by this fact, does not come into contact with the walls of the adjacent chlorocysts"
+"frequency": "The degree of uniformity with which individuals of a species are distributed over a surface"
+"gametophyte": "Dominant sexual plant in mosses (therefore also in Sphagnum); leafy green plant generally haploid producing gametes by mitosis. The Sphagnum that we see in nature and which persist are gametophytes. The sporophyte has a very short life span on the leafy gametophyte."
+"habitat": "The natural environment where an organism grows"
+"herbarium": "Permanent collection of plants that have been dried, identified, labelled and mounted on cardboard (vascular plants) or in envelopes (mosses including Sphagnum); also the location where they are stored (examples: the Louis-Marie Herbarium of Université Laval, the Marie-Victorin Herbarium of the Université de Montréal)."
+"hollow": "A peatland biotope corresponding to a hollow or a depression alternating with hummocks"
+"hummock": "Peatland biotope rising 20 to 50 cm above the water table or a hollow and often characterized by the presence of shrubs"
+"hyaline": "Without colour, transparent"
+"hyaline cell": "See hyalocyst"
+"imbricate": "Of or pertaining to branch leaves firmly inserted into each other and overlapping on the branch; overlapping each other like roof tiles"
+"inner branches": "Short, often erect branches in the centre of the capitulum"
+"interfibrillose": "Space between two fibrils"
+"involute": "Rolled inwards"
+"label": "Small data sheet glued to a herbarium sheet; the label presents various information regarding the specimen"
+"lagg": "Swedish word for the transition zone around the perimeter of bogs, where the combination of water from percolation and runoff from the dome and adjacent land creates a particular hydroperiodicity and chemistry, which permits the establishment of a unique plant community, often a swamp or fen type"
+"lawn": "Peatland biotope consisting of a uniform and flat surface of vegetation, usually 5 to 20 cm above the water table"
+"lenticular": "Lens-shaped; circular and doubly convex"
+"margin": "EEge of the leaf blade. May be even or entire, erose or fimbriate at the apex of the leaf and more or less enlarged near the base. Also, edge of a pond, a marsh, etc."
+"membrane gap": "Wall lacking, similar to a pore, but much more extensive, contour less defined"
+"minerotrophic": "Substrate or water enriched in mineral elements due to the runoff of an upstream basin or contact with mineral soil"
+"minerotrophic peatland": "Type of peatland receiving a variable amount of water, from both precipitation and from catchment drainage water loaded with minerals that enrich the wet soil. Fens have a large diversity of plants, generally dominated by a herbaceous cover, notably sedges, as well as bryophytes (in particular brown mosses of the Amblystegiaceae family), shrubs and trees. Synonym: fen"
+"mucronate": "Of or pertaining to a leaf tip ending in an abrupt point"
+"muskeg": "North American term frequently used to designate a peatland. The word, of Algonquin origin"
+"nomenclature": "Method for naming plants based on international rules"
+"obovate": "Egg-shaped, with the broader part on the side of the apex"
+"ombrotrophic": "Fed by water from precipitation"
+"ombrotrophic peatland": "Type of peatland fed only by water from atmospheric precipitation, which also provides the only source of nutrients, apart from those from the decomposition of the plants that form the peatland substrate. Synonym: bog"
+"operculum": "A small lid closing the orifice of a capsule; opens explosively to release the spores in Sphagnum"
+"outer branches": "The outermost and longest branches of the capitulum"
+"palustrine": "Of marshes"
+"papilla": "Bump or small protuberance giving a grainy appearance to the cell wall"
+"peatland": "Generic term for all types of peat-covered land"
+"pectinations": "Thick projections clustered in a comb shape; pectinations are present on the cell walls of the branch and stem leaves"
+"pendent": "Apex pointed down the stem, when referring to stem leaves; also applies to delicate branches appressed to the stem"
+"plicate": "Forming many longitudinal folds"
+"proximal": "Near the base or attachment point (opposed to distal)"
+"pseudopodium": "Organ which is elongated or which elongates, functions as the seta and bears the sporophyte in Sphagnum"
+"related": "Of or pertaining to species very closely related phylogenetically, or with traits or origins in common"
+"resorbed": "See resorption"
+"resorption furrow": "Small canal or small gutter located on the periphery (at the margin) of the branch leaves"
+"retort cell": "Bottle-shaped cell ending with a neck that more or less curves outwards and with a pore at its end"
+"rhizoid": "Filament, similar to a root, which has anchoring (to the substrate) and absorption functions in certain nonvascular plants"
+"rhombic": "More or less roughly diamond-shaped"
+"rhomboidal": "Longer than rhombic and oblong"
+"ringed": "Encircled by a thickened border; ring-shaped or forming a ring"
+"scleroderm": "In the stem, the scleroderma is the area underlying the cortex, consisting of layers of thick-walled cells. Synonymous: sclerodermis"
+"section": "Final taxonomic level of the genus Sphagnum before species. Only the subgenus Acutifolia is subdivided into sections: Acutifolia, Insulosa, Polyclada. Formely the term was used to designate the subgenus"
+"secund": "Said of leaves all turned or pointing in the same direction"
+"seta": "In Sphagnum, the very short organ which bears the capsule; located between the capsule and the foot"
+"soligenous": "Is said of a peatland under the influence of a water supply external to the ecosystem that percolates or flows slowly through the peat surface"
+"sp": "Abbreviation for species, from the Latin species"
+"sphagnologist": "A person who is interested in the study of Sphagnum mosses"
+"sphagnology": "Botanical science particularly interested in the study of Sphagnum mosses"
+"spiraled": "Spiral-shaped, when referring to fibrils present on the walls of hyaline or cortical cells"
+"spore": "Microscopic corpuscule, most often spherical, almost always unicellular, produced in the capsule by reduction division and which produces the protonema upon germination"
+"sporophyte": "In Sphagnum (and mosses in general): plant which produces the spores, itself resulting from the fertilization of an oosphere, and which remains attached to the gametophyte and remains partially dependant thereof; typically, the sporophyte consists of a foot, a seta and a capsule"
+"spp": "Abbreviation for several species belonging to the same genus"
+"spreading": "Spreading or diverging from each other. In Sphagnum mosses, refers to branches inserted approximately 90° to the stem"
+"star shaped capitulum": "Capitulum with external branches and median branches forming a 5 pointed star when viewed from above"
+"stem": "Belonging to or arising from the stem; said of leaves inserted directly on the stem. Stem leaf traits are used to discriminate between species: shape, length/width, apex, porosity, presence or absence of fibrils"
+"subsecund": "Almost secund"
+"systematics": "Science focussing on the diversity of species and the relationships between them"
+"taxon": "Each of the classification levels of plants: kingdom, division, class, order, family, genus, species"
+"taxonomy": "Botanical discipline focussing on the classification, nomenclature and identification of plants"
+"thallose": "Development stage in nonvascular plants resembling a thallus"
+"thermokarst": "Periglacial phenomenon characterized by land subsidence due to the melting of permafrost"
+"till": "Unlayered deposit of gravel, boulders, sand and finer materials transported by a glacier"
+"topogenous": "Of a peatland forming in a topographic depression, with part of its water supply provided by the surrounding regional water table"
+"window pores": "Pores resulting from extensive cell wall resorption; much larger than other pores"
