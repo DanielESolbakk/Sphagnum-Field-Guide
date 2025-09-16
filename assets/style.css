@@ -4,17 +4,17 @@
 
 body {
     font-family: Arial, sans-serif;
-    margin: 0 auto; /* Center the content horizontally */
-    max-width: 1200px; /* Match the max width of images */
-    padding: 32px 64px; /* 32px top/bottom, 64px left/right */
-    text-align: left; /* Ensure text is left-aligned */
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 32px 64px;
+    text-align: left;
 }
 
 nav ul {
     list-style: none;
     padding: 0;
     text-align: center;
-    margin: 0 0 96px 0; /* bottom margin */
+    margin: 0 0 96px 0;
 }
 nav li {
     display: inline-block;
@@ -35,11 +35,11 @@ img {
 
 @media (max-width: 600px) {
     img {
-        max-width: 100%; /* Fixes zoom and padding issues */
+        max-width: 100%;
         width: auto;
         height: auto;
     }
-        .content {
+    .content {
         padding-left: 8px;
         padding-right: 8px;
     }
@@ -47,7 +47,7 @@ img {
         padding: 12px 8px;
         font-size: 1.1em;
     }
-        nav a {
+    nav a {
         padding: 12px 0;
         display: block;
     }
@@ -57,83 +57,8 @@ img {
     }
 }
 
-/* Tooltip styles */
-.tooltip {
-    position: relative;
-    display: inline-block;
+/* Simple tooltip with native browser tooltip */
+.tooltip-simple {
     border-bottom: 1px dotted #666;
     cursor: help;
-}
-
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 280px;
-    background-color: #333;
-    color: #fff;
-    text-align: left;
-    border-radius: 6px;
-    padding: 8px 12px;
-    position: absolute;
-    z-index: 1000;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -140px;
-    opacity: 0;
-    transition: opacity 0.3s;
-    font-size: 13px;
-    line-height: 1.4;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-}
-
-.tooltip .tooltiptext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #333 transparent transparent transparent;
-}
-
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
-}
-
-/* Mobile responsive tooltips */
-@media (max-width: 600px) {
-    .tooltip .tooltiptext {
-        width: calc(100vw - 40px); /* Account for body padding */
-        max-width: none; /* Remove max-width constraint */
-        left: auto; /* Remove left positioning */
-        right: auto; /* Remove right positioning */
-        margin-left: auto; /* Remove margin-left */
-        margin-right: auto; /* Remove margin-right */
-        transform: translateX(-50%); /* Center horizontally */
-        /* Keep the tooltip from going off-screen */
-        left: 50%;
-        right: auto;
-    }
-    
-    /* Ensure tooltip stays within viewport bounds */
-    .tooltip {
-        position: relative;
-    }
-    
-    .tooltip .tooltiptext {
-        /* Alternative approach: position from left edge */
-        left: 0;
-        right: 0;
-        margin-left: 8px;
-        margin-right: 8px;
-        transform: none;
-        width: auto;
-    }
-    
-    /* Adjust arrow for mobile - center it */
-    .tooltip .tooltiptext::after {
-        left: 50%;
-        margin-left: -5px;
-    }
 }
