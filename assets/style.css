@@ -100,3 +100,21 @@ img {
     visibility: visible;
     opacity: 1;
 }
+
+/* Mobile responsive tooltips */
+@media (max-width: 600px) {
+    .tooltip .tooltiptext {
+        width: calc(100vw - 32px); /* Full width minus padding */
+        max-width: 280px; /* Keep reasonable max width */
+        left: 50%;
+        transform: translateX(-50%); /* Center the tooltip */
+        margin-left: 0; /* Remove fixed margin */
+        right: auto; /* Reset any right positioning */
+    }
+    
+    /* Adjust arrow for mobile */
+    .tooltip .tooltiptext::after {
+        left: 50%;
+        margin-left: -5px;
+    }
+}
