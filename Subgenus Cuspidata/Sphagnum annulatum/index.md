@@ -12,7 +12,7 @@ title: Sphagnum annulatum
 ## Description
 Small to medium size
 
-Capitulum shiny. Orange-brown.
+{% include tooltip.html term="capitulum" text="Capitulum" %} shiny. Orange-brown.
 
 Apical bud normally obvious, usually levelled or only slightly shorter than the inner branches, and almost always visible.
 

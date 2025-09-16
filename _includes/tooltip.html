@@ -1,0 +1,1 @@
+{% assign definition = site.data.glossary[include.term] %}{% if definition %}<span class="tooltip">{{ include.text | default: include.term }}<span class="tooltiptext">{{ definition }}</span></span>{% else %}{{ include.text | default: include.term }}{% endif %}
