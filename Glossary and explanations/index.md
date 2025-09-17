@@ -7,7 +7,7 @@ Although fibrills are a general trait of branch leaves in most Sphagnales, the d
 Sources: [Inaturalist](https://www.inaturalist.org/observations/287369385), [artdatabanken.se](https://assets.artdatabanken.se/pdf/45380_1004718.pdf)
 
 # Glossary<sup><a href="#ayotte2020">1</a></sup><sup><a href="#daniels1990">2</a></sup>
-
+<!--  Collects each item in the glossary.yml file and prints them on this page -->
 {% for term in site.data.glossary %}
 **{{ term[0] }}** - {{ term[1] }}
 
