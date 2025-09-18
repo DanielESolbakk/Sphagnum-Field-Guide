@@ -109,9 +109,6 @@ img {
         max-width: none;
         /* Position from left edge with proper bounds */
         left: 8px;
-        right: 8px;
-        width: auto; /* Let left/right constraints control width */
-        /* Remove conflicting properties */
         margin-left: 0;
         transform: none;
         /* Ensure horizontal layout */
