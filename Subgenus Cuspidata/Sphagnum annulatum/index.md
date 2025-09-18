@@ -9,26 +9,31 @@ title: Sphagnum annulatum
 
 <img src="sphagnum-annulatum-foto-kjell-i-flatberg-.jpg" alt="Sphagnum annulatum photo by Kjell I. Flatberg" />  
 
-## Description
-Small to medium size
+## Description<sup><a href="#flatberg1988-annulatum">1</a></sup><sup><a href="#flatberg2015-annulatum">2</a></sup>
 
-{% include tooltip.html term="capitulum" text="Capitulum" %} shiny. Orange-brown.
+### General
+Varying from small to moderately robust, from green, yellowish brown to chestnut-brown to some-times orange-brown to red-brown, usually glossy when moist. On rare occasions, a completely green color variant may occur.    
+Sphagnum annulatum is a fairly phenorigid species, which reflects its fairly narrow habitat amplitude along the "dry-wet" ecogradient in its mire habitats. In mire vegetation the plants are usually medium-sized and glossy chestnut-brown in colour, and the capitulum branches are fairly straight when viewed from above. But sometimes mainly in spring fen vegetation in subalpine and alpine localities - the plants are often dark orange to red-brown with pronouncedly curved capitulum branches and tightly appressed and imbricate divergent branch leaves; such plants of S. annulatum can be mistaken for species in sect. Subsecunda, especially S. auricu-latum.
 
-Apical bud normally obvious, usually levelled or only slightly shorter than the inner branches, and almost always visible.
+### {% include tooltip.html term="capitulum" text="Capitulum" %}
+{% include tooltip.html term="capitulum" text="Capitulum" %} slightly to distinctly 5-radiate; **outer branches straight to somewhat laterally curved (as viewed from above) and distinctly arcuato-decurved (as viewed from the side);** relatively thick in their middle part and fairly abruptly tapering at the distal end; inner branches erect; **terminal bud conspicuous, usually longer than or as long as the inner branches of the capitulum and not concealed by them;** male capitulum during autumn strongly convex, with comparatively short and clavate outer antheridial branches.
 
+### Branches
 Fascicles loosely arranged and typically displaying two divergent and 1–2 pendent branches that separate slightly from the main stem.
+**The divergent branches often curved downwards and are often pronouncedly thickest in middle part.**   
+Divergent branch leaves distinctly shorter near the proximal end than in the middle part of the branch. Note: Many sphagnum can display smaller leaves at the base of the divergent branches, but S. annulatum often has the entire proximal end full of much smaller leaves than in the middle part of the branch. **Divergent branch leaves unranked, erecto-patently and distantly arranged to more commonly imbricate, straight to often markedly subsecund.** When dry slightly more spreading.   
 
-The divergent branches often curved downwards and are often pronouncedly thickest in middle part. Sometimes it will have very small leaves at the base of the divergent branches. Notice: Many sphagnum can display smaller leaves at the base of the divergent branches. The pendent branches are slender and shorter than the divergent branches. The stem leaves stick out from the stem.
+The pendent branches are more slender and shorter than the divergent branches.  
 
-As moisture increases, the shoots and heads become more robust; the outer branches and projecting parts tend to elongate and straighten. Capitulum of male plants distinctly domed heads with short, dark-brown antheridial branches.
+### Stem
+**Stem pale** or pale with red portions (particularly during late autumn and in wet habitats).
+**Stem leaves ± spreading from stem when fresh**, longer than wide, lingulate to usually lingulate-triangular, moderately to distinctly concave and broadest at or just above the base; apex acute to acute-obtuse, rarely narrowly truncate-erose at the very end. Stem leaves of male plant relatively shorter and broader, and more obtuse at the apex than in female plants.  
 
-On rare occasions, a completely green color variant may occur.
+### Habitat
+Acts as a reliable indicator of minerothrophic wetlands. Not found in ombrotrophic bogs.  
 
-Acts as a reliable indicator of minerothrophic wetlands. Never found in ombrotrophic bogs.
-
-## Habitat
 Sphagnum annulatum is predominantly a mire species. But in subalpine and low alpine areas in Norway it is also sometimes found in spring and snow-bed vegetation on very shallow peat. In mires, it is an exclusively minerotrophic species. It prefers sloping fens, but is sometimes also found in topogenous fens.  
-Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; it occurs mainly in intermediate fens, more occasionally in transitional poor fens and rarely in rich fens. High-level carpets and lawns are the typical habitats on the "hummock-mud-bottom" vegetational gradient. More occasionally it is found in wetter carpets, and rarely at low hummock level. The surrounding vegetation always has a clear mire margin character.
+Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; it occurs mainly in **intermediate fens**, more occasionally in transitional poor fens and rarely in rich fens. High-level carpets and **lawns** are the typical habitats on the "hummock-mud-bottom" vegetational gradient. More occasionally it is found in wetter carpets, and rarely at low hummock level. The surrounding vegetation always has a clear mire margin character.
 
 <img src="20250720_164130.jpg" />
 
@@ -77,6 +82,11 @@ Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; i
 {% include lookalikes/lookalikes-complex-annulatum.html %}
 
 ## **Sources: Text & Images**:
+
+<ol>
+  <li id="flatberg1988-annulatum">FLATBERG, K. I. (1988). Taxonomy of Sphagnum annulatum and related species. <em>Annales Botanici Fennici</em>, 25(4), 303–350. <a href="https://www.jstor.org/stable/23725638?read-now=1%3Fread-now%3D1&seq=32" target="_blank">http://www.jstor.org/stable/23725638</a></li>
+  <li id="flatberg2015-annulatum">FLATBERG, K. I. (2015). Pisktorvmose <em>Sphagnum annulatum</em> H.Lindb. ex Warnst. <a href="https://www.artsdatabanken.no/Pages/186268" target="_blank">www.artsdatabanken.no/Pages/186268</a>. Retrieved [16/09/2025]</li>
+</ol>
 
 Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD (2020)
 
