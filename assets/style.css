@@ -104,20 +104,18 @@ img {
 /* Mobile responsive tooltips */
 @media (max-width: 600px) {
     .tooltip .tooltiptext {
-        /* Keep position: absolute to stay near trigger */
-        position: absolute;
-        
-        /* Auto-size with viewport constraints */
+        /* Override desktop positioning for mobile */
+        position: fixed;
+        left: 10px;
+        right: 10px;
         width: auto;
-        max-width: calc(100vw - 20px);
+        max-width: none;
         
-        /* Simple positioning that prevents overflow */
-        left: 0;
-        right: 0;
+        /* Center vertically relative to trigger */
+        bottom: auto;
+        top: 50%;
+        transform: translateY(-50%);
         margin-left: 0;
-        
-        /* Keep it above the trigger */
-        bottom: 125%;
         
         white-space: normal;
         word-wrap: break-word;
