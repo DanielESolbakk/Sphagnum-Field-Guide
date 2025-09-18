@@ -107,10 +107,10 @@ img {
         /* Use viewport width minus body padding */
         width: calc(100vw - 16px);
         max-width: none;
-        /* Position from left edge with proper bounds */
-        left: 8px;
-        margin-left: 0;
-        transform: none;
+        /* Position relative to viewport, not the trigger */
+        left: 50%;
+        transform: translateX(-50%);
+        margin-left: calc(-50vw + 8px);
         /* Ensure horizontal layout */
         white-space: normal;
         word-wrap: break-word;
