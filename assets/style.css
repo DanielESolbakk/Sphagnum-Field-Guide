@@ -104,17 +104,17 @@ img {
 /* Mobile responsive tooltips */
 @media (max-width: 600px) {
     .tooltip .tooltiptext {
-        width: calc(100vw - 16px);
-        max-width: none;
-        left: 8px;
+        width: max-content; /* Size based on content */
+        max-width: calc(100vw - 20px); /* But never exceed viewport */
+        left: max(10px, min(50% - 50%, calc(100vw - 100% - 10px)));
         transform: none;
         margin-left: 0;
+        
         white-space: normal;
         word-wrap: break-word;
         box-sizing: border-box;
     }
     
-    /* Hide arrow on mobile - it's hard to position correctly */
     .tooltip .tooltiptext::after {
         display: none;
     }
