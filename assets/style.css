@@ -107,8 +107,10 @@ img {
         /* Use viewport width minus body padding */
         width: calc(100vw - 16px);
         max-width: none;
-        /* Position from left edge */
+        /* Position from left edge with proper bounds */
         left: 8px;
+        right: 8px;
+        width: auto; /* Let left/right constraints control width */
         /* Remove conflicting properties */
         margin-left: 0;
         transform: none;
@@ -118,9 +120,8 @@ img {
         box-sizing: border-box;
     }
     
-    /* Position arrow relative to the tooltip trigger, not the tooltip box */
+    /* Hide arrow on mobile - it's hard to position correctly */
     .tooltip .tooltiptext::after {
-        left: calc(50% - 8px); /* Account for the 8px left offset */
-        margin-left: -5px;
+        display: none;
     }
 }
