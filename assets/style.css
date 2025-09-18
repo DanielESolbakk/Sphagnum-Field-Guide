@@ -104,14 +104,11 @@ img {
 /* Mobile responsive tooltips */
 @media (max-width: 600px) {
     .tooltip .tooltiptext {
-        /* Use viewport width minus body padding */
         width: calc(100vw - 16px);
         max-width: none;
-        /* Position relative to viewport, not the trigger */
-        left: 50%;
-        transform: translateX(-50%);
-        margin-left: calc(-50vw + 8px);
-        /* Ensure horizontal layout */
+        left: 8px;
+        transform: none;
+        margin-left: 0;
         white-space: normal;
         word-wrap: break-word;
         box-sizing: border-box;
