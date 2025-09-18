@@ -104,16 +104,28 @@ img {
 /* Mobile responsive tooltips */
 @media (max-width: 600px) {
     .tooltip .tooltiptext {
-        width: calc(100vw - 40px); /* Account for body padding */
-        max-width: none; /* Remove max-width constraint */
+        width: calc(100vw - 16px); /* Account for mobile body padding (8px * 2) */
+        max-width: none;
         left: 50%;
-        transform: translateX(-50%); /* Center horizontally */
-        margin-left: 0; /* Reset margin */
-        white-space: normal; /* Allow text to wrap */
-        word-wrap: break-word; /* Break long words if needed */
+        transform: translateX(-50%);
+        margin-left: 0;
+        white-space: normal;
+        word-wrap: break-word;
+        /* Ensure tooltip stays within viewport */
+        max-width: calc(100vw - 16px);
+        box-sizing: border-box;
     }
     
-    /* Adjust arrow for mobile - keep it centered */
+    /* Alternative approach - position from left edge */
+    .tooltip .tooltiptext {
+        left: 8px; /* Match body padding */
+        right: 8px; /* Match body padding */
+        width: auto;
+        transform: none;
+        margin-left: 0;
+    }
+    
+    /* Center the arrow */
     .tooltip .tooltiptext::after {
         left: 50%;
         margin-left: -5px;
