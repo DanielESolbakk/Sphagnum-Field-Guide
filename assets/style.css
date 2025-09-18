@@ -104,30 +104,23 @@ img {
 /* Mobile responsive tooltips */
 @media (max-width: 600px) {
     .tooltip .tooltiptext {
-        width: calc(100vw - 16px); /* Account for mobile body padding (8px * 2) */
+        /* Use viewport width minus body padding */
+        width: calc(100vw - 16px);
         max-width: none;
-        left: 50%;
-        transform: translateX(-50%);
+        /* Position from left edge */
+        left: 8px;
+        /* Remove conflicting properties */
         margin-left: 0;
+        transform: none;
+        /* Ensure horizontal layout */
         white-space: normal;
         word-wrap: break-word;
-        /* Ensure tooltip stays within viewport */
-        max-width: calc(100vw - 16px);
         box-sizing: border-box;
     }
     
-    /* Alternative approach - position from left edge */
-    .tooltip .tooltiptext {
-        left: 8px; /* Match body padding */
-        right: 8px; /* Match body padding */
-        width: auto;
-        transform: none;
-        margin-left: 0;
-    }
-    
-    /* Center the arrow */
+    /* Position arrow relative to the tooltip trigger, not the tooltip box */
     .tooltip .tooltiptext::after {
-        left: 50%;
+        left: calc(50% - 8px); /* Account for the 8px left offset */
         margin-left: -5px;
     }
 }
