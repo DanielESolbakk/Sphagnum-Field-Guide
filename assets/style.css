@@ -61,7 +61,9 @@ img {
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted #666;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #666;
     cursor: help;
 }
 
