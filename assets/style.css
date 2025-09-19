@@ -36,7 +36,7 @@ img {
 /* Remove global horizontal clipping (was causing desktop truncation) */
 html, body { overflow-x: visible; }
 
-/* Tooltip styles */
+/* Base tooltip trigger */
 .tooltip {
     position: relative;
     display: inline-block;
@@ -45,81 +45,132 @@ html, body { overflow-x: visible; }
     text-decoration-color: #666;
     cursor: help;
 }
+.tooltip:focus-visible {
+    outline: 2px solid #555;
+    outline-offset: 2px;
+}
 
+/* Desktop tooltip */
 .tooltip .tooltiptext {
-    visibility: hidden;
-    width: 280px;
-    background-color: #333;
-    color: #fff;
-    text-align: left;
-    border-radius: 6px;
-    padding: 8px 12px;
     position: absolute;
-    z-index: 1000;
     bottom: 125%;
-    /* Left-align so large tooltips near left edge are not cut off */
-    left: 0;
-    margin-left: 0;
-    opacity: 0;
-    transition: opacity 0.3s;
-    font-size: 13px;
-    line-height: 1.4;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    left: 50%;
+    transform: translateX(-50%);
+    width: 280px;
     max-width: min(280px, calc(100vw - 32px));
-    overflow-wrap: anywhere;
+    background:#333;
+    color:#fff;
+    padding:8px 12px;
+    border-radius:6px;
+    font-size:13px;
+    line-height:1.4;
+    box-shadow:0 2px 8px rgba(0,0,0,.2);
+    visibility:hidden;
+    opacity:0;
+    transition:opacity .25s;
+    z-index:1000;
+    overflow-wrap:anywhere;
+}
+.tooltip .tooltiptext::after {
+    content:"";
+    position:absolute;
+    top:100%;
+    left:50%;
+    transform:translateX(-50%);
+    border:6px solid transparent;
+    border-top-color:#333; /* arrow points down toward trigger */
+}
+.tooltip:hover .tooltiptext,
+.tooltip:focus-visible .tooltiptext {
+    visibility:visible;
+    opacity:1;
 }
 
-/* ---- Mobile tooltip rewrite WITH dynamic arrow ---- */
-@media (max-width: 600px) {
+/* Mobile layout + tooltip */
+@media (max-width:600px) {
+    html, body { overflow-x:hidden; }
+    body { padding:24px 16px; }
 
-    html, body { overflow-x: hidden; }
+    img, video, iframe, embed {
+        max-width:100% !important;
+        width:100% !important;
+        height:auto;
+    }
 
-    .tooltip { position: relative; }
+    nav ul {
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:center;
+        gap:8px 16px;
+        margin:0 0 56px 0;
+        padding:0;
+    }
+    nav li { margin:0; }
+    nav a { font-size:14px; display:block; padding:4px 0; }
 
+    /* Mobile tooltip overridden for JS positioning */
     .tooltip .tooltiptext {
-        position: fixed;          /* JS sets left/top */
-        top: auto;
-        bottom: auto;
-        left: 0;
-        transform: none;
-        margin: 0;
-        max-width: min(280px, calc(100vw - 16px));
-        width: max-content;
-        visibility: hidden;
-        opacity: 0;
-        pointer-events: none;
-        z-index: 1200;
-        transition: opacity 0.18s ease;
-        /* Ensure wrapping */
-        overflow-wrap: anywhere;
+        position:fixed;
+        top:auto;
+        bottom:auto;
+        left:0;
+        transform:none; /* JS sets precise left/top */
+        margin:0;
+        max-width:min(280px, calc(100vw - 16px));
+        width:max-content;
+        visibility:hidden;
+        opacity:0;
+        pointer-events:none;
+        transition:opacity .18s;
+        z-index:1200;
     }
+    .tooltip.is-open .tooltiptext { pointer-events:auto; }
 
-    .tooltip.is-open .tooltiptext { pointer-events: auto; }
-
-    /* Dynamic arrow base (uses --arrow-left set by JS) */
+    /* Dynamic arrow (JS sets --arrow-left + pos class) */
     .tooltip .tooltiptext::after {
-        content: "";
-        position: absolute;
-        left: var(--arrow-left, 50%);
-        transform: translateX(-50%);
-        border: 6px solid transparent;
-        pointer-events: none;
+        content:"";
+        position:absolute;
+        left:var(--arrow-left,50%);
+        transform:translateX(-50%);
+        border:6px solid transparent;
+        pointer-events:none;
     }
-    /* Tooltip placed BELOW trigger: arrow on top pointing up */
     .tooltip .tooltiptext.tooltip-pos-below::after {
-        top: -12px;
-        border-bottom-color: #333;
+        top:-12px;
+        border-bottom-color:#333;
     }
-    /* Tooltip placed ABOVE trigger: arrow on bottom pointing down */
     .tooltip .tooltiptext.tooltip-pos-above::after {
-        bottom: -12px;
-        border-top-color: #333;
+        bottom:-12px;
+        border-top-color:#333;
     }
 
-    /* Disable hover reveal on touch */
-    .tooltip:hover .tooltiptext { visibility: hidden; opacity: 0; }
+    /* Suppress hover activation on touch (override desktop rule) */
+    .tooltip:hover .tooltiptext { visibility:hidden; opacity:0; }
 }
 
-@media (prefers-reduced-motion: reduce) {
-    .tooltip .tooltiptext { transition: none; }
+/* Reduced motion */
+@media (prefers-reduced-motion:reduce) {
+    .tooltip .tooltiptext { transition:none; }
+}
+
+/* Dark mode */
+:root { color-scheme: light dark; }
+@media (prefers-color-scheme:dark) {
+    .tooltip .tooltiptext { background:#222; }
+    .tooltip .tooltiptext::after { border-top-color:#222; }
+    .tooltip .tooltiptext.tooltip-pos-below::after { border-bottom-color:#222; }
+    .tooltip .tooltiptext.tooltip-pos-above::after { border-top-color:#222; }
+}
+
+/* Fine pointer adjustment */
+@media (pointer:fine) {
+  .tooltip .tooltiptext {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  @supports (left: clamp(0px, 0px, 0px)) {
+    .tooltip .tooltiptext {
+      left: clamp(16px, 50%, calc(100vw - 16px));
+    }
+  }
 }
