@@ -33,34 +33,8 @@ img {
     transition: opacity 0.3s ease;
 }
 
-/* Prevent any horizontal scrolling */
-html, body {
-    overflow-x: hidden;
-}
-
-@media (max-width: 600px) {
-    img {
-        max-width: 100%; /* Fixes zoom and padding issues */
-        width: auto;
-        height: auto;
-    }
-        .content {
-        padding-left: 8px;
-        padding-right: 8px;
-    }
-    body {
-        padding: 12px 8px;
-        font-size: 1.1em;
-    }
-        nav a {
-        padding: 12px 0;
-        display: block;
-    }
-    nav li {
-        display: block;
-        margin: 8px 0;
-    }
-}
+/* Remove global horizontal clipping (was causing desktop truncation) */
+html, body { overflow-x: visible; }
 
 /* Tooltip styles */
 .tooltip {
@@ -83,43 +57,32 @@ html, body {
     position: absolute;
     z-index: 1000;
     bottom: 125%;
-    left: 50%;
-    margin-left: -140px;
+    /* Left-align so large tooltips near left edge are not cut off */
+    left: 0;
+    margin-left: 0;
     opacity: 0;
     transition: opacity 0.3s;
     font-size: 13px;
     line-height: 1.4;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    max-width: min(280px, calc(100vw - 32px));
+    overflow-wrap: anywhere;
 }
 
-.tooltip .tooltiptext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #333 transparent transparent transparent;
-}
-
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
-}
-
-/* ---- Mobile tooltip rewrite ---- */
+/* ---- Mobile tooltip rewrite WITH dynamic arrow ---- */
 @media (max-width: 600px) {
+
+    html, body { overflow-x: hidden; }
+
     .tooltip { position: relative; }
+
     .tooltip .tooltiptext {
-        position: fixed; /* JS sets left/top */
-        /* RESET desktop props */
+        position: fixed;          /* JS sets left/top */
         top: auto;
         bottom: auto;
         left: 0;
-        margin-left: 0;
         transform: none;
-
+        margin: 0;
         max-width: min(280px, calc(100vw - 16px));
         width: max-content;
         visibility: hidden;
@@ -127,33 +90,36 @@ html, body {
         pointer-events: none;
         z-index: 1200;
         transition: opacity 0.18s ease;
+        /* Ensure wrapping */
         overflow-wrap: anywhere;
-        word-break: break-word;
     }
+
     .tooltip.is-open .tooltiptext { pointer-events: auto; }
-    .tooltip .tooltiptext::before { display: none; }
-    .tooltip .tooltiptext.tooltip-pos-below::before,
-    .tooltip .tooltiptext.tooltip-pos-above::before {
+
+    /* Dynamic arrow base (uses --arrow-left set by JS) */
+    .tooltip .tooltiptext::after {
         content: "";
         position: absolute;
-        left: 50%;
+        left: var(--arrow-left, 50%);
         transform: translateX(-50%);
         border: 6px solid transparent;
+        pointer-events: none;
     }
-    .tooltip .tooltiptext.tooltip-pos-below::before {
+    /* Tooltip placed BELOW trigger: arrow on top pointing up */
+    .tooltip .tooltiptext.tooltip-pos-below::after {
         top: -12px;
         border-bottom-color: #333;
     }
-    .tooltip .tooltiptext.tooltip-pos-above::before {
+    /* Tooltip placed ABOVE trigger: arrow on bottom pointing down */
+    .tooltip .tooltiptext.tooltip-pos-above::after {
         bottom: -12px;
         border-top-color: #333;
     }
+
+    /* Disable hover reveal on touch */
     .tooltip:hover .tooltiptext { visibility: hidden; opacity: 0; }
 }
 
-/* Reduced motion: skip fade */
 @media (prefers-reduced-motion: reduce) {
-    .tooltip .tooltiptext {
-        transition: none;
-    }
+    .tooltip .tooltiptext { transition: none; }
 }
