@@ -111,22 +111,23 @@ img {
     }
     
     .tooltip .tooltiptext {
-        /* Keep horizontal positioning but fix the gap */
-        position: absolute;
-        left: 100%; /* Start right after the trigger word */
-        right: auto;
-        width: calc(100vw - 100px); /* Prevent viewport overflow */
-        max-width: 280px;
-        
-        /* Keep vertical centering */
+        position: fixed;
+        width: min(280px, calc(100vw - 20px));
+        left: max(10px, min(calc(var(--trigger-x, 50%) + 5px), calc(100vw - 290px)));
+        top: calc(var(--trigger-y, 50%) + var(--trigger-height, 0px) + 5px);
         bottom: auto;
-        top: 50%;
-        transform: translateY(-50%);
-        margin-left: 5px; /* Small gap after trigger word */
+        right: auto;
+        transform: none;
+        margin: 0;
         
         white-space: normal;
         word-wrap: break-word;
         box-sizing: border-box;
+    }
+    
+    /* If tooltip would go off bottom of screen, position above */
+    .tooltip .tooltiptext.above {
+        top: calc(var(--trigger-y, 50%) - 100px - 5px);
     }
     
     .tooltip .tooltiptext::after {
