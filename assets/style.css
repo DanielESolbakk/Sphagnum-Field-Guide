@@ -106,9 +106,9 @@ img {
     .tooltip .tooltiptext {
         /* Override desktop positioning for mobile */
         position: fixed;
-        left: 10px;
-        right: 10px;
-        width: auto;
+        left: 15px;
+        right: 15px;
+        width: fit-content;
         max-width: none;
         
         /* Center vertically relative to trigger */
