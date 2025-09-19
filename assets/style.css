@@ -103,6 +103,11 @@ img {
 
 /* Mobile responsive tooltips */
 @media (max-width: 600px) {
+    .tooltip {
+        display: inline;
+        width: fit-content;
+    }
+    
     .tooltip .tooltiptext {
         /* Override desktop positioning for mobile */
         position: relative;
