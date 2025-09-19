@@ -9,7 +9,7 @@ title: Sphagnum annulatum
 
 <img src="sphagnum-annulatum-foto-kjell-i-flatberg-.jpg" alt="Sphagnum annulatum photo by Kjell I. Flatberg" />  
 
-## Description<sup><a href="#flatberg1988-annulatum">1</a></sup><sup><a href="#flatberg2015-annulatum">2</a></sup>
+## Description<sup><a href="#flatberg1988-annulatum">1</a></sup> | <sup><a href="#flatberg2015-annulatum">2</a></sup>
 
 ### General
 Varying from small to moderately robust, from green, yellowish brown to chestnut-brown to some-times orange-brown to red-brown, usually glossy when moist. On rare occasions, a completely green color variant may occur.    
@@ -79,7 +79,9 @@ Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; i
 
 <img src="stem-cross-section.png" loading="lazy" alt="Stem cross section" />
 
+------------------------------
 {% include lookalikes/lookalikes-complex-annulatum.html %}
+------------------------------
 
 ## **Sources: Text & Images**:
 
