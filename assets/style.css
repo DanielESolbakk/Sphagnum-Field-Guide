@@ -111,22 +111,37 @@ img {
     }
     
     .tooltip .tooltiptext {
-        /* Use logical properties for better responsive behavior */
+        /* Position below the trigger word */
         position: absolute;
-        inset-inline-start: 0;
-        inset-block-start: 100%;
-        inline-size: min(280px, calc(100vi - 20px));
-        margin-block-start: 5px;
+        left: 50%;
+        top: 100%;
+        width: min(280px, calc(100vw - 40px));
+        max-width: calc(100vw - 40px);
+        margin-top: 5px;
+        transform: translateX(-50%);
         
-        /* Prevent overflow */
-        max-inline-size: calc(100vi - 20px);
+        /* BUT THEN OVERRIDDEN BY: */
+        left: max(20px, min(50%, calc(100vw - min(280px, calc(100vw - 40px)) - 20px)));
+        
+        /* Reset desktop positioning */
+        bottom: auto;
+        margin-left: 0;
         
         white-space: normal;
         word-wrap: break-word;
         box-sizing: border-box;
+        
+        /* Prevent overflow */
+        left: max(20px, min(50%, calc(100vw - min(280px, calc(100vw - 40px)) - 20px)));
     }
     
     .tooltip .tooltiptext::after {
-        display: none;
+        /* Position arrow pointing to trigger word */
+        left: 50%;
+        top: -5px;
+        transform: translateX(-50%);
+        margin-left: 0;
+        border-color: transparent transparent #333 transparent;
+        border-width: 0 5px 5px 5px;
     }
 }
