@@ -111,23 +111,19 @@ img {
     }
     
     .tooltip .tooltiptext {
-        position: fixed;
-        width: min(280px, calc(100vw - 20px));
-        left: max(10px, min(calc(var(--trigger-x, 50%) + 5px), calc(100vw - 290px)));
-        top: calc(var(--trigger-y, 50%) + var(--trigger-height, 0px) + 5px);
-        bottom: auto;
-        right: auto;
-        transform: none;
-        margin: 0;
+        /* Use logical properties for better responsive behavior */
+        position: absolute;
+        inset-inline-start: 0;
+        inset-block-start: 100%;
+        inline-size: min(280px, calc(100vi - 20px));
+        margin-block-start: 5px;
+        
+        /* Prevent overflow */
+        max-inline-size: calc(100vi - 20px);
         
         white-space: normal;
         word-wrap: break-word;
         box-sizing: border-box;
-    }
-    
-    /* If tooltip would go off bottom of screen, position above */
-    .tooltip .tooltiptext.above {
-        top: calc(var(--trigger-y, 50%) - 100px - 5px);
     }
     
     .tooltip .tooltiptext::after {
