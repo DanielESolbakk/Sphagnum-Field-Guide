@@ -154,13 +154,46 @@ html, body { overflow-x: visible; }
     .tooltip .tooltiptext { transition:none; }
 }
 
-/* Dark mode */
-:root { color-scheme: light dark; }
-@media (prefers-color-scheme:dark) {
-    .tooltip .tooltiptext { background:#222; }
-    .tooltip .tooltiptext::after { border-top-color:#222; }
-    .tooltip .tooltiptext.tooltip-pos-below::after { border-bottom-color:#222; }
-    .tooltip .tooltiptext.tooltip-pos-above::after { border-top-color:#222; }
+/* Theming variables */
+:root {
+    --theme-bg: #ffffff;
+    --theme-fg: #000000;
+    --tooltip-bg: #333;
+    --tooltip-accent: #555;
+    --tooltip-accent-hover: #222;
+}
+
+[data-theme="dark"] {
+    --theme-bg: #111;
+    --theme-fg: #f5f5f5;
+    --tooltip-bg: #222;
+    --tooltip-accent: #c9c9c9;
+    --tooltip-accent-hover: #ffffff;
+}
+
+/* Apply */
+body {
+    background: var(--theme-bg);
+    color: var(--theme-fg);
+}
+
+/* Use variable for tooltip background + arrows */
+.tooltip .tooltiptext {
+    background: var(--tooltip-bg);
+}
+.tooltip .tooltiptext::after {
+    border-top-color: var(--tooltip-bg);
+}
+.tooltip .tooltiptext.tooltip-pos-below::after {
+    border-bottom-color: var(--tooltip-bg);
+}
+.tooltip .tooltiptext.tooltip-pos-above::after {
+    border-top-color: var(--tooltip-bg);
+}
+
+/* Remove old prefers-color-scheme overrides if still present */
+@media (prefers-color-scheme: dark) {
+    /* (Leave empty – now handled by JS + data-theme) */
 }
 
 /* Fine pointer adjustment */
@@ -176,14 +209,36 @@ html, body { overflow-x: visible; }
   }
 }
 
-/* Add near the top (after * or body) */
-:root {
-    --tooltip-accent: #555;          /* light mode underline */
-    --tooltip-accent-hover: #222;
+.site-header {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:16px;
+    flex-wrap:wrap;
 }
-@media (prefers-color-scheme: dark) {
-    :root {
-        --tooltip-accent: #c9c9c9;   /* brighter for contrast */
-        --tooltip-accent-hover: #fff;
+
+.site-nav {
+    list-style:none;
+    margin:0 0 96px 0; /* restores original bottom spacing */
+    padding:0;
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.theme-toggle {
+    background:none;
+    border:1px solid var(--tooltip-accent);
+    padding:6px 12px;
+    border-radius:20px;
+    cursor:pointer;
+    font:inherit;
+}
+
+/* Mobile adjustments */
+@media (max-width:600px) {
+    .site-nav {
+        margin:0 0 56px 0;
+        gap:14px;
     }
 }

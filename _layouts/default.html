@@ -3,38 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
+    <meta name="theme-color" content="#ffffff" id="meta-theme-color">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: "Sphagnum Field Guide" }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
 </head>
 <body>
-    <header>
-        <div style="text-align: center;">
-            <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-        </div>
-        <div style="text-align: center;">
-            <nav>
-            <ul>
-                <li><a href="{{ site.baseurl }}/">Home</a></li>  
-                <li><a href="{{ site.baseurl }}/Subgenus%20Acutifolia/">Acutifolia</a></li>  
-                <li><a href="{{ site.baseurl }}/Subgenus%20Cuspidata/">Cuspidata</a></li>  
-                <li><a href="{{ site.baseurl }}/Subgenus%20Rigida/">Rigida</a></li>  
-                <li><a href="{{ site.baseurl }}/Subgenus%20Sphagnum/">Sphagnum</a></li>  
-                <li><a href="{{ site.baseurl }}/Subgenus%20Subsecunda/">Subsecunda</a></li>   
-                <li><a href="{{ site.baseurl }}/Glossary%20and%20explanations/">Glossary and Explanations</a></li>  
+    <header class="site-header">
+        <nav aria-label="Main">
+            <ul class="site-nav">
+                <li><a href="{{ site.baseurl }}/">Home</a></li>
+                <li><a href="{{ site.baseurl }}/Subgenus%20Acutifolia/">Acutifolia</a></li>
+                <li><a href="{{ site.baseurl }}/Subgenus%20Cuspidata/">Cuspidata</a></li>
+                <li><a href="{{ site.baseurl }}/Subgenus%20Sphagnum/">Sphagnum</a></li>
+                <li><a href="{{ site.baseurl }}/Subgenus%20Subsecunda/">Subsecunda</a></li>
+                <li><a href="{{ site.baseurl }}/Glossary%20and%20explanations/">Glossary</a></li>
             </ul>
-            </nav>
-        </div>
+        </nav>
+        <button id="theme-toggle" type="button" aria-pressed="false" class="theme-toggle">
+            Dark mode
+        </button>
     </header>
     <main>
         <div class="content">
             {{ content }}
-            <div style="margin-bottom: 80px;"></div>
-        <p>Sphagnum's added so far:</p>
-        <a href="{{ site.baseurl }}/Subgenus%20Cuspidata/Sphagnum%20annulatum">Annulatum</a><br>  
-        <p> Additional external resources::</p>  
-        <a href="https://assets.artdatabanken.se/pdf/45380_1004718.pdf">Sphagnum structure and ecology</a><br>  
-        <a href="https://pubmed.ncbi.nlm.nih.gov/10905610/">Conducting tissues and phyletic relationships of bryophytes</a><br>  
+            <div style="margin-bottom:80px;"></div>
+            <p>Sphagnum added so far:</p>
+            <a href="{{ site.baseurl }}/Subgenus%20Cuspidata/Sphagnum%20annulatum/">S. annulatum</a><br>
+            <p>Additional external resources:</p>
+            <a href="https://assets.artdatabanken.se/pdf/45380_1004718.pdf">Sphagnum structure and ecology</a><br>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/10905610/">Conducting tissues and phyletic relationships of bryophytes</a><br>
         </div>
     </main>
     <script src="{{ '/assets/tooltip-mobile.js' | relative_url }}" defer></script>
+    <script src="{{ '/assets/theme-toggle.js' | relative_url }}" defer></script>
 </body>
 </html>
