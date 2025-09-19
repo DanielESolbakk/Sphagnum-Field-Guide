@@ -40,9 +40,10 @@ html, body { overflow-x: visible; }
 .tooltip {
     position: relative;
     display: inline-block;
-    text-decoration: underline;
-    text-decoration-style: dotted;
-    text-decoration-color: #666;
+    text-decoration: underline dotted;
+    text-decoration-color: var(--tooltip-accent);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
     cursor: help;
 }
 .tooltip:focus-visible {
@@ -173,4 +174,16 @@ html, body { overflow-x: visible; }
       left: clamp(16px, 50%, calc(100vw - 16px));
     }
   }
+}
+
+/* Add near the top (after * or body) */
+:root {
+    --tooltip-accent: #555;          /* light mode underline */
+    --tooltip-accent-hover: #222;
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --tooltip-accent: #c9c9c9;   /* brighter for contrast */
+        --tooltip-accent-hover: #fff;
+    }
 }
