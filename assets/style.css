@@ -105,7 +105,7 @@ img {
 @media (max-width: 600px) {
     .tooltip .tooltiptext {
         /* Override desktop positioning for mobile */
-        position: fixed;
+        position: relative;
         left: 15px;
         right: 15px;
         width: fit-content;
