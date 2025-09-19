@@ -111,18 +111,18 @@ img {
     }
     
     .tooltip .tooltiptext {
-        /* Override desktop positioning for mobile */
-        position: relative;
-        left: 15px;
-        right: 15px;
-        width: fit-content;
-        max-width: none;
+        /* Keep horizontal positioning but fix the gap */
+        position: absolute;
+        left: 100%; /* Start right after the trigger word */
+        right: auto;
+        width: calc(100vw - 100px); /* Prevent viewport overflow */
+        max-width: 280px;
         
-        /* Center vertically relative to trigger */
+        /* Keep vertical centering */
         bottom: auto;
         top: 50%;
         transform: translateY(-50%);
-        margin-left: 0;
+        margin-left: 5px; /* Small gap after trigger word */
         
         white-space: normal;
         word-wrap: break-word;
