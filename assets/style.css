@@ -111,37 +111,29 @@ img {
     }
     
     .tooltip .tooltiptext {
-        /* Position below the trigger word */
-        position: absolute;
-        left: 50%;
-        top: 100%;
-        width: min(280px, calc(100vw - 40px));
-        max-width: calc(100vw - 40px);
-        margin-top: 5px;
-        transform: translateX(-50%);
+        /* Simple fixed positioning that always stays in viewport */
+        position: fixed;
+        left: 10px;
+        right: 10px;
+        width: auto;
+        max-width: none;
         
-        /* BUT THEN OVERRIDDEN BY: */
-        left: max(20px, min(50%, calc(100vw - min(280px, calc(100vw - 40px)) - 20px)));
+        /* Position vertically near the middle of screen */
+        top: 50%;
+        transform: translateY(-50%);
         
         /* Reset desktop positioning */
         bottom: auto;
         margin-left: 0;
+        margin-top: 0;
         
         white-space: normal;
         word-wrap: break-word;
         box-sizing: border-box;
-        
-        /* Prevent overflow */
-        left: max(20px, min(50%, calc(100vw - min(280px, calc(100vw - 40px)) - 20px)));
     }
     
     .tooltip .tooltiptext::after {
-        /* Position arrow pointing to trigger word */
-        left: 50%;
-        top: -5px;
-        transform: translateX(-50%);
-        margin-left: 0;
-        border-color: transparent transparent #333 transparent;
-        border-width: 0 5px 5px 5px;
+        /* Hide arrow for simplicity */
+        display: none;
     }
 }
