@@ -1,4 +1,4 @@
-# Sphagnum Field Guided
+# Sphagnum Field Guide
 
 ## Sphagnum's added so far:
 
