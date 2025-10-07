@@ -1,0 +1,22 @@
+{
+  "name": "sphagnum-field-guide",
+  "version": "1.0.0",
+  "description": "- [Sphagnum annulatum](/Subgenus%20Cuspidata/Sphagnum%20annulatum/)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielESolbakk/Sphagnum-Field-Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielESolbakk/Sphagnum-Field-Guide/issues"
+  },
+  "homepage": "https://github.com/DanielESolbakk/Sphagnum-Field-Guide#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.7.0"
+  }
+}
