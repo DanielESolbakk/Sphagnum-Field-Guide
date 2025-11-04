@@ -4,7 +4,7 @@ This is a Jekyll-based botanical field guide for identifying Sphagnum moss speci
 
 ## Architecture & Project Structure
 
-**Taxonomic Hierarchy**: Content follows strict scientific classification with folders like `Subgenus Cuspidata/Sphagnum annulatum/` containing species pages, images, and microsocopy photos. Each level has an `index.md` with species listings.
+**Taxonomic Hierarchy**: Content follows strict scientific classification with folders like `Subgenus Cuspidata/Sphagnum annulatum/` containing species pages, images, and microscopy photos. Each level has an `index.md` with species listings.
 
 **Jekyll Configuration**: `_config.yml` lists each subgenus directory explicitly under `include:` (no auto‑discovery). Navigation in `_layouts/default.html` is fully hard‑coded (`<li>` links). When adding a new subgenus or top-level section you must (a) add the folder to `_config.yml` if not already included and (b) manually add a `<li>` in the layout—there is currently NO dynamic taxonomy include.
 
@@ -41,9 +41,9 @@ This is a Jekyll-based botanical field guide for identifying Sphagnum moss speci
 **URL Encoding**: Folder names with spaces become URL-encoded (e.g., `Subgenus%20Cuspidata`). Use this pattern in all internal links.
 
 **Scientific Formatting**: 
-- Species names in italics: `*Sphagnum annulatum*`
-- Bold for key identifying features: `**terminal bud conspicuous**`
-- Superscript citations: `<sup><a href="#reference">1</a></sup>`
+ - Species names in italics: `*Sphagnum annulatum*`
+ - Bold for key identifying features: `**terminal bud conspicuous**`
+ - Superscript citations: Minimal HTML example: <sup>1</sup> (In species pages, wrap the number in an anchor pointing to the references section id.)
 
 **Botanical Terminology**: Always use precise scientific terms. Reference `_data/glossary.yml` for definitions. When adding new terms, update glossary first, then use tooltip includes.
 
