@@ -83,6 +83,8 @@ Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; i
 {% include lookalikes/lookalikes-complex-annulatum.html %}
 ------------------------------
 
+# &nbsp; <!-- this ends the "lookalikes" collapse and protects the lower level headers below from the collapse feature -->
+
 ## **Sources: Text & Images**:
 
 <ol>
