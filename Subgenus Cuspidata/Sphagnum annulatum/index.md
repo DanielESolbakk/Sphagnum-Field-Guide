@@ -162,6 +162,7 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 <img src="20250712_144259.jpg" loading="lazy" />  
 
 <img src="20250712_144305.jpg" loading="lazy" />   
+↑ See blue arrows  
 
 <img src="20250712_144318.jpg" loading="lazy" />  
 
@@ -194,10 +195,10 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 
 <img src="20240818_144117.jpg" loading="lazy" />  
 ↑ Can sometimes have big and weirdly (not displayed in this image) shaped pores on the bottom, and sometimes throughout the branch leaves  
-
-<img src="20230807_134106.jpg" loading="lazy" />  
-↑ More likely than not a good bit longer than wide stem leaf  
-
+   
+<img src="20230807_134106.jpg" loading="lazy" />    
+↑ More likely than not a good bit longer than wide stem leaf    
+   
 <img src="20230807_134721.jpg" loading="lazy" /> 
 
 <img src="20230807_134820.jpg" loading="lazy" />  
