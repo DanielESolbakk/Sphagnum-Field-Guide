@@ -246,20 +246,25 @@ body {
   list-style: none;
   cursor: pointer;
   padding: 0.75rem 1rem;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 0.6rem;
   position: relative;
   user-select: none;
   background: var(--tooltip-accent);
   color: var(--theme-bg);
-  border-radius: 6px;
+  border-radius: 8px;
   margin-bottom: 0.5rem;
-  transition: background-color 0.2s ease;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  max-width: fit-content;
+  font-weight: 600;
 }
 
 .collapsible summary:hover {
   background: var(--tooltip-accent-hover);
+  box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+  transform: translateY(-1px);
 }
 
 .collapsible summary::-webkit-details-marker {
@@ -273,34 +278,29 @@ body {
 }
 
 .collapsible-indicator {
-  margin-left: auto;
-  width: 1rem;
-  height: 1rem;
+  margin-left: 0.5rem;
+  width: 1.2rem;
+  height: 1.2rem;
   display: inline-block;
   position: relative;
 }
 
-.collapsible-indicator::before,
 .collapsible-indicator::after {
   content: "";
   position: absolute;
-  inset: 0;
-  background: var(--tooltip-accent);
-  border-radius: 2px;
-  transform-origin: 50% 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(0deg);
+  width: 0;
+  height: 0;
+  border-left: 6px solid var(--theme-bg);
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
   transition: transform 0.25s ease;
 }
 
-.collapsible-indicator::before {
-  transform: rotate(0deg);
-}
-
-.collapsible-indicator::after {
-  transform: rotate(90deg);
-}
-
 .collapsible[open] .collapsible-indicator::after {
-  transform: rotate(0deg);
+  transform: translate(-50%, -50%) rotate(90deg);
 }
 
 .collapsible-content {
