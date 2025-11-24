@@ -1,7 +1,7 @@
-/* Auto-collapse headings with .collapse class
+/* Auto-collapse headings with collapse markers
  * Usage:
- * Add a class to a heading: `### Branches { .collapse }`
- * Optional open by default: `### Branches { .collapse-open }`
+ * Add marker to heading text: `### Habitat { .collapse }`
+ * Optional open by default: `### Habitat { .collapse-open }`
  * No plugins required (runs client-side after load).
  */
 (function(){
@@ -15,21 +15,34 @@
     return details;
   }
   function isHeading(el){return /^H[2-6]$/.test(el.tagName);} // skip h1
-  // Process heading-based collapses
-  const headings=[...document.querySelectorAll('h2.collapse, h3.collapse, h4.collapse, h5.collapse, h6.collapse, h2.collapse-open, h3.collapse-open, h4.collapse-open, h5.collapse-open, h6.collapse-open')];
-  headings.forEach(h=>{
+  // Process headings with collapse markers in text
+  const allHeadings=[...document.querySelectorAll('h2, h3, h4, h5, h6')];
+  allHeadings.forEach(h=>{
     // Already processed? (in case of reflow)
     if(h.dataset.collapsedProcessed) return;
-    const open=h.classList.contains('collapse-open');
-    const details=makeDetails(h.innerHTML, open);
+    
+    const text = h.textContent || h.innerText || '';
+    const collapseMatch = text.match(/\{\s*\.collapse(-open)?\s*\}$/);
+    
+    if(!collapseMatch) return; // Skip if no collapse marker
+    
+    const open = collapseMatch[1] === '-open';
+    // Remove the marker from the heading text
+    const cleanTitle = text.replace(/\{\s*\.collapse(-open)?\s*\}$/, '').trim();
+    
+    const details=makeDetails(cleanTitle, open);
     h.dataset.collapsedProcessed='true';
-    // Move following siblings until next heading of same or higher level with collapse class OR end
+    
+    // Move following siblings until next heading of same or higher level OR end
     const level=parseInt(h.tagName.substring(1),10);
     let sib=h.nextElementSibling;
     while(sib){
       if(isHeading(sib)){
         const sibLevel=parseInt(sib.tagName.substring(1),10);
-        if(sibLevel<=level && (sib.classList.contains('collapse') || sib.classList.contains('collapse-open'))) break;
+        const sibText = sib.textContent || sib.innerText || '';
+        const sibHasCollapse = sibText.match(/\{\s*\.collapse(-open)?\s*\}$/);
+        
+        if(sibLevel<=level && sibHasCollapse) break;
       }
       const next=sib.nextElementSibling;
       details.appendChild(sib);
