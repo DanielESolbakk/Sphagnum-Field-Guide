@@ -79,12 +79,9 @@ Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; i
 
 <img src="stem-cross-section.png" loading="lazy" alt="Stem cross section" />
 
-------------------------------
 {% include lookalikes/lookalikes-complex-annulatum.html %}
 ------------------------------
-
 # &nbsp; <!-- this ends the "lookalikes" collapse and protects the lower level headers below from the collapse feature -->
-
 ## **Sources: Text & Images**:
 
 <ol>
