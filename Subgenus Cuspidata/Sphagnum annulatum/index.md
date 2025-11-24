@@ -29,7 +29,7 @@ The pendent branches are more slender and shorter than the divergent branches.
 **Stem pale** or pale with red portions (particularly during late autumn and in wet habitats).
 **Stem leaves ± spreading from stem when fresh**, longer than wide, lingulate to usually lingulate-triangular, moderately to distinctly concave and broadest at or just above the base; apex acute to acute-obtuse, rarely narrowly truncate-erose at the very end. Stem leaves of male plant relatively shorter and broader, and more obtuse at the apex than in female plants.  
 
-### Habitat
+### Habitat { .collapse } 
 Acts as a reliable indicator of minerothrophic wetlands. Not found in ombrotrophic bogs.  
 
 Sphagnum annulatum is predominantly a mire species. But in subalpine and low alpine areas in Norway it is also sometimes found in spring and snow-bed vegetation on very shallow peat. In mires, it is an exclusively minerotrophic species. It prefers sloping fens, but is sometimes also found in topogenous fens.  
@@ -98,7 +98,7 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 
 [The Norwegian Sphagna: a field colour guide](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/271981)
 
-## **Additional Images taken by yours truely**
+## **Additional Images taken by yours truely** { .collapse } 
 
 <img src="20230617_105027.jpg" loading="lazy" />  
 
