@@ -14,9 +14,10 @@
     details.appendChild(summary);
     return details;
   }
-  function isHeading(el){return /^H[2-6]$/.test(el.tagName);} // skip h1
+  function isHeading(el){return /^H[1-6]$/.test(el.tagName);}
+  
   // Process headings with collapse markers in text
-  const allHeadings=[...document.querySelectorAll('h2, h3, h4, h5, h6')];
+  const allHeadings=[...document.querySelectorAll('h1, h2, h3, h4, h5, h6')];
   allHeadings.forEach(h=>{
     // Already processed? (in case of reflow)
     if(h.dataset.collapsedProcessed) return;
