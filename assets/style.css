@@ -238,13 +238,8 @@ body {
 /* Collapsible sections */
 .collapsible {
   margin: 1.2rem 0;
-  border: 1px solid var(--tooltip-accent);
   border-radius: 6px;
   background: var(--theme-bg);
-}
-
-.collapsible[open] {
-  box-shadow: 0 0 0 1px var(--tooltip-accent-hover);
 }
 
 .collapsible summary {
@@ -256,6 +251,15 @@ body {
   gap: 0.6rem;
   position: relative;
   user-select: none;
+  background: var(--tooltip-accent);
+  color: var(--theme-bg);
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  transition: background-color 0.2s ease;
+}
+
+.collapsible summary:hover {
+  background: var(--tooltip-accent-hover);
 }
 
 .collapsible summary::-webkit-details-marker {
@@ -309,10 +313,15 @@ body {
   }
   .collapsible summary {
     padding: 0.65rem 0.85rem;
+    font-size: 1rem;
+    margin-bottom: 0.4rem;
+    min-height: 44px;
+    align-items: center;
   }
   .collapsible-content {
     padding: 0.65rem 0.85rem 0.9rem;
   }
+}
   .site-nav {
     margin: 0 0 56px 0;
     gap: 14px;
