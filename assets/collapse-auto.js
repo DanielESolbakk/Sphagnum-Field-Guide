@@ -39,10 +39,9 @@
     while(sib){
       if(isHeading(sib)){
         const sibLevel=parseInt(sib.tagName.substring(1),10);
-        const sibText = sib.textContent || sib.innerText || '';
-        const sibHasCollapse = sibText.match(/\{\s*\.collapse(-open)?\s*\}$/);
         
-        if(sibLevel<=level && sibHasCollapse) break;
+        // Stop at any heading of same or higher level (regardless of collapse marker)
+        if(sibLevel<=level) break;
       }
       const next=sib.nextElementSibling;
       details.appendChild(sib);
