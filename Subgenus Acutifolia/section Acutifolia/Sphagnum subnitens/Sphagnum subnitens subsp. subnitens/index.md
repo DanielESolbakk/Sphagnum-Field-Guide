@@ -1,6 +1,6 @@
 # Sphagnum-Field-Guide
 
-Fibrils in stem leaves only during water stress
+Fibrils in stem leaves rare. Can show up if waterstressed.
 
 ## Sources
 [Fibrils in stem leaves](https://www.inaturalist.org/observations/287369385#activity_comment_5ef34550-f931-4afd-a1da-42f1591a8f05)
