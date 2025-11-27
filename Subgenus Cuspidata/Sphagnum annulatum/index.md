@@ -5,7 +5,7 @@ title: Sphagnum annulatum
 
 # Sphagnum annulatum
 
-<img src="F148131920x1920.webp" alt="Sphagnum annulatum" />  
+<img src="20250720_174306.jpg" alt="Sphagnum annulatum" />  
 
 <img src="sphagnum-annulatum-foto-kjell-i-flatberg-.jpg" alt="Sphagnum annulatum photo by Kjell I. Flatberg" />  
 
@@ -48,6 +48,8 @@ Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; i
 <img src="bioklimatisk-seksjon.webp" loading="lazy" alt="Bioklimatisk seksjon" />
 
 ## Macro Pics
+
+<img src="F148131920x1920.webp" loading="lazy" alt="Sphagnum annulatum top down" />  
 
 <img src="shoot-side.png" loading="lazy" alt="Whole shoot" />
 
