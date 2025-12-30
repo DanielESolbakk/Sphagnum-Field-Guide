@@ -36,16 +36,16 @@ Some species like S. annulatum always has a prominent top bud whereas a species 
 ↑ Sphagnum molle, more or less flat capitulum where it's hard to seperate single sphagnums from each other. S. molle is normally not star shaped nor equiped with a visible top bud.
 
 <img src="capitulum-obtusum.jpg" alt="capitulum-obtusum.jpg"/>  
-↑ Sphagnum obtusum
+↑ Sphagnum obtusum, central small head branches turning inwards and hiding the top bud from view, also slightly stellate
 
 <img src="capitulum-strictum-subnitens.jpg" alt="capitulum-strictum-subnitens.jpg"/>  
-↑ Sphagnum strictum (green) and subnitens (red)
+↑ Sphagnum strictum (green) and subnitens (red), S. strictum with its pompom like head makes it hard to think sphagnum can be star shaped. S. subnitens shows a bit of top bud in this picture (the slightly yellow central part of the capitula)
 
 <img src="capitulum-teres.jpg" alt="capitulum-teres.jpg"/>  
-↑ Sphagnum teres
+↑ Sphagnum teres, the classic star shaped and visible top bud combo
 
 <img src="capitulum-cuspidatum.jpg" alt="capitulum-cuspidatum.jpg"/>  
-↑ Sphagnum cuspidatum
+↑ Sphagnum cuspidatum, also nicknamed "drowned cat" for its formless and chaotic capitula (but this is only when it is growing very wet)
 
 ### Stem
 
