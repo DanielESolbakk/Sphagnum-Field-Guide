@@ -1,8 +1,12 @@
 # Explanations
 
+## Growth Patterns
+
+Sphagnum grow upwards or prostrate depending on the relative wetness and species.
+
 ## Sphagnum Structure
 
-The chapters below will serve as a guide for understanding the most important parts of sphagnum used to identify them. It also serves as a general overview of the structural organization of sphagnum. 
+The chapters below will serve as a guide for understanding the most important parts of sphagnum used to identify them. It also serves as a general overview of the structural organization of sphagnum.
 
 A sphagnum consists of:
 
@@ -10,14 +14,26 @@ A sphagnum consists of:
 
 * Branches which lays flat to or sticks out from the stem
 
-* Leaves, of which it has two types, one type which form the main parts of the branches and the other type which lays flat to or sticks out from the stem
+* Leaves, of which it has two types, one type which covers the branches and the other type which lays flat on or sticks out from the stem
 
-<img src="anatomydiagram.png" alt="Sphagnum lindbergii diagram"/>  
+<img src="anatomy-diagram-lindbergii.png" alt="Sphagnum lindbergii diagram"/>  
 ↑ Sphagnum lindbergii
 
 ### Capitulum
 
+The head or capitulum of a sphagnum is a cluster of young branches at the top of the stem. As the stem grows the capitulum branches will end up as the adult branches you can spot further down the stem. The capitulum is often star like in shape, especially when viewed from above, and often has a visible top bud. The {% include tooltip.html term="stellate" text="stellateness" %} of the capitulum is often used as an identifying trait for certain species. The top bud or lack thereof, as well as how the capitulum branches rotate and curve is often a very useful identifying trait for certain species.  
+Some species like S. annulatum always has a prominent top bud whereas a species like S. cuspidatum almost never has a visible top bud. It makes sense then that S. majus, which is a hybrid between the two, comes with a top bud visibility which slides to either extreme of the visiblity scale.
+
+<img src="capitulum-majus.jpg" alt="Sphagnum majus capitulum"/>  
+↑ Sphagnum majus, notice the star like shape of the head and the slightly hidden dark brown cylindrical top bud in the center. Also notice the unruly and "random" look of the small, central capitulum branches
+
+<img src="capitulum-balticum.jpg" alt="Sphagnum balticum capitulum"/>  
+↑ Sphagnum balticum, notice the less star like shape of the head and the lack of a easily visible top bud in the center. Also notice the straighter small, central capitulum branches and branch leaves as compared to sphagnum majus above
+
 ### Stem
+
+<img src="stem-annulatum.jpg" alt="Sphagnum annulatum stem"/>  
+↑ Sphagnum annulatum
 
 ### Branches
 
