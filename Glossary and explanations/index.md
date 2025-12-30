@@ -30,6 +30,23 @@ Some species like S. annulatum always has a prominent top bud whereas a species 
 <img src="capitulum-balticum.jpg" alt="Sphagnum balticum capitulum"/>  
 ↑ Sphagnum balticum, notice the less star like shape of the head and the lack of a easily visible top bud in the center. Also notice the straighter small, central capitulum branches and branch leaves as compared to sphagnum majus above
 
+#### Additional Capitulum Examples { .collapse }
+
+<img src="capitulum-molle.jpg" alt="capitulum-molle.jpg"/>  
+↑ Sphagnum molle, more or less flat capitulum where it's hard to seperate single sphagnums from each other. S. molle is normally not star shaped nor equiped with a visible top bud.
+
+<img src="capitulum-obtusum.jpg" alt="capitulum-obtusum.jpg"/>  
+↑ Sphagnum obtusum
+
+<img src="capitulum-strictum-subnitens.jpg" alt="capitulum-strictum-subnitens.jpg"/>  
+↑ Sphagnum strictum (green) and subnitens (red)
+
+<img src="capitulum-teres.jpg" alt="capitulum-teres.jpg"/>  
+↑ Sphagnum teres
+
+<img src="capitulum-cuspidatum.jpg" alt="capitulum-cuspidatum.jpg"/>  
+↑ Sphagnum cuspidatum
+
 ### Stem
 
 <img src="stem-annulatum.jpg" alt="Sphagnum annulatum stem"/>  
