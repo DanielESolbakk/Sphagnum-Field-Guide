@@ -49,8 +49,24 @@ Some species like S. annulatum always has a prominent top bud whereas a species 
 
 ### Stem
 
+The stem of sphagnum is also sometimes used as a identifying trait for specific species. Flatberg has written about how certain species' stem snap easily, whilst others bend. I often use the colour of the stem as one trait in identification. For example S. girgensohnii cannot have a red stem (they can have brown and orange stems though), whilst the very similar species S. russowii does often have at least red speckles in it stem. Therefore, if you find a S. girgensohnii with red in its stem, it should point you towards checking other identifying traits for S. russowii or other lookalikes that can have red in its stem.  
+Some sphagnum have alternate permanent colour forms. For example S. russowii, which sometimes shows up completely orange. However, the stem will still have its traditional colouring of a sliding and speckled scale of green to red. The same logic also follows other sphagnum with alternate permanent colour forms.
+
 <img src="stem-annulatum.jpg" alt="Sphagnum annulatum stem"/>  
-↑ Sphagnum annulatum
+↑ Sphagnum annulatum, branches and stem leaves attached
+
+#### Stem Cross Section
+
+After cutting a {% include tooltip.html term="cross section" text="cross section" %} from a sphagnum's stem you will see three often distinct layers. These, especially the cortex, or the lack of these are sometimes used as an identifying trait of certain sphagunm species. Sometimes these layers are difficult to see the difference between these layers.
+
+<img src="cross-section-stem-russowii.png" alt="cross-section-stem-russowii.png"/>  
+↑ Sphagnum russowii stem cross section, image source: [Bartosz Czołczyński](https://www.inaturalist.org/people/bagli), [Inaturalist 31.12.25](https://www.inaturalist.org/observations/328391996), edited by me to differentiate layers with text and contrast  
+
+* The {% include tooltip.html term="cortex" text="cortex" %} is the outermost zone of the stem when looking at a cross section. It consists of large cortical cells. The number of layers, or relative lack of {% include tooltip.html term="cortical" text="cortical" %} cells is sometimes used as an identifying trait of certain sphagnum species.
+
+* The {% include tooltip.html term="scleroderm" text="scleroderm" %} is the layer underneath the cortex. These thicker and smaller cells are often more clearly coloured. The colours vary and depends on the species of the sphagnum and is sometimes used as a identifying trait for certain species.
+
+* The central parenchyma, which is the inermost layer.
 
 ### Branches
 
