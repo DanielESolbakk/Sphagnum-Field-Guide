@@ -8,40 +8,45 @@ title: Sphagnum annulatum
 <img src="20250720_174306.jpg" alt="Sphagnum annulatum" />  
 
 <img src="sphagnum-annulatum-foto-kjell-i-flatberg-.jpg" alt="Sphagnum annulatum photo by Kjell I. Flatberg" />  
+↑ Photo source: Kjell Ivar Flatberg, publisher: NTNU Vitenskapsmuseet, License CC BY 4.0
 
 ## Description<sup><a href="#flatberg1988-annulatum">1</a></sup> | <sup><a href="#flatberg2015-annulatum">2</a></sup>
 
 ### General
-Varying from small to moderately robust, from green, yellowish brown to chestnut-brown to some-times orange-brown to red-brown, usually glossy when moist. On rare occasions, a completely green color variant may occur.    
-Sphagnum annulatum is a fairly phenorigid species, which reflects its fairly narrow habitat amplitude along the "dry-wet" ecogradient in its mire habitats. In mire vegetation the plants are usually medium-sized and glossy chestnut-brown in colour, and the capitulum branches are fairly straight when viewed from above. But sometimes mainly in spring fen vegetation in subalpine and alpine localities - the plants are often dark orange to red-brown with pronouncedly curved capitulum branches and tightly appressed and imbricate divergent branch leaves; such plants of S. annulatum can be mistaken for species in sect. Subsecunda, especially S. auricu-latum.
+
+Varying from small to moderately robust, from green, yellowish brown to chestnut-brown to some-times orange-brown to red-brown, usually glossy when moist. On rare occasions, a completely green color variant may occur.  
+Sphagnum annulatum is a fairly phenorigid species, which reflects its fairly narrow habitat amplitude along the "dry-wet" ecogradient in its mire habitats. In mire vegetation the plants are usually medium-sized and glossy chestnut-brown in colour, and the capitulum branches are fairly straight when viewed from above. But sometimes mainly in spring fen vegetation in subalpine and alpine localities - the plants are often dark orange to red-brown with pronouncedly curved capitulum branches and tightly appressed and imbricate divergent branch leaves; such plants of S. annulatum can be mistaken for species in sect. Subsecunda, especially S. auriculatum.
 
 ### {% include tooltip.html term="capitulum" text="Capitulum" %}
+
 {% include tooltip.html term="capitulum" text="Capitulum" %} slightly to distinctly 5-radiate; **outer branches straight to somewhat laterally curved (as viewed from above) and distinctly arcuato-decurved (as viewed from the side);** relatively thick in their middle part and fairly abruptly tapering at the distal end; inner branches erect; **terminal bud conspicuous, usually longer than or as long as the inner branches of the capitulum and not concealed by them;** male capitulum during autumn strongly convex, with comparatively short and clavate outer antheridial branches.
 
 ### Branches
-Fascicles loosely arranged and typically displaying two divergent and 1–2 pendent branches that separate slightly from the main stem.
-**The divergent branches often curved downwards and are often pronouncedly thickest in middle part.**   
-Divergent branch leaves distinctly shorter near the proximal end than in the middle part of the branch. Note: Many sphagnum can display smaller leaves at the base of the divergent branches, but S. annulatum often has the entire proximal end full of much smaller leaves than in the middle part of the branch. **Divergent branch leaves unranked, erecto-patently and distantly arranged to more commonly imbricate, straight to often markedly subsecund.** When dry slightly more spreading.   
 
+Fascicles loosely arranged and typically displaying two divergent and 1–2 pendent branches that separate slightly from the main stem.
+**The divergent branches often curved downwards and are often pronouncedly thickest in middle part.**  
+Divergent branch leaves distinctly shorter near the proximal end than in the middle part of the branch. Note: Many sphagnum can display smaller leaves at the base of the divergent branches, but S. annulatum often has the entire proximal end full of much smaller leaves than in the middle part of the branch. **Divergent branch leaves unranked, erecto-patently and distantly arranged to more commonly imbricate, straight to often markedly subsecund.** When dry slightly more spreading.  
 The pendent branches are more slender and shorter than the divergent branches.  
 
 ### Stem
+
 **Stem pale** or pale with red portions (particularly during late autumn and in wet habitats).
 **Stem leaves ± spreading from stem when fresh**, longer than wide, lingulate to usually lingulate-triangular, moderately to distinctly concave and broadest at or just above the base; apex acute to acute-obtuse, rarely narrowly truncate-erose at the very end. Stem leaves of male plant relatively shorter and broader, and more obtuse at the apex than in female plants.  
 
-### Habitat { .collapse } 
+### Habitat { .collapse }
+
 Acts as a reliable indicator of minerothrophic wetlands. Not found in ombrotrophic bogs.  
 
 Sphagnum annulatum is predominantly a mire species. But in subalpine and low alpine areas in Norway it is also sometimes found in spring and snow-bed vegetation on very shallow peat. In mires, it is an exclusively minerotrophic species. It prefers sloping fens, but is sometimes also found in topogenous fens.  
 Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; it occurs mainly in **intermediate fens**, more occasionally in transitional poor fens and rarely in rich fens. High-level carpets and **lawns** are the typical habitats on the "hummock-mud-bottom" vegetational gradient. More occasionally it is found in wetter carpets, and rarely at low hummock level. The surrounding vegetation always has a clear mire margin character.
 
-<img src="20250720_164130.jpg" />
+<img src="20250720_164130.jpg" loading="lazy" />
 
-<img src="20250712_145252.jpg" />
+<img src="20250712_145252.jpg" loading="lazy" />
 
-<img src="20230617_142526.jpg" />
+<img src="20230617_142526.jpg" loading="lazy" />
 
-<img src="20250621_153347.jpg" />
+<img src="20250621_153347.jpg" loading="lazy" />
 
 <img src="bioklimatisk-sone.webp" loading="lazy" alt="Bioklimatisk sone" />
 
@@ -49,42 +54,59 @@ Along the "poor-rich" vegetational gradient, it has a fairly narrow amplitude; i
 
 ## Macro Pics
 
-<img src="F148131920x1920.webp" loading="lazy" alt="Sphagnum annulatum top down" />  
+<img src="annulatum-capitulum.jpg" loading="lazy" alt="Sphagnum annulatum capitulum" />  
 
-<img src="shoot-side.png" loading="lazy" alt="Whole shoot" />
+<img src="annulatum-side-view.jpg" loading="lazy" alt="Whole shoot" />
 
-<img src="shoot-top-down.png" loading="lazy" alt="Side shoot" />
+<img src="shoot-multiple-2.webp" loading="lazy" alt="Multiple shoots" />  
+↑ Photo source: Kjell Ivar Flatberg, publisher: NTNU Vitenskapsmuseet, License CC BY 4.0
 
-<img src="shoot-multiple.png" loading="lazy" alt="Multiple shoots" />
+<img src="shoot-multiple-3.webp" loading="lazy" alt="Multiple shoots" />  
+↑ With "pa" S. papillosum, "li" S. lindbergii and "pu" S. pulchrum. Photo source: Kjell Ivar Flatberg, publisher: NTNU Vitenskapsmuseet, License CC BY 4.0
 
-<img src="shoot-multiple-2.webp" loading="lazy" alt="Multiple shoots" />
+<img src="branch-fascicle.webp" loading="lazy" alt="Branch fascicle" />  
+↑ Photo source: Kjell Ivar Flatberg, publisher: NTNU Vitenskapsmuseet, License CC BY 4.0
 
-<img src="shoot-multiple-3.webp" loading="lazy" alt="Multiple shoots" />
+<img src="20250807_135500.jpg" loading="lazy" alt="Branch fascicle detail" />  
+↑ Classic thickest in the middle of the divergent branches look
 
-<img src="Sphagnum annulatum in Tuulijoki mires Kittilä Michael Lüth.png" loading="lazy" alt="Sphagnum annulatum in Tuulijoki mires by Michael Lüth" />
+<img src="annulatum-stem-with-branches-and-leaves.jpg" loading="lazy" alt="Stem leaves on stem" />  
+↑ Stem with stem leaves and some branches still attached
 
-<img src="branch-fascicle.webp" loading="lazy" alt="Branch fascicle" />
-
-<img src="20250807_135500.jpg" loading="lazy" alt="Branch fascicle detail" />
-
-<img src="stem-leaves-on-stem.webp" loading="lazy" alt="Stem leaves on stem" />
+<img src="stem-leaves-on-stem.webp" loading="lazy" alt="Stem leaves on stem" />  
+↑ Stem with stem leaves attached. Photo source: Kjell Ivar Flatberg, publisher: NTNU Vitenskapsmuseet, License CC BY 4.0
 
 ## Micro Pics
 
-<img src="leaf-stem.png" loading="lazy" alt="Stem leaf" />
-
-<img src="leaf-stem-2.png" loading="lazy" alt="Stem leaf" />
+<img src="annulatum-stem-leaf-topaz-upscale-enhance-2x-sharpen.jpg" loading="lazy" alt="Stem leaf" />
+↑ Lingulate-triangular with a rounded and sometimes eroded tip. Hyalocysts fibrillose in the tip.
 
 <img src="leaf-stem-branch.webp" loading="lazy" alt="Stem leaf + branch leaf" />
+↑ Stem leaf to the left, branch leaf to the right. Photo source: Kjell Ivar Flatberg, publisher: NTNU Vitenskapsmuseet, License CC BY 4.0
 
-<img src="leaf-branch-cross-section.png" loading="lazy" alt="Branch leaf cross section" />
+<img src="stem-branch-leaf-topaz-upscale-enhance-2x-sharpen.jpg" loading="lazy" alt="Stem and branch leaf" />
+↑ Stem leaf at the top (notice the fibrillose hyalocysts towards the tip), branch leaf in the middle and folded branch leaf at the bottom
 
-<img src="stem-cross-section.png" loading="lazy" alt="Stem cross section" />
+<img src="annulatum-branch-leaf.jpg" loading="lazy" alt="Stem cross section" />
+↑ Hyalocysts of the bottom of the branch leaf most often has a similar length as in the middle section of the branch leaf
+
+<img src="annulatum-branch-leaf-pores-topaz-upscale-denoise-enhance-2x-sharpen.jpg" loading="lazy" alt="Stem cross section" />
+↑ Pores on convex side of the branch leaf in one to two rows. Very few or no interfibrillose intervals without pores
+
+<img src="annulatum-branch-leaf-pores.jpg" loading="lazy" alt="Stem cross section" />
+↑ Often very symmetrical looking pores in branch leaf
+
+<img src="annulatum-branch-leaf-concave-pores.jpg" loading="lazy" alt="Stem cross section" />
+↑ Always has a good amount of pores on the concave side of the branch leaf, but these are often hard to see without heavy staining
+
+<img src="annulatum-stem-cross-section-topaz-upscale-enhance-2x-sharpen.jpg" loading="lazy" alt="Stem cross section" />
+↑ Stem cross section. Notice the undifferentiated and/or poorly developed cortical cells
 
 {% include lookalikes/lookalikes-complex-annulatum.html %}
 ------------------------------
 # &nbsp; <!-- this ends the "lookalikes" collapse and protects the lower level headers below from the collapse feature -->
-## **Sources: Text & Images**:
+
+## **Sources: Text & Images**
 
 <ol>
   <li id="flatberg1988-annulatum">FLATBERG, K. I. (1988). Taxonomy of Sphagnum annulatum and related species. <em>Annales Botanici Fennici</em>, 25(4), 303–350. <a href="https://www.jstor.org/stable/23725638?read-now=1%3Fread-now%3D1&seq=32" target="_blank">http://www.jstor.org/stable/23725638</a></li>
@@ -102,8 +124,6 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 ## **Additional Images taken by yours truely** { .collapse } 
 
 <img src="20230617_105027.jpg" loading="lazy" />  
-
-<img src="20230617_105037.jpg" loading="lazy" />  
 
 <img src="20230618_110417.jpg" loading="lazy" />  
 
@@ -138,8 +158,6 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 <img src="20240817_175558.jpg" loading="lazy" />  
 
 <img src="20240817_175615.jpg" loading="lazy" />  
-
-<img src="20240818_143706.jpg" loading="lazy" />  
 
 <img src="20250621_151145.jpg" loading="lazy" />  
 
