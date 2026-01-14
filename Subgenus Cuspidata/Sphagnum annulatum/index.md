@@ -14,8 +14,13 @@ title: Sphagnum annulatum
 
 ### General
 
-Varying from small to moderately robust, from green, yellowish brown to chestnut-brown to some-times orange-brown to red-brown, usually glossy when moist. On rare occasions, a completely green color variant may occur.  
-Sphagnum annulatum is a fairly phenorigid species, which reflects its fairly narrow habitat amplitude along the "dry-wet" ecogradient in its mire habitats. In mire vegetation the plants are usually medium-sized and glossy chestnut-brown in colour, and the capitulum branches are fairly straight when viewed from above. But sometimes mainly in spring fen vegetation in subalpine and alpine localities - the plants are often dark orange to red-brown with pronouncedly curved capitulum branches and tightly appressed and imbricate divergent branch leaves; such plants of S. annulatum can be mistaken for species in sect. Subsecunda, especially S. auriculatum.
+Sphagnum annulatum is a fairly phenorigid species. But still varying from **small to moderately robust**, from green, **yellow** to **chestnut-brown** to some-times orange-brown to red-brown, glossy looking when moist. On rare occasions, a completely green color variant may occur.  
+
+- Very prominent top bud which is never hidden by its inner capitulum branches
+- Most often has a clearly star shaped capitulum
+- Brown or orange coloured
+- Pale stem with longer than wide stem leaves which stick out from the stem
+- Clearly shorter branch leaves at the base of the divergent branches, which gradually grows longer towards the middle of the branch
 
 ### {% include tooltip.html term="capitulum" text="Capitulum" %}
 
@@ -32,6 +37,12 @@ The pendent branches are more slender and shorter than the divergent branches.
 
 **Stem pale** or pale with red portions (particularly during late autumn and in wet habitats).
 **Stem leaves ± spreading from stem when fresh**, longer than wide, lingulate to usually lingulate-triangular, moderately to distinctly concave and broadest at or just above the base; apex acute to acute-obtuse, rarely narrowly truncate-erose at the very end. Stem leaves of male plant relatively shorter and broader, and more obtuse at the apex than in female plants.  
+
+### Variation
+
+It is fairly phenorigid both macro and microscopically. It also has a fairly narrow habitat amplitude along the "dry-wet" ecogradient in its mire habitats. In mires it  is usually medium sized and chestnut brown, as seen in the images at the top of this page. The capitulum branches are also fairly straight when viewed from above.  
+Sometimes, but mainly in fen vegetation in subalpine and alpine locations they are often dark orange to red-brown with a more curved capitulum and imbricate divergent branch leaves.  
+As mentioned earlier there also exists a uncommon permanently green morph.
 
 ### Habitat { .collapse }
 
@@ -175,9 +186,6 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 <img src="20250621_151421.jpg" loading="lazy" />  
 ↑ Can be found in wide mats
 
-<img src="sphagnum_annulatum1.jpg" loading="lazy" alt="Sphagnum annulatum" />    
-↑ Can be found quite "drowned cat" looking  
-
 <img src="20250712_144259.jpg" loading="lazy" />  
 
 <img src="20250712_144305.jpg" loading="lazy" />   
@@ -192,11 +200,13 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 <img src="20250712_150356.jpg" loading="lazy" />  
 
 <img src="20250714_103356.jpg" loading="lazy" />  
-↑ Can be medium sized and slightly wild looking
+↑ Can be medium sized and slightly wild looking, but still has fairly straight capitulum branches when viewed from above. Also notice the long and slender stem leaves sticking out from the stem.
 
 <img src="20250714_103409.jpg" loading="lazy" />  
+↑ Still has fairly straight capitulum branches when viewed from above.
 
 <img src="20250714_103423.jpg" loading="lazy" />  
+↑ Also notice the long and slender stem leaves sticking out from the stem.
 
 <img src="20230807_131718.jpg" loading="lazy" />  
 
@@ -216,7 +226,7 @@ Gilles Ayotte, Line Rochefort - Sphagnum Mosses of Eastern Canada-Éditions JFD 
 ↑ Can sometimes have big and weirdly (not displayed in this image) shaped pores on the bottom, and sometimes throughout the branch leaves  
    
 <img src="20230807_134106.jpg" loading="lazy" />    
-↑ More likely than not a good bit longer than wide stem leaf    
+↑ More likely than not a good bit longer than wide stem leaf  
    
 <img src="20230807_134721.jpg" loading="lazy" /> 
 
