@@ -44,6 +44,26 @@ It is fairly phenorigid both macro and microscopically. It also has a fairly nar
 Sometimes, but mainly in fen vegetation in subalpine and alpine locations they are often dark orange to red-brown with a more curved capitulum and imbricate divergent branch leaves.  
 As mentioned earlier there also exists a uncommon permanently green morph.
 
+#### Variation Macroscopic Pictures { .collapse }
+
+Here are some variations for what you can expect when looking for S. annulatum. All of the ones pictured are non-permanent variations which changes depending on the season, the "dry-wet" gradient and the "poor-rich" gradient.
+
+<img src="annulatum-portrait.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-1.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-2.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-3.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-4.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-5.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-6.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-7.jpg" loading="lazy" />
+
 ### Habitat { .collapse }
 
 Acts as a reliable indicator of minerothrophic wetlands. Not found in ombrotrophic bogs.  
