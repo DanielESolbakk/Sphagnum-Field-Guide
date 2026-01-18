@@ -35,18 +35,23 @@ title: Sphagnum annulatum
 <a id="general"></a>
 ### General
 
-Sphagnum annulatum is a fairly phenorigid species. But still varying from **small to moderately robust**, from green, **yellow** to **chestnut-brown** to some-times orange-brown to red-brown, glossy looking when moist. On rare occasions, a completely green color variant may occur.  
+Sphagnum annulatum is relatively constant in both macroscopic and microscopic characters. But is still varying from **small to moderate**, from green, **yellow** to **chestnut-brown** to sometimes orange-brown or red-brown. It's always glossy looking when moist (due to the many pores in its branch leaves). A completely green color variant exists but is rare.  
 
-- Very prominent top bud which is never hidden by its inner capitulum branches
-- Most often has a clearly star shaped capitulum
-- Brown or orange coloured
-- Pale stem with longer than wide stem leaves which stick out from the stem
-- Clearly shorter branch leaves at the base of the divergent branches, which gradually grows longer towards the middle of the branch
+Commonly it has:
+
+- A very prominent top bud which is never hidden by its inner capitulum branches
+- A clearly star shaped capitulum
+- A brown or orange colour
+- A mostly pale stem with longer than wide stem leaves, which stick out from the stem
+- Divergent branches with very short leaves at the base
+- Branch leaves which are unranked and erecto-patent to imbricate in arrangement
+- Branch leaf hyaline cells very porose and in rows of one to two throughout and on both sides of the leaf
+- Undifferentiated stem cortex
 
 <a id="capitulum"></a>
 ### {% include tooltip.html term="capitulum" text="Capitulum" %}
 
-{% include tooltip.html term="capitulum" text="Capitulum" %} slightly to distinctly 5-radiate; **outer branches straight to somewhat laterally curved (as viewed from above) and distinctly arcuato-decurved (as viewed from the side);** relatively thick in their middle part and fairly abruptly tapering at the distal end; inner branches erect; **terminal bud conspicuous, usually longer than or as long as the inner branches of the capitulum and not concealed by them;** male capitulum during autumn strongly convex, with comparatively short and clavate outer antheridial branches.
+The {% include tooltip.html term="capitulum" text="capitulum" %}forms a slightly to distinctly stellate head. When viewed from above the **outer branches are straight to somewhat laterally curved**. And when viewed from the side they are **distinctly {% include tooltip.html term="arcuato decurved" text="arcuato-decurved" %}**. The {% include tooltip.html term="apical bud" text="apical bud" %}is well developed and usually **equals or exceeds the inner branches in length, remaining clearly exposed rather than concealed**. In male plants during autumn, the capitulum becomes strongly convex and bears short, {% include tooltip.html term="clavate" text="clavate" %}antheridial branches.
 
 <a id="branches"></a>
 ### Branches
