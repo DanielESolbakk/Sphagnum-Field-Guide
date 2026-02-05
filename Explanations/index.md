@@ -144,14 +144,14 @@ It's not just the shape and size of the stem leaves that you can use for identif
 
 In Sphagnum both branch and stem leaves both consists of two types of cells. You can easily see these under the microscope and they're often used for identifying certain sphagnum species.
 
-1. {% include tooltip.html term="hyalocyst(s)" text="Hyaline cells" %}: Transparent cells which store water and are explained more in detail below.
+1. {% include tooltip.html term="hyalocyst" text="Hyaline cells" %}: Transparent cells which store water and are explained more in detail below.
 2. {% include tooltip.html term="chlorocyst" text="Chlorocysts" %}: Cells that have chlorophyll and give the sphagnum their colour.
 
 <img src="branch-leaf-details-palustre (2).jpg" loading="lazy" alt="branch-leaf-details-palustre (2).jpg"/>
 ↑ Sphagnum palustre, notice the seethrough large cells (hyaline cells) that are criss crossed by thin lines which are called fibrils (not a type of cell). The darker (they're green) and slender lines, which seem to envelop the seethrough cells, are chlorocyst cells. Image Source: [ipami](https://www.inaturalist.org/people/ipami) taken from [Inaturalist 02.01.26](https://www.inaturalist.org/observations/321507341), [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), image cropped by me
 
 <img src="branch-leaf-details-palustre (1).jpg" loading="lazy" alt="branch-leaf-details-palustre (1).jpg"/>
-↑ Sphagnum palustre, same plant as above, here you can see a closeup of a picture above. You can clearly see the round {% include tooltip.html term="pore" text="pores" %} in the seethrough {% include tooltip.html term="hyalocyst(s)" text="hyaline cells" %} and the green {% include tooltip.html term="chlorocyst" text="Chlorocysts" %} cells surrounding them. Often the pores are hard to see without staining the cells (or entire branch leaf) with a colourful ink. Image Source: [ipami](https://www.inaturalist.org/people/ipami) taken from [Inaturalist 02.01.26](https://www.inaturalist.org/observations/321507341), [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), image cropped and rotated by me
+↑ Sphagnum palustre, same plant as above, here you can see a closeup of a picture above. You can clearly see the round {% include tooltip.html term="pore" text="pores" %} in the seethrough {% include tooltip.html term="hyalocyst" text="hyaline cells" %} and the green {% include tooltip.html term="chlorocyst" text="Chlorocysts" %} cells surrounding them. Often the pores are hard to see without staining the cells (or entire branch leaf) with a colourful ink. Image Source: [ipami](https://www.inaturalist.org/people/ipami) taken from [Inaturalist 02.01.26](https://www.inaturalist.org/observations/321507341), [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), image cropped and rotated by me
 
 ### Hyaline cells and {% include tooltip.html term="pore" text="pores" %}
 TODO

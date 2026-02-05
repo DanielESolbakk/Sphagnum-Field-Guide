@@ -53,7 +53,7 @@ Commonly it has:
 <a id="capitulum"></a>
 ### {% include tooltip.html term="capitulum" text="Capitulum" %}
 
-The {% include tooltip.html term="capitulum" text="capitulum" %}forms a slightly to distinctly stellate head. When viewed from above the **outer branches are straight to somewhat laterally curved**. And when viewed from the side they are **distinctly {% include tooltip.html term="arcuato decurved" text="arcuato-decurved" %}**. The {% include tooltip.html term="apical bud" text="apical bud" %}is well developed and usually **equals or exceeds the inner branches in length, remaining clearly exposed rather than concealed**. In male plants during autumn, the capitulum becomes strongly convex and bears short, {% include tooltip.html term="clavate" text="clavate" %}antheridial branches.
+The {% include tooltip.html term="capitulum" text="capitulum" %}forms a slightly to distinctly {% include tooltip.html term="stellate" text="stellate" %} head. When viewed from above the **outer branches are straight to somewhat laterally curved**. And when viewed from the side they are **distinctly {% include tooltip.html term="arcuato decurved" text="arcuato-decurved" %}**. The {% include tooltip.html term="apical bud" text="apical bud" %}is well developed and usually **equals or exceeds the inner branches in length, remaining clearly exposed rather than concealed**. In male plants during autumn, the capitulum becomes strongly convex and bears short, {% include tooltip.html term="clavate" text="clavate" %}antheridial branches.
 
 <a id="branches"></a>
 ### Branches
@@ -61,7 +61,7 @@ The {% include tooltip.html term="capitulum" text="capitulum" %}forms a slightly
 Fascicles are usually situated loosely on the stem. Most of them carry two divergent branches with one or two pendent branches that most often stick a little out from the stem.  
 
 The **divergent branches often curve towards the ground and tend to be thickest at the middle section of the branch.** The branch axis is often slightly reddish near the base.  
-Along a divergent branch the branch leaves near the proximal end are **much shorter than those in the middle**, where they are broadly ovate-lanceolate, and in *S. annulatum* these tiny leaves is often very noticable (with a loupe). **Divergent branch leaves are unranked and can range from erecto-patent to commonly clearly imbricate.** Sometimes with **few to many leaves appearing straight to very subsecund.**  
+Along a divergent branch the branch leaves near the proximal end are **much shorter than those in the middle**, where they are broadly ovate-lanceolate, and in *S. annulatum* these tiny leaves is often very noticable (with a loupe). **Divergent branch leaves are unranked and can range from erecto-patent to commonly clearly imbricate.** Sometimes with **few to many leaves appearing straight to very {% include tooltip.html term="subsecund" text="subsecund" %}.**  
 
 The pendent branches are normally more slender and shorter than the divergent branches.  
 
@@ -76,7 +76,7 @@ The pendent branches are normally more slender and shorter than the divergent br
 ### Variation
 
 In the field it behaves as a fairly phenorigid species. Both the macroscopic and microscopic characters stay quite constant for a sphagnum species. Within mires it usually occupies only a short bit of the "dry-wet" ecogradient. Under its ordinary minerotrophic mire conditions the plants are mostly medium sized and **chestnut-brown**, as seen in the images at the top of this page. The capitulum branches look relatively straight when viewed from above.  
-In fen vegetation, especially in subalpine and alpine areas, plants are often dark orange to red-brown with a more strongly curved capitulum and more imbricate divergent branch leaves.  
+In {% include tooltip.html term="fen" text="fen" %} vegetation, especially in subalpine and alpine areas, plants are often dark orange to red-brown with a more strongly curved capitulum and more imbricate divergent branch leaves.  
 There also exists a very rare permanently green morph.
 
 <a id="variation-macro-pictures"></a>
@@ -105,10 +105,10 @@ Below are some examples of how *S. annulatum* can look in the field. All of the 
 <a id="habitat"></a>
 ### Habitat { .collapse }
 
-*S. annulatum* works as an indicator of minerotrophic wetlands, and it is not found in ombrotrophic bogs.  
+*S. annulatum* works as an indicator of {% include tooltip.html term="minerotrophic peatland" text="minerotrophic wetlands" %}, and it is not found in {% include tooltip.html term="ombrotrophic peatland" text="ombrotrophic bogs" %}.  
 
-The species is predominantly a mire plant. In Norway it also turns up in subalpine and low alpine areas, where it can grow in spring and snow-bed vegetation on very shallow peat. It is only found in minerotrophic conditions. It is most typical of sloping fens, but can also occur in topogenous fens.  
-Along the "poor-rich" vegetation gradient its ecological range is fairly narrow: it is found mainly in **intermediate fens**, occasionally in transitional poor fens and only rarely in rich fens. On the "hummock-mud-bottom" vegetation gradient it usually forms high-level carpets and **lawns**; it is less often seen in wetter carpets and only seldom at the beginning of the hummock level.  
+The species is predominantly a {% include tooltip.html term="mire" text="mire" %} plant. In Norway it also turns up in subalpine and low alpine areas, where it can grow in spring and snow-bed vegetation on very shallow peat. It is only found in minerotrophic conditions. It is most typical of sloping {% include tooltip.html term="fen" text="fens" %}, but can also occur in topogenous fens.  
+Along the "poor-rich" vegetation gradient its ecological range is fairly narrow: it is found mainly in **intermediate fens**, occasionally in transitional poor fens and only rarely in rich fens. On the "hummock-mud-bottom" vegetation gradient it usually forms high-level carpets and {% include tooltip.html term="lawn" text="lawns" %}; it is less often seen in wetter carpets and only seldom at the beginning of the hummock level.  
 
 <img src="20250720_164130.jpg" loading="lazy" />
 
