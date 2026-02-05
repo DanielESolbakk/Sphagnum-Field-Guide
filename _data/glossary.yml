@@ -34,7 +34,7 @@
 "erect": "with the distal end pointing towards apex of axis (used of branches or leaves)"
 "erose": "irregularly notched"
 "eroded": "worn away. Referring to the tips of the stem leaves, irregularly torn or notched"
-"eutrophic": "with abundant mineral ions and hence of high nutrient status; usually with a pH reaction which is ± neutral or slightly basic"
+"eutrophic": "Wetland or water body with relatively high nutrient availability and productivity; in fens this is the nutrient-rich end of the gradient",
 "evanescent": "disappearing abruptly or quickly"
 "exposure": "(of photosynthetic leaf cells) reaching the surface of the leaf and not occluded by adjacent hyaline cells"
 "fascicle": "tuft or group of branches originating at the same point on a stem"
@@ -63,11 +63,11 @@
 "lumen": "cell cavity"
 "lyrate": "lyre-shaped: waisted"
 "membrane gap": "Hole formed by resorption of part of hyaline cell wall: usually rather irregular in shape but sometimes more regular and resembling a large pore"
-"mesotrophic": "with intermediate concentrations of mineral ions, and hence of moderate nutrient status: usually weakly acid"
+"mesotrophic": "Wetland or water body with intermediate nutrient status and productivity, between oligotrophic and eutrophic conditions",
 "minerotrophic": "supplied by groundwater draining from mineral soil or rock"
 "mire": "Wetland with at least some peat and living peat-forming plants; peat may be shallower than the depth often required to classify a site as peatland"
 "monoecious": "with archegonia and antheridia on the same plant, often on the same stem"
-"oligotrophic": "with few mineral ions and so of low nutrient status: usually distinctly acid"
+"oligotrophic": "Wetland or water body with low nutrient availability and productivity; in peatlands this often applies to bogs and poor fens",
 "ombrotrophic": "Describes peatland surfaces nourished almost entirely by rain and snow, with little or no groundwater influence, leading to acidic, nutrient-poor conditions"
 "ovate": "egg-shaped: widest near the base and narrowed above"
 "pallid": "pale"
@@ -148,6 +148,9 @@
 "falcate": "Curved like the blade of a sickle or a scythe"
 "fasciculated branches": "Each fascicle normally consists of both spreading (divergent) and pendent (appressed to the stem) branches"
 "fen": "Minerotrophic peatland fed by groundwater or surface inflow from mineral soils, usually with sedges and brown mosses and little or sparse tree cover"
+"poor fen": "Fen with modest base and nutrient supply, chemically and floristically between ombrotrophic bogs and richer fens"
+"intermediate fen": "Fen with moderate base status and species richness, between poor and rich fens along the minerotrophic gradient"
+"rich fen": "Fen with relatively high base saturation and many calciphilous plants; chemically buffered and species-rich but not always strongly nutrient-rich"
 "fimbriate": "Fringed; having edges cut into a fringe"
 "flark": "Elongated, very wet hollow or mud-bottom pool in a patterned fen, usually waterlogged or flooded between slightly raised strings"
 "flora": "All the plants in a given area; also a volume describing each of these plants and used for their identification"
