@@ -100,8 +100,6 @@ Below are some examples of how *S. annulatum* can look in the field. All of the 
 
 <img src="annulatum-portrait-8.jpg" loading="lazy" />
 
-<img src="annulatum-portrait-9.jpg" loading="lazy" />
-
 <img src="annulatum-portrait-10.jpg" loading="lazy" />
 
 <a id="habitat"></a>
@@ -127,7 +125,7 @@ Along the "poor-rich" vegetation gradient its ecological range is fairly narrow:
 <a id="macro-pics"></a>
 ## Macro Pics
 
-<img src="annulatum-capitulum.jpg" loading="lazy" alt="Sphagnum annulatum capitulum" />  
+<img src="annulatum-capitulum.jpg" loading="lazy" />
 
 <img src="annulatum-portrait.jpg" loading="lazy" alt="Whole shoot" />
 
