@@ -48,6 +48,8 @@ Commonly it has:
 - Branch leaf hyaline cells very porose and in rows of one to two throughout and on both sides of the leaf
 - Undifferentiated stem cortex
 
+<img src="annulatum-portrait-11.jpg" loading="lazy" />
+
 <a id="capitulum"></a>
 ### {% include tooltip.html term="capitulum" text="Capitulum" %}
 
@@ -78,7 +80,7 @@ In fen vegetation, especially in subalpine and alpine areas, plants are often da
 There also exists a very rare permanently green morph.
 
 <a id="variation-macro-pictures"></a>
-#### Variation Macroscopic Pictures { .collapse }
+#### Variation - Macroscopic Pictures { .collapse }
 
 Below are some examples of how *S. annulatum* can look in the field. All of the plants shown are non-permanent forms that change with the season, the local "dry-wet" gradient and the "poor-rich" gradient.
 
@@ -95,6 +97,12 @@ Below are some examples of how *S. annulatum* can look in the field. All of the 
 <img src="annulatum-portrait-6.jpg" loading="lazy" />
 
 <img src="annulatum-portrait-7.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-8.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-9.jpg" loading="lazy" />
+
+<img src="annulatum-portrait-10.jpg" loading="lazy" />
 
 <a id="habitat"></a>
 ### Habitat { .collapse }
@@ -121,7 +129,7 @@ Along the "poor-rich" vegetation gradient its ecological range is fairly narrow:
 
 <img src="annulatum-capitulum.jpg" loading="lazy" alt="Sphagnum annulatum capitulum" />  
 
-<img src="annulatum-side-view.jpg" loading="lazy" alt="Whole shoot" />
+<img src="annulatum-portrait.jpg" loading="lazy" alt="Whole shoot" />
 
 <img src="shoot-multiple-2.webp" loading="lazy" alt="Multiple shoots" />  
 ↑ Photo source: Kjell Ivar Flatberg, publisher: NTNU Vitenskapsmuseet, License CC BY 4.0
