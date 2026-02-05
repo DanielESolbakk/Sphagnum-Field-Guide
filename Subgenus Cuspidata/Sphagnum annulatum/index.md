@@ -45,8 +45,8 @@ Commonly it has:
 - A mostly pale stem with longer than wide stem leaves, which stick out from the stem
 - Divergent branches with very short leaves at the base
 - Branch leaves which are unranked and erecto-patent to imbricate in arrangement
-- Branch leaf hyaline cells very porose and in rows of one to two throughout and on both sides of the leaf
-- Undifferentiated stem cortex
+- Branch leaf {% include tooltip.html term="hyalocyst" text="hyaline cells" %} very porose and in rows of one to two throughout and on both sides of the leaf
+- Undifferentiated stem {% include tooltip.html term="cortex" text="cortex" %}
 
 <img src="annulatum-portrait-11.jpg" loading="lazy" />
 
@@ -58,10 +58,10 @@ The {% include tooltip.html term="capitulum" text="capitulum" %}forms a slightly
 <a id="branches"></a>
 ### Branches
 
-Fascicles are usually situated loosely on the stem. Most of them carry two divergent branches with one or two pendent branches that most often stick a little out from the stem.  
+{% include tooltip.html term="fascicle" text="Fascicles" %} are usually situated loosely on the stem. Most of them carry two divergent branches with one or two {% include tooltip.html term="pendent branches" text="pendent branches" %} that most often stick a little out from the stem.  
 
 The **divergent branches often curve towards the ground and tend to be thickest at the middle section of the branch.** The branch axis is often slightly reddish near the base.  
-Along a divergent branch the branch leaves near the proximal end are **much shorter than those in the middle**, where they are broadly ovate-lanceolate, and in *S. annulatum* these tiny leaves is often very noticable (with a loupe). **Divergent branch leaves are unranked and can range from erecto-patent to commonly clearly imbricate.** Sometimes with **few to many leaves appearing straight to very {% include tooltip.html term="subsecund" text="subsecund" %}.**  
+Along a divergent branch the branch leaves near the proximal end are **much shorter than those in the middle**, where they are broadly ovate-lanceolate, and in *S. annulatum* these tiny leaves is often very noticable (with a loupe). **Divergent branch leaves are unranked and can range from erecto-patent to commonly clearly {% include tooltip.html term="imbricate" text="imbricate" %}.** Sometimes with **few to many leaves appearing straight to very {% include tooltip.html term="subsecund" text="subsecund" %}.**  
 
 The pendent branches are normally more slender and shorter than the divergent branches.  
 
@@ -70,7 +70,7 @@ The pendent branches are normally more slender and shorter than the divergent br
 
 **The stem is pale**, sometimes with reddish-orange-lightbrown portions, especially when growing very wet and it being late in the season.  
 
-**The stem leaves are more or less spread away from the stem itself** and are longer than wide. They are lingulate to lingulate-triangular, medium to very curved concavely, and more often than not broadest at or just above the base. The tip is usually acute to a slightly bluntly acute, and only rarely narrowly truncate-erose at the very tip. On male plants the stem leaves are relatively shorter and broader, with a more obtuse apex than in females.  
+**The stem leaves are more or less spread away from the stem itself** and are longer than wide. They are {% include tooltip.html term="lingulate" text="lingulate" %} to lingulate-triangular, medium to very curved concavely, and more often than not broadest at or just above the base. The tip is usually acute to a slightly bluntly acute, and only rarely narrowly truncate-erose at the very tip. On male plants the stem leaves are relatively shorter and broader, with a more obtuse apex than in females.  
 
 <a id="variation"></a>
 ### Variation
@@ -107,8 +107,8 @@ Below are some examples of how *S. annulatum* can look in the field. All of the 
 
 *S. annulatum* works as an indicator of {% include tooltip.html term="minerotrophic peatland" text="minerotrophic wetlands" %}, and it is not found in {% include tooltip.html term="ombrotrophic peatland" text="ombrotrophic bogs" %}.  
 
-The species is predominantly a {% include tooltip.html term="mire" text="mire" %} plant. In Norway it also turns up in subalpine and low alpine areas, where it can grow in spring and snow-bed vegetation on very shallow peat. It is only found in minerotrophic conditions. It is most typical of sloping {% include tooltip.html term="fen" text="fens" %}, but can also occur in topogenous fens.  
-Along the "poor-rich" vegetation gradient its ecological range is fairly narrow: it is found mainly in **intermediate fens**, occasionally in transitional poor fens and only rarely in rich fens. On the "hummock-mud-bottom" vegetation gradient it usually forms high-level carpets and {% include tooltip.html term="lawn" text="lawns" %}; it is less often seen in wetter carpets and only seldom at the beginning of the hummock level.  
+The species is predominantly a {% include tooltip.html term="mire" text="mire" %} plant. In Norway it also turns up in subalpine and low alpine areas, where it can grow in spring and snow-bed vegetation on very shallow peat. It is only found in minerotrophic conditions. It is most typical of sloping {% include tooltip.html term="fen" text="fens" %}, but can also occur in {% include tooltip.html term="topogenous" text="topogenous" %} fens.  
+Along the "poor-rich" vegetation gradient its ecological range is fairly narrow: it is found mainly in **{% include tooltip.html term="intermediate fen" text="intermediate fens" %}**, occasionally in transitional **{% include tooltip.html term="poor fen" text="poor fens" %}** and only rarely in **{% include tooltip.html term="rich fen" text="rich fens" %}**. On the "hummock-mud-bottom" vegetation gradient it usually forms high-level {% include tooltip.html term="carpet" text="carpets" %} and {% include tooltip.html term="lawn" text="lawns" %}; it is less often seen in wetter carpets and only seldom at the beginning of the {% include tooltip.html term="hummock" text="hummock" %} level.  
 
 <img src="20250720_164130.jpg" loading="lazy" />
 
