@@ -10,9 +10,9 @@ title: Sphagnum annulatum
 <img src="sphagnum-annulatum-foto-kjell-i-flatberg-.jpg" alt="Sphagnum annulatum photo by Kjell I. Flatberg" />  
 ↑ Photo source: Kjell Ivar Flatberg, publisher: NTNU Vitenskapsmuseet, License CC BY 4.0
 
-## Contents
-
 <nav class="toc" aria-label="Page contents">
+
+## Contents
 
 - [Description](#description)
   - [General](#general)
@@ -30,8 +30,7 @@ title: Sphagnum annulatum
 </nav>
 
 <a id="description"></a>
-## Description
-<sup><a href="#flatberg1988-annulatum">1</a></sup> | <sup><a href="#flatberg2015-annulatum">2</a></sup> | <sup><a href="#ayotte2020-eastern-canada">3</a></sup> | <sup><a href="#artfakta2026-annulatum">4</a></sup> | <sup><a href="#flatberg2002-norwegian-sphagna">5</a></sup>
+## Description<sup><a href="#flatberg1988-annulatum">1</a></sup> | <sup><a href="#flatberg2015-annulatum">2</a></sup> | <sup><a href="#ayotte2020-eastern-canada">3</a></sup> | <sup><a href="#artfakta2026-annulatum">4</a></sup> | <sup><a href="#flatberg2002-norwegian-sphagna">5</a></sup>
 
 <a id="general"></a>
 ### General
@@ -175,6 +174,8 @@ Along the "poor-rich" vegetation gradient its ecological range is fairly narrow:
 
 <a id="sources"></a>
 ## **Sources: Text & Images**
+
+Sources used in the description of the sphagnum. Pictures are taken by me unless a source is mentioned.
 
 <ol>
   <li id="flatberg1988-annulatum">FLATBERG, K. I. (1988). Taxonomy of Sphagnum annulatum and related species. <em>Annales Botanici Fennici</em>, 25(4), 303–350. <a href="https://www.jstor.org/stable/23725638?read-now=1%3Fread-now%3D1&seq=32" target="_blank">https://www.jstor.org/stable/23725638</a></li>
