@@ -53,7 +53,7 @@ Commonly it has:
 <a id="capitulum"></a>
 ### Capitulum
 
-The capitulum forms a slightly to distinctly {% include tooltip.html term="stellate" text="stellate" %} head. When viewed from above the **{% include tooltip.html term="outer branches" text="outer branches" %} are straight to somewhat laterally curved**. And when viewed from the side they are **distinctly {% include tooltip.html term="arcuato decurved" text="arcuato-decurved" %}**. The {% include tooltip.html term="apical bud" text="apical bud" %}is well developed and usually **equals or exceeds the {% include tooltip.html term="inner branches" text="inner branches" %} in length, remaining clearly exposed rather than concealed**. In male plants during autumn, the capitulum becomes strongly convex and bears short, {% include tooltip.html term="clavate" text="clavate" %} {% include tooltip.html term="antheridial branch" text="antheridial branches" %}.
+The capitulum forms a slightly to distinctly {% include tooltip.html term="stellate" text="stellate" %} head. When viewed from above the <strong>{% include tooltip.html term="outer branches" text="outer branches" %} are straight to somewhat laterally curved</strong>. And when viewed from the side they are <strong>distinctly {% include tooltip.html term="arcuato decurved" text="arcuato-decurved" %}</strong>. The {% include tooltip.html term="apical bud" text="apical bud" %} is well developed and usually <strong>equals or exceeds the {% include tooltip.html term="inner branches" text="inner branches" %} in length, remaining clearly exposed rather than concealed</strong>. In male plants during autumn, the capitulum becomes strongly convex and bears short, {% include tooltip.html term="clavate" text="clavate" %} {% include tooltip.html term="antheridial branch" text="antheridial branches" %}.
 
 <a id="branches"></a>
 ### Branches
@@ -61,7 +61,7 @@ The capitulum forms a slightly to distinctly {% include tooltip.html term="stell
 {% include tooltip.html term="fascicle" text="Fascicles" %} are usually situated loosely on the stem. Most of them carry two divergent branches with one or two {% include tooltip.html term="pendent branches" text="pendent branches" %} that most often stick a little out from the stem.  
 
 The **divergent branches often curve towards the ground and tend to be thickest at the middle section of the branch.** The branch axis is often slightly reddish near the base.  
-Along a divergent branch the branch leaves near the {% include tooltip.html term="proximal" text="proximal" %} end are **much shorter than those in the middle**, where they are broadly {% include tooltip.html term="ovate-lanceolate" text="ovate-lanceolate" %}, and in *S. annulatum* these tiny leaves is often very noticable (with a loupe). **Divergent branch leaves are unranked and can range from erecto-patent to commonly clearly imbricate.** Sometimes with **few to many leaves appearing straight to very {% include tooltip.html term="subsecund" text="subsecund" %}.**  
+Along a divergent branch the branch leaves near the {% include tooltip.html term="proximal" text="proximal" %} end are **much shorter than those in the middle**, where they are broadly {% include tooltip.html term="ovate-lanceolate" text="ovate-lanceolate" %}, and in *S. annulatum* these tiny leaves is often very noticable (with a loupe). **Divergent branch leaves are unranked and can range from erecto-patent to commonly clearly imbricate.** Sometimes with <strong>few to many leaves appearing straight to very {% include tooltip.html term="subsecund" text="subsecund" %}.</strong>  
 
 The pendent branches are normally more slender and shorter than the divergent branches.  
 
@@ -108,7 +108,7 @@ Below are some examples of how *S. annulatum* can look in the field. All of the 
 *S. annulatum* works as an indicator of {% include tooltip.html term="minerotrophic peatland" text="minerotrophic wetlands" %}, and it is not found in {% include tooltip.html term="ombrotrophic peatland" text="ombrotrophic bogs" %}.  
 
 The species is predominantly a mire plant. In Norway it also turns up in subalpine and low alpine areas, where it can grow in spring and {% include tooltip.html term="snow-bed-vegetation" text="snow-bed vegetation" %} on very shallow peat. It is only found in minerotrophic conditions. It is most typical of sloping fens, but can also occur in {% include tooltip.html term="topogenous" text="topogenous" %} fens.  
-Along the "poor-rich" vegetation gradient its ecological range is fairly narrow: it is found mainly in **{% include tooltip.html term="intermediate fen" text="intermediate fens" %}**, occasionally in transitional **{% include tooltip.html term="poor fen" text="poor fens" %}** and only rarely in **{% include tooltip.html term="rich fen" text="rich fens" %}**. On the "hummock-mud-bottom" vegetation gradient it usually forms high-level {% include tooltip.html term="carpet" text="carpets" %} and {% include tooltip.html term="lawn" text="lawns" %}; it is less often seen in wetter carpets and only seldom at the beginning of the {% include tooltip.html term="hummock" text="hummock" %} level.  
+Along the "poor-rich" vegetation gradient its ecological range is fairly narrow: it is found mainly in <strong>{% include tooltip.html term="intermediate fen" text="intermediate fens" %}</strong>, occasionally in transitional <strong>{% include tooltip.html term="poor fen" text="poor fens" %}</strong> and only rarely in <strong>{% include tooltip.html term="rich fen" text="rich fens" %}</strong>. On the "hummock-mud-bottom" vegetation gradient it usually forms high-level {% include tooltip.html term="carpet" text="carpets" %} and {% include tooltip.html term="lawn" text="lawns" %}; it is less often seen in wetter carpets and only seldom at the beginning of the {% include tooltip.html term="hummock" text="hummock" %} level.  
 
 <img src="20250720_164130.jpg" loading="lazy" />
 
@@ -179,7 +179,7 @@ Along the "poor-rich" vegetation gradient its ecological range is fairly narrow:
 # &nbsp; <!-- this ends the "lookalikes" collapse and protects the lower level headers below from the collapse feature -->
 
 <a id="sources"></a>
-## **Sources: Text & Images**
+## <strong>Sources: Text & Images</strong>
 
 Sources used in the description of the sphagnum. Pictures are taken by me unless a source is mentioned.
 
@@ -192,7 +192,7 @@ Sources used in the description of the sphagnum. Pictures are taken by me unless
 </ol>
 
 <a id="additional-images"></a>
-## **Additional Images taken by yours truely** { .collapse } 
+## <strong>Additional Images taken by yours truely</strong> { .collapse } 
 
 <img src="20230617_105027.jpg" loading="lazy" />  
 
