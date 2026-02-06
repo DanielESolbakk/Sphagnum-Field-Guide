@@ -35,25 +35,25 @@ title: Sphagnum annulatum
 <a id="general"></a>
 ### General
 
-Sphagnum annulatum is relatively constant in both macroscopic and microscopic characters. But is still varying from **small to moderate**, from green, **yellow** to **chestnut-brown** to sometimes orange-brown or red-brown. It's always glossy looking when moist (due to the many pores in its branch leaves). A completely green color variant exists but is rare.  
+Sphagnum annulatum is relatively constant in both macroscopic and microscopic characters. But is still varying from **small to moderate**, from green, **yellow** to **chestnut-brown** to sometimes orange-brown or red-brown. It's always glossy looking when moist (due to the many {% include tooltip.html term="pore" text="pores" %} in its branch leaves). A completely green color variant exists but is rare.  
 
 Commonly it has:
 
-- A very prominent top bud which is never hidden by its inner capitulum branches
+- A very prominent top bud which is never hidden by its inner {% include tooltip.html term="capitulum" text="capitulum" %} branches
 - A clearly star shaped capitulum
 - A brown or orange colour
 - A mostly pale stem with longer than wide stem leaves, which stick out from the stem
 - Divergent branches with very short leaves at the base
-- Branch leaves which are unranked and erecto-patent to imbricate in arrangement
-- Branch leaf {% include tooltip.html term="hyalocyst" text="hyaline cells" %} very porose and in rows of one to two throughout and on both sides of the leaf
+- Branch leaves which are unranked and {% include tooltip.html term="erecto-patent" text="erecto-patent" %} to {% include tooltip.html term="imbricate" text="imbricate" %} in arrangement
+- Branch leaf {% include tooltip.html term="hyalocyst" text="hyaline cells" %} very {% include tooltip.html term="porose" text="porose" %} and in rows of one to two throughout and on both sides of the leaf
 - Undifferentiated stem {% include tooltip.html term="cortex" text="cortex" %}
 
 <img src="annulatum-portrait-11.jpg" loading="lazy" />
 
 <a id="capitulum"></a>
-### {% include tooltip.html term="capitulum" text="Capitulum" %}
+### Capitulum
 
-The {% include tooltip.html term="capitulum" text="capitulum" %}forms a slightly to distinctly {% include tooltip.html term="stellate" text="stellate" %} head. When viewed from above the **outer branches are straight to somewhat laterally curved**. And when viewed from the side they are **distinctly {% include tooltip.html term="arcuato decurved" text="arcuato-decurved" %}**. The {% include tooltip.html term="apical bud" text="apical bud" %}is well developed and usually **equals or exceeds the inner branches in length, remaining clearly exposed rather than concealed**. In male plants during autumn, the capitulum becomes strongly convex and bears short, {% include tooltip.html term="clavate" text="clavate" %}antheridial branches.
+The capitulum forms a slightly to distinctly {% include tooltip.html term="stellate" text="stellate" %} head. When viewed from above the **{% include tooltip.html term="outer branches" text="outer branches" %} are straight to somewhat laterally curved**. And when viewed from the side they are **distinctly {% include tooltip.html term="arcuato decurved" text="arcuato-decurved" %}**. The {% include tooltip.html term="apical bud" text="apical bud" %}is well developed and usually **equals or exceeds the {% include tooltip.html term="inner branches" text="inner branches" %} in length, remaining clearly exposed rather than concealed**. In male plants during autumn, the capitulum becomes strongly convex and bears short, {% include tooltip.html term="clavate" text="clavate" %} {% include tooltip.html term="antheridial branch" text="antheridial branches" %}.
 
 <a id="branches"></a>
 ### Branches
@@ -61,7 +61,7 @@ The {% include tooltip.html term="capitulum" text="capitulum" %}forms a slightly
 {% include tooltip.html term="fascicle" text="Fascicles" %} are usually situated loosely on the stem. Most of them carry two divergent branches with one or two {% include tooltip.html term="pendent branches" text="pendent branches" %} that most often stick a little out from the stem.  
 
 The **divergent branches often curve towards the ground and tend to be thickest at the middle section of the branch.** The branch axis is often slightly reddish near the base.  
-Along a divergent branch the branch leaves near the proximal end are **much shorter than those in the middle**, where they are broadly ovate-lanceolate, and in *S. annulatum* these tiny leaves is often very noticable (with a loupe). **Divergent branch leaves are unranked and can range from erecto-patent to commonly clearly {% include tooltip.html term="imbricate" text="imbricate" %}.** Sometimes with **few to many leaves appearing straight to very {% include tooltip.html term="subsecund" text="subsecund" %}.**  
+Along a divergent branch the branch leaves near the {% include tooltip.html term="proximal" text="proximal" %} end are **much shorter than those in the middle**, where they are broadly {% include tooltip.html term="ovate-lanceolate" text="ovate-lanceolate" %}, and in *S. annulatum* these tiny leaves is often very noticable (with a loupe). **Divergent branch leaves are unranked and can range from erecto-patent to commonly clearly imbricate.** Sometimes with **few to many leaves appearing straight to very {% include tooltip.html term="subsecund" text="subsecund" %}.**  
 
 The pendent branches are normally more slender and shorter than the divergent branches.  
 
@@ -75,7 +75,7 @@ The pendent branches are normally more slender and shorter than the divergent br
 <a id="variation"></a>
 ### Variation
 
-In the field it behaves as a fairly phenorigid species. Both the macroscopic and microscopic characters stay quite constant for a sphagnum species. Within mires it usually occupies only a short bit of the "dry-wet" ecogradient. Under its ordinary minerotrophic mire conditions the plants are mostly medium sized and **chestnut-brown**, as seen in the images at the top of this page. The capitulum branches look relatively straight when viewed from above.  
+In the field it behaves as a fairly {% include tooltip.html term="phenorigid" text="phenorigid" %} species. Both the macroscopic and microscopic characters stay quite constant for a sphagnum species. Within {% include tooltip.html term="mire" text="mires" %} it usually occupies only a short bit of the "dry-wet" {% include tooltip.html term="ecogradient" text="ecogradient" %}. Under its ordinary {% include tooltip.html term="minerotrophic" text="minerotrophic" %} mire conditions the plants are mostly medium sized and **chestnut-brown**, as seen in the images at the top of this page. The capitulum branches look relatively straight when viewed from above.  
 In {% include tooltip.html term="fen" text="fen" %} vegetation, especially in subalpine and alpine areas, plants are often dark orange to red-brown with a more strongly curved capitulum and more imbricate divergent branch leaves.  
 There also exists a very rare permanently green morph.
 
@@ -107,7 +107,7 @@ Below are some examples of how *S. annulatum* can look in the field. All of the 
 
 *S. annulatum* works as an indicator of {% include tooltip.html term="minerotrophic peatland" text="minerotrophic wetlands" %}, and it is not found in {% include tooltip.html term="ombrotrophic peatland" text="ombrotrophic bogs" %}.  
 
-The species is predominantly a {% include tooltip.html term="mire" text="mire" %} plant. In Norway it also turns up in subalpine and low alpine areas, where it can grow in spring and snow-bed vegetation on very shallow peat. It is only found in minerotrophic conditions. It is most typical of sloping {% include tooltip.html term="fen" text="fens" %}, but can also occur in {% include tooltip.html term="topogenous" text="topogenous" %} fens.  
+The species is predominantly a mire plant. In Norway it also turns up in subalpine and low alpine areas, where it can grow in spring and {% include tooltip.html term="snow-bed-vegetation" text="snow-bed vegetation" %} on very shallow peat. It is only found in minerotrophic conditions. It is most typical of sloping fens, but can also occur in {% include tooltip.html term="topogenous" text="topogenous" %} fens.  
 Along the "poor-rich" vegetation gradient its ecological range is fairly narrow: it is found mainly in **{% include tooltip.html term="intermediate fen" text="intermediate fens" %}**, occasionally in transitional **{% include tooltip.html term="poor fen" text="poor fens" %}** and only rarely in **{% include tooltip.html term="rich fen" text="rich fens" %}**. On the "hummock-mud-bottom" vegetation gradient it usually forms high-level {% include tooltip.html term="carpet" text="carpets" %} and {% include tooltip.html term="lawn" text="lawns" %}; it is less often seen in wetter carpets and only seldom at the beginning of the {% include tooltip.html term="hummock" text="hummock" %} level.  
 
 <img src="20250720_164130.jpg" loading="lazy" />
