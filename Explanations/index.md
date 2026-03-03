@@ -1,5 +1,13 @@
 # Explanations
 
+## Habitats
+
+TODO
+
+## Colours
+
+Sphagnum comes in a dizzying amount of different colours. Anywhere from seethrough to white to black-ish and anything inbetween. 
+
 ## Growth Patterns
 
 Sphagnum grow upwards or prostrate depending on the relative wetness and species.
@@ -21,7 +29,7 @@ A sphagnum consists of:
 
 ### Capitulum
 
-The head or capitulum of a sphagnum is a cluster of young branches at the top of the stem. As the stem grows the capitulum branches will end up as the adult branches you can spot further down the stem. The capitulum is often star like in shape, especially when viewed from above, and often has a visible top bud. The {% include tooltip.html term="stellate" text="stellateness" %} of the capitulum is often used as an identifying trait for certain species. The top bud or lack thereof, as well as how the capitulum branches rotate and curve is often a very useful identifying trait for certain species.  
+The head or capitulum of a sphagnum is a cluster of young branches at the top of the stem. As the stem grows the capitulum branches will end up as the adult branches you can spot further down the stem. The capitulum is often star like in shape, especially when viewed from above, and often has a visible top bud. The {% include tooltip.html term="stellate" text="stellateness" %} of the capitulum is often used as an identifying trait for certain species. The top bud or apparent (all sphagnum have a top bud) lack thereof, as well as how the capitulum branches rotate and curve is often a very useful identifying trait for certain species.  
 Some species like S. annulatum always has a prominent top bud whereas a species like S. cuspidatum almost never has a visible top bud. It makes sense then that S. majus, which is a hybrid between the two, comes with a top bud visibility which slides to either extreme of the visiblity scale.
 
 <img src="capitulum-majus.jpg" loading="lazy" alt="Sphagnum majus capitulum"/>  
